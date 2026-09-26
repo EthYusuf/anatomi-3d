@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Anatomi3D.AssetBuilder</RootNamespace>
+    <Description>Z-Anatomy GLB kaynaklarından Anatomi 3D model paketini (anatomy.pak) üreten çevrim dışı araç.</Description>
+    <ServerGarbageCollection>true</ServerGarbageCollection>
+    <TieredPGO>true</TieredPGO>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SharpGLTF.Core" Version="1.0.7" />
+    <ProjectReference Include="..\..\src\Anatomi3D.Core\Anatomi3D.Core.csproj" />
+  </ItemGroup>
+
+</Project>
