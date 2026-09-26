@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.glb binary
+*.jpg binary
+*.png binary
+*.gif binary
+*.svg text

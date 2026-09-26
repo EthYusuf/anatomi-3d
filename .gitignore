@@ -1,0 +1,21 @@
+# Bağımlılıklar ve derleme çıktıları
+node_modules/
+dist/
+*.tsbuildinfo
+.vite/
+
+# Ham kaynak veri (Z-Anatomy FBX/GLB, BodyParts3D arşivi) — boyutları çok büyük, kaynaklarından indirilir
+_raw/
+
+# Ekran görüntüsü betiğinin ara kareleri (GIF'ler bunlardan üretilir)
+docs/frames/
+
+# Eski baş modeli (BodyParts3D) hattı — artık kullanılmıyor
+tools/build_model.py
+
+# Sistem / editör
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
