@@ -84,7 +84,7 @@
 |---|---|
 | İşletim sistemi | Windows 10 veya 11, 64 bit |
 | Ekran kartı | DirectX 11 (özellik düzeyi 11.0) destekli; harici ekran kartı önerilir |
-| Disk | ~250 MB |
+| Disk | ~150 MB |
 
 Birden fazla ekran kartı olan dizüstü bilgisayarlarda uygulama harici kartı kendiliğinden seçer; tümleşik kartı zorlamak için `Anatomi3D.exe --gpu integrated`.
 
@@ -119,10 +119,10 @@ dotnet run --project src/Anatomi3D.Desktop -c Release
 
 Model paketi (`data/anatomy.pak`) boyutu nedeniyle Git deposunda değil, [sürümlerde](https://github.com/EthYusuf/anatomi-3d/releases) yayınlanır; betik paketi indirip SHA-256 ile doğrular. `data/` klasörü derleme sırasında çıktı klasörüne kopyalanır, bu yüzden `data/content/` altındaki bilgi dosyalarını değiştirdikten sonra yeniden derleyin.
 
-Tek klasörde çalışan (bağımsız) paket üretmek için:
+Sürüm paketini (tek `Anatomi3D.exe` + `Data` klasörü, .NET çalışma zamanı dahil; zip ve SHA-256 dosyalarıyla) `artifacts/` altına üretmek için:
 
 ```powershell
-dotnet publish src/Anatomi3D.Desktop -c Release -r win-x64 --self-contained -o artifacts/Anatomi3D
+powershell -ExecutionPolicy Bypass -File tools\paketle.ps1
 ```
 
 <details>
@@ -240,6 +240,7 @@ anatomi-3d/
 ├── tools/
 │   ├── Anatomi3D.AssetBuilder/  # Z-Anatomy → data/anatomy.pak
 │   ├── veri-indir.ps1           # model paketini sürümlerden indirir
+│   ├── paketle.ps1              # indirilebilir sürüm paketini üretir
 │   └── *.mjs, make_gifs.py      # web sürümünün model hattı ve görsel araçları
 ├── data/
 │   ├── content/               # Türkçe adlar ve bilgi bankası (JSON)
