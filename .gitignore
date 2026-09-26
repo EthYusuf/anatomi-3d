@@ -1,8 +1,23 @@
-# Bağımlılıklar ve derleme çıktıları
+# Bağımlılıklar ve derleme çıktıları (web)
 node_modules/
 dist/
 *.tsbuildinfo
 .vite/
+
+# .NET derleme çıktıları ve IDE dosyaları
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.rsuser
+TestResults/
+artifacts/
+
+# Model paketi: ~63 MB, GitHub sürümlerinden indirilir (tools/veri-indir.ps1)
+# veya tools/Anatomi3D.AssetBuilder ile üretilir
+data/*.pak
+data/*.pak.part
 
 # Ham kaynak veri (Z-Anatomy FBX/GLB, BodyParts3D arşivi) — boyutları çok büyük, kaynaklarından indirilir
 _raw/

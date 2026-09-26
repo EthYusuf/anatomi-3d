@@ -1,6 +1,18 @@
 * text=auto eol=lf
+
+# Windows'a özgü metin dosyaları
+*.sln text eol=crlf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+
+# İkili dosyalar
 *.glb binary
+*.pak binary
+*.ico binary
 *.jpg binary
 *.png binary
 *.gif binary
+*.zip binary
+*.dll binary
+*.exe binary
 *.svg text
