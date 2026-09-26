@@ -3,6 +3,13 @@
 Bu dosyadaki biçim [Keep a Changelog](https://keepachangelog.com/tr-TR/1.1.0/) önerilerine, sürüm numaraları
 [Anlamsal Sürümleme](https://semver.org/lang/tr/) kurallarına uyar.
 
+## [Yayımlanmamış]
+
+### Düzeltildi
+
+- `tools/veri-indir.ps1`: Windows PowerShell 5.1'de SHA-256 özet dosyası metin yerine bayt dizisi olarak okunduğu için
+  doğrulama başarısız oluyordu; özet dosyası artık diske indirilip okunuyor.
+
 ## [2.0.0] — 2026-09-27
 
 Anatomi 3D, C# (.NET 8) ve Direct3D 11 ile Windows masaüstü uygulaması olarak yeniden yazıldı.
@@ -41,5 +48,6 @@ Anatomi 3D, C# (.NET 8) ve Direct3D 11 ile Windows masaüstü uygulaması olarak
 - Tarayıcıda çalışan tam vücut 3D anatomi atlası (React 19, React Three Fiber, Three.js): ~2.950 yapı, çift tıklayarak
   diseksiyon, prosedürel dokular, canlı fizyoloji, X-ray, kesitler, Türkçe/Latince/İngilizce adlar, quiz ve mobil uyum.
 
+[Yayımlanmamış]: https://github.com/EthYusuf/anatomi-3d/compare/v2.0.0...main
 [2.0.0]: https://github.com/EthYusuf/anatomi-3d/releases/tag/v2.0.0
 [1.0.0]: https://github.com/EthYusuf/anatomi-3d/commit/cc27861
