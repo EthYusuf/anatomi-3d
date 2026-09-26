@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Anatomi3D.Graphics</RootNamespace>
+    <Description>Anatomi 3D Direct3D 11 render motoru: PBR, gölgeler, SSAO, tesselasyon, sıra bağımsız saydamlık, son işlem.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Vortice.Direct3D11" Version="3.8.3" />
+    <PackageReference Include="Vortice.DXGI" Version="3.8.3" />
+    <PackageReference Include="Vortice.D3DCompiler" Version="3.8.3" />
+    <ProjectReference Include="..\Anatomi3D.Core\Anatomi3D.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Shaders\*.hlsl;Shaders\*.hlsli" LogicalName="Shaders.%(Filename)%(Extension)" />
+  </ItemGroup>
+
+</Project>

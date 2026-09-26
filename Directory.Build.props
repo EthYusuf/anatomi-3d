@@ -1,0 +1,21 @@
+<Project>
+  <!-- Tüm C# projeleri için ortak derleme ayarları -->
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Deterministic>true</Deterministic>
+    <InvariantGlobalization>false</InvariantGlobalization>
+    <SatelliteResourceLanguages>tr;en</SatelliteResourceLanguages>
+    <Company>Anatomi 3D</Company>
+    <Product>Anatomi 3D</Product>
+    <Copyright>© 2026 Muhammed Yusuf Adın</Copyright>
+    <Version>2.0.0</Version>
+    <PlatformTarget>x64</PlatformTarget>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>false</SelfContained>
+    <DebugType>portable</DebugType>
+    <NoWarn>$(NoWarn);CA1416</NoWarn>
+  </PropertyGroup>
+</Project>

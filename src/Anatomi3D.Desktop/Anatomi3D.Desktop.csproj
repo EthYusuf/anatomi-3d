@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Anatomi3D.Desktop</RootNamespace>
+    <AssemblyName>Anatomi3D</AssemblyName>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>Assets\anatomi3d.ico</ApplicationIcon>
+    <Description>Anatomi 3D — profesyonel etkileşimli 3D anatomi atlası</Description>
+    <TieredPGO>true</TieredPGO>
+    <ServerGarbageCollection>false</ServerGarbageCollection>
+    <ConcurrentGarbageCollection>true</ConcurrentGarbageCollection>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ImGui.NET" Version="1.91.6.1" />
+    <ProjectReference Include="..\Anatomi3D.Core\Anatomi3D.Core.csproj" />
+    <ProjectReference Include="..\Anatomi3D.Graphics\Anatomi3D.Graphics.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Model paketi ve içerik: çıktı klasöründe Data/ altına kopyalanır -->
+    <None Include="..\..\data\**\*" Link="Data\%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>

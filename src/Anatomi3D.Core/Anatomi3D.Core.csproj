@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Anatomi3D.Core</RootNamespace>
+    <Description>Anatomi 3D çekirdek kitaplığı: model paketi, anatomik veri, arama, içerik ve uygulama durumu (grafik API'sinden bağımsız).</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Yerel meshoptimizer.dll (MIT) — paketin yalnız yerel kitaplığı kullanılır, çağrılar Native/Meshopt.cs'de -->
+    <PackageReference Include="Meshoptimizer.NET" Version="1.0.7" />
+  </ItemGroup>
+
+</Project>
