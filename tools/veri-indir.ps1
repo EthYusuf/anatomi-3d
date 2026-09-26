@@ -41,7 +41,11 @@ Write-Host "İndiriliyor: $taban/anatomy.pak"
 Invoke-WebRequest -Uri "$taban/anatomy.pak" -OutFile $gecici -UseBasicParsing
 
 Write-Host "Doğrulanıyor (SHA-256)..."
-$beklenen = ((Invoke-WebRequest -Uri "$taban/anatomy.pak.sha256" -UseBasicParsing).Content | Out-String).Trim().Split(" ")[0].ToLowerInvariant()
+# Özet dosyası diske indirilip okunur: Windows PowerShell 5.1, ikili içerik türündeki yanıtları metin yerine bayt dizisi döndürür
+$ozetDosyasi = "$hedef.sha256.part"
+Invoke-WebRequest -Uri "$taban/anatomy.pak.sha256" -OutFile $ozetDosyasi -UseBasicParsing
+$beklenen = ((Get-Content $ozetDosyasi -Raw).Trim() -split '\s+')[0].ToLowerInvariant()
+Remove-Item $ozetDosyasi -Force
 $gercek = (Get-FileHash -Algorithm SHA256 $gecici).Hash.ToLowerInvariant()
 if ($beklenen -ne $gercek) {
     Remove-Item $gecici -Force
