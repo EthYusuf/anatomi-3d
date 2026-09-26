@@ -20,8 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <!-- Model paketi ve içerik: çıktı klasöründe Data/ altına kopyalanır -->
-    <None Include="..\..\data\**\*" Link="Data\%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" />
+    <!-- Model paketi ve içerik: çıktı klasöründe Data/ altına kopyalanır; tek dosya yayınında exe'ye gömülmez -->
+    <None Include="..\..\data\**\*" Link="Data\%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
   </ItemGroup>
 
 </Project>

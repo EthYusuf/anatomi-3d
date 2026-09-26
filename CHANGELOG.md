@@ -24,6 +24,7 @@ Anatomi 3D, C# (.NET 8) ve Direct3D 11 ile Windows masaüstü uygulaması olarak
   görüntüsü (F12), yön göstergesi.
 - `--content-report` ile içerik kapsama raporu; `--script` ile görsel test ve belge görseli otomasyonu.
 - `tools/veri-indir.ps1`: model paketini sürümlerden indirip SHA-256 ile doğrulayan betik.
+- `tools/paketle.ps1`: tek exe + `Data` klasöründen oluşan, .NET çalışma zamanını içeren sürüm paketini (zip + SHA-256) üreten betik.
 
 ### Değişti
 
