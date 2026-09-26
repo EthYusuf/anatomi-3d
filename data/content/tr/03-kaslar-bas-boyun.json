@@ -1,0 +1,820 @@
+{
+  "_aciklama": "Baş ve boyun kasları: mimik, çiğneme, göz dışı, dil ve damak, boyun, dil kemiği üstü/altı, gırtlak ve yutak kasları",
+
+  "Frontalis muscle": {
+    "tr": "Alın kası (venter frontalis)",
+    "ozet": "Oksipitofrontal kasın ön karnı; kaşları kaldırır ve alında yatay kırışıklıklar oluşturur.",
+    "bilgi": [
+      ["Origo", "Epikraniyal aponevroz (galea aponeurotica)"],
+      ["İnsersiyo", "Kaş ve alın derisi; orbikülaris okuli, proserus ve korrugatör liflerine karışır"],
+      ["İnnervasyon", "Yüz siniri (n. facialis, CN VII) — temporal dallar"],
+      ["Kanlanma", "Supraorbital ve supratroklear arterler, yüzeyel temporal arter"],
+      ["Fonksiyon", "Kaşları kaldırır, alın derisini kırıştırır (şaşkınlık ifadesi); saçlı deriyi öne çeker"]
+    ],
+    "klinik": "Yüz siniri felcinde (ör. Bell paralizisi) etkilenen tarafta alın kırıştırılamaz; merkezi (üst motor nöron) felçte alın kası iki taraflı kortikal kontrol nedeniyle korunur — ayırıcı tanıda önemlidir.",
+    "durum": "taslak"
+  },
+
+  "Occipitalis muscle": {
+    "tr": "Art kafa kası (venter occipitalis)",
+    "ozet": "Oksipitofrontal kasın arka karnı; saçlı deriyi geriye çeker.",
+    "bilgi": [
+      ["Origo", "Linea nuchalis superior'un dış üçte ikisi ve temporal kemiğin mastoid bölümü"],
+      ["İnsersiyo", "Epikraniyal aponevroz"],
+      ["İnnervasyon", "Yüz siniri — arka kulak (n. auricularis posterior) dalı"],
+      ["Kanlanma", "Oksipital ve arka kulak arterleri"],
+      ["Fonksiyon", "Saçlı deriyi geriye çeker; frontal kasla birlikte alın kırışıklığını destekler"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Temporoparietalis muscle": {
+    "tr": "Temporoparietal kas",
+    "ozet": "Epikraniyus kasının kulak üstündeki ince, değişken bölümü.",
+    "bilgi": [
+      ["Origo", "Kulak kepçesinin üstündeki temporal fasya"],
+      ["İnsersiyo", "Epikraniyal aponevrozun yan kenarı"],
+      ["İnnervasyon", "Yüz siniri — temporal dallar"],
+      ["Fonksiyon", "Saçlı deriyi gerer, kulak kepçesini hafifçe yukarı çeker"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Epicranial aponeurosis": {
+    "tr": "Epikraniyal aponevroz (galea aponeurotica)",
+    "ozet": "Frontal ve oksipital kas karınlarını birbirine bağlayan, kafatası tavanını örten sağlam tendinöz tabaka; saçlı derinin üçüncü katmanıdır.",
+    "bilgi": [
+      ["Konum", "Saçlı derinin katmanları: deri, sıkı bağ dokusu, aponevroz, gevşek areolar doku, perikranyum (SCALP)"],
+      ["Bağlantılar", "Önde frontal, arkada oksipital kas; yanlarda temporal fasya"]
+    ],
+    "klinik": "Aponevroz enine kesilirse kasların çekmesiyle yara ağzı açılır ve dikiş gerekir. Altındaki gevşek areolar tabaka 'tehlikeli bölge'dir: kan ve enfeksiyon kolayca yayılır, emissar venler yoluyla kafa içine ulaşabilir. Subgaleal kanama yenidoğanlarda ciddi kan kaybına yol açabilir.",
+    "durum": "taslak"
+  },
+
+  "Orbicularis oculi muscle": {
+    "tr": "Göz halka kası (m. orbicularis oculi)",
+    "ozet": "Göz kapaklarını kapatan, göz çukurunu çevreleyen halka biçimli kas; orbital, palpebral ve lakrimal bölümlerden oluşur.",
+    "bilgi": [
+      ["Origo", "Frontal kemiğin nazal bölümü, maksillanın frontal çıkıntısı, medial palpebral bağ, lakrimal kemik"],
+      ["İnsersiyo", "Orbita çevresi derisi, üst ve alt tarsal plaklar, lateral palpebral rafe"],
+      ["İnnervasyon", "Yüz siniri — temporal ve zigomatik dallar"],
+      ["Kanlanma", "Fasiyal, yüzeyel temporal arter dalları ve oftalmik arter dalları"],
+      ["Fonksiyon", "Palpebral bölüm kapakları hafifçe kapatır (göz kırpma, uyku); orbital bölüm sıkıca kapatır (gözleri kısma); lakrimal bölüm gözyaşı drenajına yardım eder"]
+    ],
+    "klinik": "Yüz siniri felcinde göz kapanamaz (lagoftalmi); kornea kurur ve ülserleşebilir. Alt kapak sarkar (ektropiyon), gözyaşı yanaktan akar (epifora). Blefarospazm bu kasın istemsiz kasılmasıdır; botulinum toksiniyle tedavi edilir.",
+    "durum": "taslak"
+  },
+
+  "Corrugator supercilii": {
+    "tr": "Kaş çatıcı kas (m. corrugator supercilii)",
+    "ozet": "Kaşların iç uçlarını aşağı ve içe çekerek burun kökünün üstünde dikey kırışıklıklar oluşturan küçük kas.",
+    "bilgi": [
+      ["Origo", "Arcus superciliaris'in iç ucu (frontal kemik)"],
+      ["İnsersiyo", "Kaşın orta bölümünün üstündeki deri"],
+      ["İnnervasyon", "Yüz siniri — temporal dal"],
+      ["Fonksiyon", "Kaşları aşağı-içe çeker (kaş çatma, güneşten korunma)"]
+    ],
+    "klinik": "Glabellar ('kaş arası') kırışıklıkların estetik tedavisinde botulinum toksininin başlıca hedefidir.",
+    "durum": "taslak"
+  },
+
+  "Procerus muscle": {
+    "tr": "Proserus kası (m. procerus)",
+    "ozet": "Burun kemiğinin üzerinde, kaşların arasında uzanan küçük piramit biçimli kas.",
+    "bilgi": [
+      ["Origo", "Burun kemiğini ve üst yan burun kıkırdağını örten fasya"],
+      ["İnsersiyo", "Kaşlar arasındaki alın derisi"],
+      ["İnnervasyon", "Yüz siniri — temporal ve alt zigomatik / bukkal dallar"],
+      ["Fonksiyon", "Kaşların iç uçlarını aşağı çeker, burun kökünde yatay kırışıklık oluşturur"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Nasalis muscle": {
+    "tr": "Burun kası (m. nasalis)",
+    "ozet": "Burun deliklerini daraltan (enine bölüm) ve genişleten (kanat bölümü) kas.",
+    "bilgi": [
+      ["Origo", "Kesici ve köpek dişlerinin üstünde maksilla"],
+      ["İnsersiyo", "Enine bölüm: burun sırtındaki aponevroz; kanat bölümü: büyük kanat kıkırdağı"],
+      ["İnnervasyon", "Yüz siniri — bukkal dallar"],
+      ["Fonksiyon", "Enine bölüm burun deliğini daraltır; kanat bölümü burun kanadını genişletir (derin nefes, solunum sıkıntısı)"]
+    ],
+    "klinik": "Burun kanadı solunumu (burun kanatlarının solunumla açılıp kapanması) çocuklarda solunum sıkıntısının önemli bir bulgusudur.",
+    "durum": "taslak"
+  },
+
+  "Depressor septi nasi": {
+    "tr": "Burun bölmesi indirici kası (m. depressor septi nasi)",
+    "ozet": "Burun ucunu ve bölmesini aşağı çeken küçük kas.",
+    "bilgi": [
+      ["Origo", "Orta kesici dişin üstündeki fossa incisiva (maksilla)"],
+      ["İnsersiyo", "Burun septumunun hareketli bölümü ve burun kanadı"],
+      ["İnnervasyon", "Yüz siniri — bukkal dallar"],
+      ["Fonksiyon", "Burnu aşağı çeker, burun deliğini daraltır; gülümserken burun ucunun düşmesine katkı verir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Levator nasolabialis": {
+    "tr": "Üst dudak ve burun kanadını kaldıran kas (m. levator labii superioris alaeque nasi)",
+    "ozet": "Burun kenarı boyunca uzanan, üst dudağı kaldıran ve burun deliğini genişleten kas.",
+    "bilgi": [
+      ["Origo", "Maksillanın frontal çıkıntısı"],
+      ["İnsersiyo", "Büyük kanat kıkırdağı ve üst dudak derisi"],
+      ["İnnervasyon", "Yüz siniri — zigomatik ve bukkal dallar"],
+      ["Fonksiyon", "Üst dudağı kaldırır, burun deliğini genişletir (burun kıvırma ifadesi)"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Levator labii superioris": {
+    "tr": "Üst dudak kaldırıcı kas (m. levator labii superioris)",
+    "ozet": "Göz çukurunun alt kenarından üst dudağa uzanan yassı kas; nazolabiyal oluğu derinleştirir.",
+    "bilgi": [
+      ["Origo", "Foramen infraorbitale'nin hemen üstünde orbita alt kenarı (maksilla)"],
+      ["İnsersiyo", "Üst dudak derisi ve kası"],
+      ["İnnervasyon", "Yüz siniri — zigomatik ve bukkal dallar"],
+      ["Fonksiyon", "Üst dudağı kaldırır ve dışa çevirir; nazolabiyal oluğu derinleştirir (hüzün ifadesi)"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Zygomaticus major muscle": {
+    "tr": "Büyük elmacık kası (m. zygomaticus major)",
+    "ozet": "Ağız köşesini yukarı ve dışa çekerek gülümsemeyi sağlayan temel kas.",
+    "bilgi": [
+      ["Origo", "Elmacık kemiğinin yan yüzü"],
+      ["İnsersiyo", "Ağız köşesi (modiolus)"],
+      ["İnnervasyon", "Yüz siniri — zigomatik ve bukkal dallar"],
+      ["Kanlanma", "Fasiyal arterin üst dudak dalı"],
+      ["Fonksiyon", "Ağız köşesini yukarı-dışa çeker (gülümseme, gülme)"]
+    ],
+    "klinik": "Bazı kişilerde çift karınlı olması yanak gamzesine yol açar. Yüz siniri felcinde gülümseme karşı tarafa kayar.",
+    "durum": "taslak"
+  },
+
+  "Zygomaticus minor muscle": {
+    "tr": "Küçük elmacık kası (m. zygomaticus minor)",
+    "ozet": "Büyük elmacık kasının içinde yer alan, üst dudağı kaldıran ince kas.",
+    "bilgi": [
+      ["Origo", "Elmacık kemiğinin ön yüzü"],
+      ["İnsersiyo", "Üst dudağın dış bölümü"],
+      ["İnnervasyon", "Yüz siniri — zigomatik ve bukkal dallar"],
+      ["Fonksiyon", "Üst dudağı kaldırır, üst dişleri açığa çıkarır; nazolabiyal oluğu derinleştirir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Levator anguli oris": {
+    "tr": "Ağız köşesi kaldırıcı kas (m. levator anguli oris)",
+    "ozet": "Üst dudak kaldırıcının derininde yer alan, ağız köşesini yukarı çeken kas.",
+    "bilgi": [
+      ["Origo", "Foramen infraorbitale'nin altındaki köpek dişi çukuru (fossa canina)"],
+      ["İnsersiyo", "Ağız köşesi (modiolus)"],
+      ["İnnervasyon", "Yüz siniri — zigomatik ve bukkal dallar"],
+      ["Fonksiyon", "Ağız köşesini yukarı çeker; gülümsemeyi genişletir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Risorius muscle": {
+    "tr": "Gülme kası (m. risorius)",
+    "ozet": "Ağız köşesini yana çeken, kişiden kişiye çok değişken, ince yüzeyel kas.",
+    "bilgi": [
+      ["Origo", "Parotis fasyası ve masseter üzerindeki fasya"],
+      ["İnsersiyo", "Ağız köşesi (modiolus)"],
+      ["İnnervasyon", "Yüz siniri — bukkal dallar"],
+      ["Fonksiyon", "Ağız köşesini yana çeker (sırıtma, gergin gülümseme)"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Depressor anguli oris": {
+    "tr": "Ağız köşesi indirici kas (m. depressor anguli oris)",
+    "ozet": "Çenenin yan kısmında yer alan, ağız köşesini aşağı çeken üçgen biçimli kas.",
+    "bilgi": [
+      ["Origo", "Mandibulanın linea obliqua'sı (köpek ve küçük azı dişleri hizası)"],
+      ["İnsersiyo", "Ağız köşesi (modiolus)"],
+      ["İnnervasyon", "Yüz siniri — marjinal mandibular ve bukkal dallar"],
+      ["Fonksiyon", "Ağız köşesini aşağı ve yana çeker (üzüntü, hoşnutsuzluk ifadesi)"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Depressor labii inferioris": {
+    "tr": "Alt dudak indirici kas (m. depressor labii inferioris)",
+    "ozet": "Alt dudağı aşağı ve yana çeken dörtgen biçimli kas; platismayla devamlılık gösterir.",
+    "bilgi": [
+      ["Origo", "Mandibulanın linea obliqua'sı (simfiz ile mental delik arası)"],
+      ["İnsersiyo", "Alt dudak derisi ve mukozası"],
+      ["İnnervasyon", "Yüz siniri — marjinal mandibular dal"],
+      ["Fonksiyon", "Alt dudağı aşağı-yana çeker (alt dişleri gösterme)"]
+    ],
+    "klinik": "Boyun cerrahisinde (ör. submandibuler bez) marjinal mandibular dalın yaralanması bu kasın felcine ve gülümsemede asimetriye yol açar.",
+    "durum": "taslak"
+  },
+
+  "Mentalis muscle": {
+    "tr": "Çene kası (m. mentalis)",
+    "ozet": "Çene ucundaki deriyi yukarı çeken ve alt dudağı öne iten, yüzün tek derin mimik kası.",
+    "bilgi": [
+      ["Origo", "Mandibulanın fossa incisiva'sı (alt kesici dişlerin altı)"],
+      ["İnsersiyo", "Çene derisi"],
+      ["İnnervasyon", "Yüz siniri — marjinal mandibular dal"],
+      ["Fonksiyon", "Alt dudağı kaldırır ve öne iter, çene derisini kırıştırır (dudak büzme, şüphe ifadesi)"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Orbicularis oris muscle": {
+    "tr": "Ağız halka kası (m. orbicularis oris)",
+    "ozet": "Dudakları çevreleyen, ağzı kapatan ve dudakları büzen karmaşık halka kas; konuşma ve beslenmede kritik rol oynar.",
+    "bilgi": [
+      ["Origo", "Maksilla ve mandibulanın orta bölümleri, dudak derisinin derin yüzü, modiolus"],
+      ["İnsersiyo", "Dudakların mukozası"],
+      ["İnnervasyon", "Yüz siniri — bukkal ve marjinal mandibular dallar"],
+      ["Kanlanma", "Üst ve alt dudak arterleri (fasiyal arter)"],
+      ["Fonksiyon", "Dudakları kapatır, büzer ve öne çıkarır (ıslık, öpme, emme); konuşmada dudak seslerini oluşturur"]
+    ],
+    "klinik": "Dudak-damak yarığı onarımında bu kasın sürekliliğinin yeniden sağlanması işlevsel ve estetik sonuç için esastır.",
+    "durum": "taslak"
+  },
+
+  "Bucinator": {
+    "tr": "Yanak kası (m. buccinator)",
+    "ozet": "Yanağın kas duvarını oluşturan ince dörtgen kas; çiğnemede lokmayı dişler arasında tutar, hava üflemeyi sağlar ('trompetçi kası').",
+    "bilgi": [
+      ["Origo", "Azı dişleri hizasında maksilla ve mandibulanın alveoler çıkıntıları, pterigomandibular rafe"],
+      ["İnsersiyo", "Ağız köşesi (modiolus) ve orbikülaris oris"],
+      ["İnnervasyon", "Yüz siniri — bukkal dallar (trigeminusun bukkal dalı yalnız duyu taşır ve kası deler)"],
+      ["Kanlanma", "Fasiyal arter ve maksiller arterin bukkal dalı"],
+      ["Fonksiyon", "Yanağı azı dişlerine bastırır; lokmanın vestibüle kaçmasını önler; havayı basınçla dışarı üfler"]
+    ],
+    "klinik": "Parotis kanalı (Stensen) üst ikinci azı dişi hizasında bu kası deler. Yüz felcinde yiyecek yanak ile dişler arasında birikir.",
+    "durum": "taslak"
+  },
+
+  "Platysma": {
+    "tr": "Platisma (boyun deri kası)",
+    "ozet": "Boynun ön-yan yüzünü örten, deri altında yer alan geniş ve ince mimik kası.",
+    "bilgi": [
+      ["Origo", "Köprücük kemiğinin altı ve üstündeki deri altı doku (büyük göğüs kası ve deltoid üzerindeki fasya)"],
+      ["İnsersiyo", "Mandibula alt kenarı, yanak ve alt dudak derisi, ağız köşesi"],
+      ["İnnervasyon", "Yüz siniri — servikal dal"],
+      ["Kanlanma", "Submental ve supraskapular arter dalları"],
+      ["Fonksiyon", "Boyun derisini gerer (gerginlik, korku ifadesi); ağız köşesini aşağı çeker; direnç karşısında alt çeneyi indirmeye yardım eder"]
+    ],
+    "klinik": "Boyun cerrahisinde kesiler platismayı da içerecek şekilde yapılır ve iyileşmede skarı azaltmak için ayrıca dikilir. Yaşla gevşeyen kas lifleri boyunda dikey bantlar oluşturur.",
+    "durum": "taslak"
+  },
+
+  "Masseter muscle": {
+    "tr": "Çiğneme kası (m. masseter)",
+    "ozet": "Alt çeneyi kapatan, vücut ağırlığına oranla en güçlü kaslardan biri; dişler sıkıldığında yanakta ele gelir.",
+    "bilgi": [
+      ["Origo", "Yüzeyel bölüm: elmacık kemiği ve zigomatik arkın ön üçte ikisinin alt kenarı; derin bölüm: zigomatik arkın arka üçte biri ve iç yüzü"],
+      ["İnsersiyo", "Mandibula ramusunun dış yüzü ve angulus mandibulae; derin lifler koronoid çıkıntıya kadar"],
+      ["İnnervasyon", "Mandibular sinir (V3) — n. massetericus"],
+      ["Kanlanma", "Masseterik arter (a. maxillaris), fasiyal ve transvers fasiyal arterler"],
+      ["Fonksiyon", "Mandibulayı yukarı kaldırır (çeneyi kapatır); yüzeyel lifler protrüzyona, derin lifler retrüzyona katkı verir"]
+    ],
+    "klinik": "Diş sıkma ve gıcırdatmada (bruksizm) hipertrofiye uğrar. Tetanozda ve bazı enfeksiyonlarda spazmı ağız açamamaya (trismus) yol açar.",
+    "durum": "taslak"
+  },
+
+  "Temporalis muscle": {
+    "tr": "Şakak kası (m. temporalis)",
+    "ozet": "Şakak çukurunu dolduran yelpaze biçimli çiğneme kası; alt çeneyi kapatır ve geri çeker.",
+    "bilgi": [
+      ["Origo", "Fossa temporalis tabanı ve temporal fasyanın derin yüzü"],
+      ["İnsersiyo", "Koronoid çıkıntının ucu ve iç yüzü, ramusun ön kenarı"],
+      ["İnnervasyon", "Mandibular sinir (V3) — nn. temporales profundi"],
+      ["Kanlanma", "Derin temporal arterler (a. maxillaris), orta temporal arter"],
+      ["Fonksiyon", "Mandibulayı kaldırır; arka yatay lifler mandibulayı geri çeker (retrüzyon); yana hareketlere katılır"]
+    ],
+    "klinik": "Gerilim tipi baş ağrısı ve çene eklemi bozukluklarında hassas ve gergin olabilir. Dev hücreli arteritte şakak ağrısı ve çene kladikasyonu görülür.",
+    "durum": "taslak"
+  },
+
+  "Lateral pterygoid muscle": {
+    "tr": "Dış kanat kası (m. pterygoideus lateralis)",
+    "ozet": "İki başlı, yatay seyirli çiğneme kası; ağız açılırken çene başını ve eklem diskini öne çeker.",
+    "bilgi": [
+      ["Origo", "Üst baş: sfenoid büyük kanadının infratemporal yüzü ve kristası; alt baş: lateral pterigoid plağın dış yüzü"],
+      ["İnsersiyo", "Üst baş: çene eklemi kapsülü ve diski; alt baş: kondil boynundaki fovea pterygoidea"],
+      ["İnnervasyon", "Mandibular sinir (V3) — n. pterygoideus lateralis"],
+      ["Kanlanma", "Maksiller arterin pterigoid dalları"],
+      ["Fonksiyon", "İki taraflı: mandibulayı öne iter ve ağzın açılmasını başlatır; tek taraflı: çeneyi karşı tarafa kaydırır (öğütme)"]
+    ],
+    "klinik": "Çene eklemi (TME) bozukluklarında spazmı ağrı ve tıklamaya katkı verir. Kondil boynu kırıklarında kırık parçayı öne-içe çeker.",
+    "durum": "taslak"
+  },
+
+  "Medial pterygoid muscle": {
+    "tr": "İç kanat kası (m. pterygoideus medialis)",
+    "ozet": "Mandibula ramusunun iç yüzündeki dörtgen çiğneme kası; masseterle birlikte açıyı saran bir 'askı' oluşturur.",
+    "bilgi": [
+      ["Origo", "Derin baş: lateral pterigoid plağın iç yüzü ve palatin kemiğin piramidal çıkıntısı; yüzeyel baş: maksilla tüberi"],
+      ["İnsersiyo", "Ramusun iç yüzü, foramen mandibulae'nin altı (angulus mandibulae'ye yakın)"],
+      ["İnnervasyon", "Mandibular sinir (V3) — n. pterygoideus medialis"],
+      ["Kanlanma", "Maksiller arterin pterigoid dalları"],
+      ["Fonksiyon", "Mandibulayı kaldırır; protrüzyona yardım eder; tek taraflı kasılmada öğütme hareketi"]
+    ],
+    "klinik": "Alt çene sinir bloğunda (inferior alveolar blok) iğne bu kasın dış yanından ilerler; kasın içine enjeksiyon sonrası trismus gelişebilir.",
+    "durum": "taslak"
+  },
+
+  "Levator palpebrae superioris": {
+    "tr": "Üst göz kapağı kaldırıcı kas (m. levator palpebrae superioris)",
+    "ozet": "Üst göz kapağını kaldıran kas; aponevrozu kapak derisine ve tarsal plağa tutunur.",
+    "bilgi": [
+      ["Origo", "Sfenoid küçük kanadı, optik kanalın üst-önü"],
+      ["İnsersiyo", "Üst tarsal plak ve üst kapak derisi (aponevroz yoluyla)"],
+      ["İnnervasyon", "Okülomotor sinir (CN III) üst dalı; düz kas bölümü (üst tarsal kas, Müller) sempatik lifler"],
+      ["Fonksiyon", "Üst göz kapağını kaldırır"]
+    ],
+    "klinik": "Okülomotor sinir felcinde tam pitoz (kapak düşüklüğü), Horner sendromunda üst tarsal kas etkilendiği için hafif pitoz görülür. Yaşla aponevrozun gevşemesi edinsel pitozun en sık nedenidir. Miyastenia gravis yorgunlukla artan pitoz yapar.",
+    "durum": "taslak"
+  },
+
+  "Superior rectus muscle": {
+    "tr": "Üst düz kas (m. rectus superior)",
+    "ozet": "Göz küresini yukarı kaldıran başlıca kas.",
+    "bilgi": [
+      ["Origo", "Ortak tendon halkası (anulus tendineus communis)"],
+      ["İnsersiyo", "Sklera, üst yüz (limbusun ~7,7 mm arkası)"],
+      ["İnnervasyon", "Okülomotor sinir (CN III) üst dalı"],
+      ["Fonksiyon", "Elevasyon (asıl), addüksiyon ve içe dönme (intorsiyon)"],
+      ["Klinik muayene", "Göz dışa (abdüksiyonda) bakarken yukarı baktırılarak test edilir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Inferior rectus muscle": {
+    "tr": "Alt düz kas (m. rectus inferior)",
+    "ozet": "Göz küresini aşağı indiren başlıca kas.",
+    "bilgi": [
+      ["Origo", "Ortak tendon halkası"],
+      ["İnsersiyo", "Sklera, alt yüz (~6,5 mm)"],
+      ["İnnervasyon", "Okülomotor sinir (CN III) alt dalı"],
+      ["Fonksiyon", "Depresyon (asıl), addüksiyon ve dışa dönme (ekstorsiyon)"]
+    ],
+    "klinik": "Orbita tabanı 'blow-out' kırıklarında kas veya çevresi kırık hattına sıkışarak yukarı bakışta çift görmeye yol açar.",
+    "durum": "taslak"
+  },
+
+  "Medial rectus muscle": {
+    "tr": "İç düz kas (m. rectus medialis)",
+    "ozet": "Göz dışı kasların en kalını; gözü burna doğru çevirir.",
+    "bilgi": [
+      ["Origo", "Ortak tendon halkası"],
+      ["İnsersiyo", "Sklera, iç yüz (~5,5 mm — limbusa en yakın rektus)"],
+      ["İnnervasyon", "Okülomotor sinir (CN III) alt dalı"],
+      ["Fonksiyon", "Addüksiyon (gözü içe çevirme); yakına bakışta iki göz birlikte kasılır (konverjans)"]
+    ],
+    "klinik": "Okülomotor felçte göz dışa ve aşağı kayar ('aşağı-dışa bakan göz'). İnternükleer oftalmoplejide (MLF lezyonu, ör. MS) yana bakışta addüksiyon yapılamaz.",
+    "durum": "taslak"
+  },
+
+  "Lateral rectus muscle": {
+    "tr": "Dış düz kas (m. rectus lateralis)",
+    "ozet": "Gözü dışa (şakağa doğru) çeviren kas; abdusens siniriyle uyarılan tek kastır.",
+    "bilgi": [
+      ["Origo", "Ortak tendon halkası (superior orbital fissürü aşan bölüm)"],
+      ["İnsersiyo", "Sklera, dış yüz (~6,9 mm)"],
+      ["İnnervasyon", "Abdusens siniri (CN VI)"],
+      ["Fonksiyon", "Abdüksiyon (gözü dışa çevirme)"]
+    ],
+    "klinik": "Abdusens siniri kafa içindeki uzun seyri nedeniyle kafa içi basınç artışında sık etkilenir: göz içe kayar (ezotropya), yana bakışta yatay çift görme olur.",
+    "durum": "taslak"
+  },
+
+  "Superior oblique muscle": {
+    "tr": "Üst eğik kas (m. obliquus superior)",
+    "ozet": "Tendonu makara (troklea) içinden geçip yön değiştiren göz kası; özellikle göz içe bakarken aşağı indirir (merdiven inme, okuma).",
+    "bilgi": [
+      ["Origo", "Sfenoid gövdesi, optik kanalın üst-içi"],
+      ["İnsersiyo", "Sklera, üst-arka-dış çeyrek (ekvatorun arkası)"],
+      ["İnnervasyon", "Troklear sinir (CN IV)"],
+      ["Fonksiyon", "İçe dönme (asıl), depresyon ve abdüksiyon; göz addüksiyondayken en etkili depresördür"]
+    ],
+    "klinik": "Troklear sinir felcinde aşağı bakışta (merdiven inerken, okurken) dikey çift görme olur; hasta başını karşı tarafa eğerek telafi eder.",
+    "durum": "taslak"
+  },
+
+  "Inferior oblique muscle": {
+    "tr": "Alt eğik kas (m. obliquus inferior)",
+    "ozet": "Orbitanın arkasından değil, orbita tabanının ön kısmından başlayan tek göz dışı kas.",
+    "bilgi": [
+      ["Origo", "Orbita tabanının ön bölümü (maksillanın orbital yüzü, nazolakrimal oluğun dışı)"],
+      ["İnsersiyo", "Sklera, alt-arka-dış çeyrek"],
+      ["İnnervasyon", "Okülomotor sinir (CN III) alt dalı"],
+      ["Fonksiyon", "Dışa dönme (asıl), elevasyon ve abdüksiyon; göz addüksiyondayken en etkili elevatördür"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Common tendinous ring": {
+    "tr": "Ortak tendon halkası (anulus tendineus communis, Zinn halkası)",
+    "ozet": "Optik kanalı ve superior orbital fissürün iç bölümünü çevreleyen fibröz halka; dört düz göz kasının ortak başlangıç yeridir.",
+    "bilgi": [
+      ["Halkanın içinden geçenler", "Optik sinir ve oftalmik arter (optik kanaldan), okülomotor sinirin üst ve alt dalları, nazosiliyer sinir, abdusens siniri"],
+      ["Halkanın dışından geçenler", "Lakrimal, frontal ve troklear sinirler, üst oftalmik ven"]
+    ],
+    "klinik": "Orbita tepesi sendromunda (tümör, enflamasyon) halkadan geçen yapılar birlikte etkilenir: görme kaybı ve göz hareket kısıtlılığı.",
+    "durum": "taslak"
+  },
+
+  "Trochlea of superior oblique muscle": {
+    "tr": "Üst eğik kasın makarası (trochlea)",
+    "ozet": "Frontal kemiğin troklear çukuruna tutunan fibrokıkırdak makara; üst eğik kasın tendonu burada keskin biçimde geriye-dışa döner.",
+    "bilgi": [["Konum", "Orbitanın üst-iç köşesi, orbita kenarının hemen arkası"]],
+    "klinik": "Brown sendromunda tendonun makara içinde kayması kısıtlanır; göz içe bakarken yukarı kaldırılamaz.",
+    "durum": "taslak"
+  },
+
+  "Superior tarsus": {
+    "tr": "Üst tarsal plak (tarsus superior)",
+    "ozet": "Üst göz kapağının iskeletini oluşturan yaklaşık 10 mm yüksekliğindeki yoğun bağ dokusu plağı; tarsal (Meibom) bezlerini içerir.",
+    "bilgi": [["Tutunan yapılar", "Levator palpebrae superioris aponevrozu ve üst tarsal (Müller) kas; medial ve lateral palpebral bağlar"]],
+    "klinik": "Tarsal bez kanalının tıkanması şalazyona yol açar. Göz kapağı eversiyonu (yabancı cisim muayenesi) plağın üst kenarından yapılır.",
+    "durum": "taslak"
+  },
+
+  "Inferior tarsus": {
+    "tr": "Alt tarsal plak (tarsus inferior)",
+    "ozet": "Alt göz kapağının daha küçük (yaklaşık 5 mm) bağ dokusu iskeleti; tarsal bezler içerir.",
+    "bilgi": [["Tutunan yapılar", "Alt kapak retraktörleri, medial ve lateral palpebral bağlar"]],
+    "klinik": "Yaşla alt kapak gevşekliği ektropiyon veya entropiyona (kapak kenarının dışa ya da içe dönmesi) yol açar.",
+    "durum": "taslak"
+  },
+
+  "Genioglossus muscle": {
+    "tr": "Genioglossus kası (m. genioglossus)",
+    "ozet": "Dilin kütlesinin büyük kısmını oluşturan yelpaze biçimli dış dil kası; dili dışarı çıkarır ve hava yolunun açık kalmasına yardım eder.",
+    "bilgi": [
+      ["Origo", "Mandibulanın üst mental dikeni (spina mentalis superior)"],
+      ["İnsersiyo", "Dil sırtının tüm boyu ve dil kemiği gövdesi"],
+      ["İnnervasyon", "Hipoglossal sinir (CN XII)"],
+      ["Kanlanma", "Lingual arter (sublingual ve derin lingual dallar)"],
+      ["Fonksiyon", "Dili dışarı çıkarır (arka lifler), dilin ortasını çukurlaştırır; dilin geriye düşmesini önler"]
+    ],
+    "klinik": "Hipoglossal sinir lezyonunda dil dışarı çıkarıldığında felçli tarafa sapar. Bilinçsiz hastada kasın gevşemesi dilin geriye düşerek hava yolunu tıkamasına yol açar (çene itme manevrası). Obstrüktif uyku apnesinde hipoglossal sinir uyarımı tedavi seçeneğidir.",
+    "durum": "taslak"
+  },
+
+  "Hyoglossus muscle": {
+    "tr": "Hiyoglossus kası (m. hyoglossus)",
+    "ozet": "Dil kemiğinden dilin yan kenarına uzanan dörtgen dış dil kası; boyun cerrahisinde önemli bir yer işaretidir.",
+    "bilgi": [
+      ["Origo", "Dil kemiğinin gövdesi ve büyük boynuzu"],
+      ["İnsersiyo", "Dilin yan ve alt yüzü"],
+      ["İnnervasyon", "Hipoglossal sinir (CN XII)"],
+      ["Fonksiyon", "Dili aşağı indirir ve geri çeker"],
+      ["Komşuluk", "Lingual arter kasın derininden; hipoglossal sinir, lingual sinir ve submandibular kanal yüzeyinden geçer"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Palatopharyngeus muscle": {
+    "tr": "Palatofaringeus kası (m. palatopharyngeus)",
+    "ozet": "Yumuşak damaktan yutak duvarına inen, arka damak kavsini (bademcik çukurunun arka sınırı) oluşturan kas.",
+    "bilgi": [
+      ["Origo", "Sert damak ve palatin aponevroz"],
+      ["İnsersiyo", "Yutağın yan duvarı ve tiroid kıkırdağın arka kenarı"],
+      ["İnnervasyon", "Vagus siniri (CN X) — faringeal pleksus"],
+      ["Fonksiyon", "Yutma sırasında yutak duvarını yukarı-öne-içe çeker; yumuşak damağı gerer ve nazofarenksi kapatmaya yardım eder"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Sternocleidomastoid muscle": {
+    "tr": "Göğüs-köprücük-memeli kası (m. sternocleidomastoideus)",
+    "ozet": "Boynun yan yüzünde çapraz uzanan, boynu ön ve arka üçgenlere ayıran belirgin kas; başın dönmesi ve eğilmesini sağlar.",
+    "bilgi": [
+      ["Origo", "Sternal baş: manubrium sterni'nin ön yüzü; klaviküler baş: klavikulanın iç üçte birinin üst yüzü"],
+      ["İnsersiyo", "Mastoid çıkıntının dış yüzü ve linea nuchalis superior'un dış yarısı"],
+      ["İnnervasyon", "Aksesuar sinir (CN XI, spinal kök) — motor; C2–C3 — propriosepsiyon"],
+      ["Kanlanma", "Oksipital, arka kulak, üst tiroid ve suprasküler arterlerin sternokleidomastoid dalları"],
+      ["Fonksiyon", "Tek taraflı: başı aynı tarafa eğer, yüzü karşı tarafa çevirir; iki taraflı: boynu fleksiyona getirir, baş sabitken derin solukta yardımcı solunum kası olarak göğüs kafesini kaldırır"]
+    ],
+    "bolumler": [
+      { "baslik": "Yüzey anatomisi", "metin": "İki baş arasındaki küçük üçgen çukurluk (fossa supraclavicularis minor) iç juguler venin alt ucunun üstündedir ve santral ven kateterizasyonunda yer işareti olarak kullanılır. Kasın arka kenarının ortası (Erb noktası) yüzeyel servikal pleksus dallarının çıktığı yerdir." }
+    ],
+    "klinik": "Konjenital müsküler tortikolide yenidoğanda kas içinde fibrotik kitle gelişir; baş aynı tarafa eğik, yüz karşı tarafa dönüktür. Servikal distoni erişkinde istemsiz baş dönmesine yol açar.",
+    "durum": "taslak"
+  },
+
+  "Scalenus anterior muscle": {
+    "tr": "Ön merdiven kası (m. scalenus anterior)",
+    "ozet": "Boyun omurlarından birinci kaburgaya uzanan kas; önünden subklavyen ven ve frenik sinir, arkasından subklavyen arter ve brakiyal pleksus geçer.",
+    "bilgi": [
+      ["Origo", "C3–C6 enine çıkıntılarının ön tüberkülleri"],
+      ["İnsersiyo", "Birinci kaburganın skalen tüberkülü (Lisfranc tüberkülü)"],
+      ["İnnervasyon", "Servikal spinal sinirlerin ön dalları (C4–C6)"],
+      ["Fonksiyon", "Birinci kaburgayı kaldırır (derin solukta); boynu yana eğer ve döndürür"],
+      ["Komşuluk", "Frenik sinir kasın ön yüzünde aşağı iner; interskalen aralıktan subklavyen arter ve brakiyal pleksus gövdeleri geçer"]
+    ],
+    "klinik": "Torasik çıkış sendromunda (servikal kaburga, skalen hipertrofisi) pleksus ve arter sıkışır. Omuz ameliyatlarında brakiyal pleksus bloğu interskalen aralıktan yapılır; frenik sinir de sıklıkla bloke olur.",
+    "durum": "taslak"
+  },
+
+  "Scalenus medius muscle": {
+    "tr": "Orta merdiven kası (m. scalenus medius)",
+    "ozet": "Merdiven kaslarının en uzun ve en büyüğü; interskalen aralığın arka sınırını yapar.",
+    "bilgi": [
+      ["Origo", "C2–C7 enine çıkıntılarının arka tüberkülleri"],
+      ["İnsersiyo", "Birinci kaburganın üst yüzü, subklavyen oluğun arkası"],
+      ["İnnervasyon", "Servikal spinal sinirlerin ön dalları"],
+      ["Fonksiyon", "Birinci kaburgayı kaldırır; boynu yana eğer"],
+      ["Komşuluk", "Dorsal skapular sinir ve uzun torasik sinirin C5–C6 kökleri kası deler"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Scalenus posterior muscle": {
+    "tr": "Arka merdiven kası (m. scalenus posterior)",
+    "ozet": "Merdiven kaslarının en küçüğü ve en derindeki; ikinci kaburgaya tutunur.",
+    "bilgi": [
+      ["Origo", "C4–C6 enine çıkıntılarının arka tüberkülleri"],
+      ["İnsersiyo", "İkinci kaburganın dış yüzü"],
+      ["İnnervasyon", "Servikal spinal sinirlerin ön dalları (C7–C8)"],
+      ["Fonksiyon", "İkinci kaburgayı kaldırır; boynu yana eğer"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Longus colli muscle": {
+    "tr": "Uzun boyun kası (m. longus colli)",
+    "ozet": "Boyun omurlarının ön yüzünde, omurga boyunca uzanan derin prevertebral kas.",
+    "bilgi": [
+      ["Origo", "C5–T3 omur gövdeleri, C3–C5 enine çıkıntıları"],
+      ["İnsersiyo", "Atlasın ön tüberkülü, C2–C4 gövdeleri, C5–C6 enine çıkıntıları"],
+      ["İnnervasyon", "Servikal spinal sinirlerin ön dalları (C2–C6)"],
+      ["Fonksiyon", "Boynu fleksiyona getirir, servikal lordozu düzeltir; hafif rotasyon ve yana eğme"]
+    ],
+    "klinik": "Ani öne-arkaya savrulma (whiplash) yaralanmalarında gerilir. Kalsifik longus colli tendiniti ani boyun ağrısı ve yutkunmada ağrıyla kendini gösterir.",
+    "durum": "taslak"
+  },
+
+  "Longus capitis muscle": {
+    "tr": "Uzun baş kası (m. longus capitis)",
+    "ozet": "Boyun omurlarının önünden kafatası tabanına uzanan derin prevertebral kas.",
+    "bilgi": [
+      ["Origo", "C3–C6 enine çıkıntılarının ön tüberkülleri"],
+      ["İnsersiyo", "Oksipital kemiğin baziler bölümü"],
+      ["İnnervasyon", "Servikal spinal sinirlerin ön dalları (C1–C3)"],
+      ["Fonksiyon", "Başı ve boynu fleksiyona getirir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Rectus anterior capitis muscle": {
+    "tr": "Ön düz baş kası (m. rectus capitis anterior)",
+    "ozet": "Atlas ile kafatası tabanı arasındaki kısa derin kas.",
+    "bilgi": [
+      ["Origo", "Atlasın yan kütlesinin ön yüzü"],
+      ["İnsersiyo", "Oksipital kemiğin baziler bölümü, oksipital kondilin önü"],
+      ["İnnervasyon", "C1–C2 spinal sinir halkası"],
+      ["Fonksiyon", "Başı atlanto-oksipital eklemde fleksiyona getirir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Rectus lateralis capitis muscle": {
+    "tr": "Yan düz baş kası (m. rectus capitis lateralis)",
+    "ozet": "Atlasın enine çıkıntısından oksipital kemiğe uzanan kısa kas.",
+    "bilgi": [
+      ["Origo", "Atlasın enine çıkıntısı"],
+      ["İnsersiyo", "Oksipital kemiğin juguler çıkıntısı"],
+      ["İnnervasyon", "C1–C2 spinal sinir halkası"],
+      ["Fonksiyon", "Başı yana eğer; atlanto-oksipital eklemi stabilize eder"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Sternohyoid muscle": {
+    "tr": "Sternohiyoid kas",
+    "ozet": "Dil kemiği altı ('kayış') kaslarının en yüzeyeli; yutkunmadan sonra dil kemiğini aşağı çeker.",
+    "bilgi": [
+      ["Origo", "Manubrium sterni ve klavikula iç ucunun arka yüzü"],
+      ["İnsersiyo", "Dil kemiği gövdesi"],
+      ["İnnervasyon", "Ansa cervicalis (C1–C3)"],
+      ["Fonksiyon", "Yutkunma ve konuşmada yükselen dil kemiğini aşağı indirir"]
+    ],
+    "klinik": "Tiroidektomide kayış kasları orta hattan ayrılarak tiroid bezine ulaşılır.",
+    "durum": "taslak"
+  },
+
+  "Sternothyroid muscle": {
+    "tr": "Sternotiroid kas",
+    "ozet": "Sternohiyoidin derininde yer alan, gırtlağı aşağı çeken geniş kayış kası.",
+    "bilgi": [
+      ["Origo", "Manubrium sterni'nin arka yüzü ve 1. kaburga kıkırdağı"],
+      ["İnsersiyo", "Tiroid kıkırdağın linea obliqua'sı"],
+      ["İnnervasyon", "Ansa cervicalis (C2–C3)"],
+      ["Fonksiyon", "Dil kemiği ve gırtlağı aşağı çeker"]
+    ],
+    "klinik": "Büyük guatr bu kasın tutunma yeri nedeniyle yukarı değil aşağıya, göğüs içine (retrosternal) doğru büyüme eğilimindedir.",
+    "durum": "taslak"
+  },
+
+  "Thyrohyoid muscle": {
+    "tr": "Tirohiyoid kas",
+    "ozet": "Sternotiroidin yukarıya devamı gibi, tiroid kıkırdaktan dil kemiğine uzanan kısa kas.",
+    "bilgi": [
+      ["Origo", "Tiroid kıkırdağın linea obliqua'sı"],
+      ["İnsersiyo", "Dil kemiği gövdesinin alt kenarı ve büyük boynuzu"],
+      ["İnnervasyon", "C1 lifleri — hipoglossal sinirle taşınır"],
+      ["Fonksiyon", "Dil kemiğini indirir; dil kemiği sabitse gırtlağı kaldırır (yutkunma, yüksek sesler)"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Omohyoid muscle": {
+    "tr": "Omohiyoid kas",
+    "ozet": "Ara tendonla birleşen iki karınlı ince kas; boyun üçgenlerini alt bölümlere ayırır.",
+    "bilgi": [
+      ["Origo", "Alt karın: kürek kemiğinin üst kenarı, incisura scapulae yakını"],
+      ["İnsersiyo", "Üst karın: dil kemiği gövdesinin alt kenarı; ara tendon fasyal bir askıyla klavikulaya bağlanır"],
+      ["İnnervasyon", "Ansa cervicalis (C1–C3)"],
+      ["Fonksiyon", "Dil kemiğini indirir, geri çeker ve sabitler"],
+      ["Yer işareti", "Krikoid kıkırdak hizasında karotis kılıfını çaprazlar"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Digastric muscle": {
+    "grup": true,
+    "tr": "İki karınlı kas (m. digastricus)",
+    "ozet": "Ara tendonla birleşen ön ve arka karından oluşan, dil kemiğinin üstündeki kas; iki karnı farklı embriyolojik kökenli olduğundan farklı sinirlerle uyarılır.",
+    "bilgi": [
+      ["Origo", "Ön karın: mandibulanın fossa digastrica'sı; arka karın: temporal kemiğin mastoid çentiği"],
+      ["İnsersiyo", "Ara tendon, fibröz bir askıyla dil kemiği gövdesi ve büyük boynuzuna bağlanır"],
+      ["İnnervasyon", "Ön karın: n. mylohyoideus (V3, 1. faringeal ark); arka karın: yüz siniri (CN VII, 2. faringeal ark)"],
+      ["Kanlanma", "Ön karın: submental arter; arka karın: oksipital ve arka kulak arterleri"],
+      ["Fonksiyon", "Mandibulayı indirir (direnç karşısında ağzı açar); dil kemiğini kaldırır ve sabitler (yutma, konuşma)"]
+    ],
+    "klinik": "Submandibular üçgen iki karın ve mandibula alt kenarı arasında kalır. Arka karın boyun cerrahisinde 'cerrahın dostu' olarak bilinen yer işaretidir: altından iç karotis arteri, iç juguler ven ve alt kraniyal sinirler geçer.",
+    "durum": "taslak"
+  },
+
+  "Mylohyoid muscle": {
+    "tr": "Milohiyoid kas",
+    "ozet": "İki taraftaki kasın orta hatta birleşmesiyle ağız tabanını oluşturan yassı kas ('ağız diyaframı').",
+    "bilgi": [
+      ["Origo", "Mandibulanın linea mylohyoidea'sı"],
+      ["İnsersiyo", "Orta hat rafesi (milohiyoid rafe) ve dil kemiği gövdesi"],
+      ["İnnervasyon", "N. mylohyoideus (inferior alveolar sinirin dalı, V3)"],
+      ["Fonksiyon", "Ağız tabanını ve dili yutkunmada kaldırır; dil kemiğini kaldırır; mandibulayı indirmeye yardım eder"]
+    ],
+    "klinik": "Alt azı dişlerinin kökleri milohiyoid çizginin altında kaldığından apse submandibular aralığa yayılır. Ludwig anjini bu aralıkların hızla yayılan, hava yolunu tehdit eden enfeksiyonudur.",
+    "durum": "taslak"
+  },
+
+  "Geniohyoid muscle": {
+    "tr": "Geniohiyoid kas",
+    "ozet": "Milohiyoidin üstünde, orta hatta uzanan kısa şerit biçimli kas.",
+    "bilgi": [
+      ["Origo", "Mandibulanın alt mental dikeni"],
+      ["İnsersiyo", "Dil kemiği gövdesi"],
+      ["İnnervasyon", "C1 lifleri — hipoglossal sinirle taşınır"],
+      ["Fonksiyon", "Dil kemiğini öne-yukarı çeker, ağız tabanını kısaltır ve yutağı genişletir; dil kemiği sabitken mandibulayı indirir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Stylohyoid muscle": {
+    "tr": "Stilohiyoid kas",
+    "ozet": "Stiloid çıkıntıdan dil kemiğine uzanan ince kas; tutunma yerinde ikiye ayrılarak iki karınlı kasın ara tendonunu sarar.",
+    "bilgi": [
+      ["Origo", "Stiloid çıkıntının arka kenarı"],
+      ["İnsersiyo", "Dil kemiği gövdesi (büyük boynuzla birleşim yeri)"],
+      ["İnnervasyon", "Yüz siniri (CN VII) — stilohiyoid dalı"],
+      ["Fonksiyon", "Dil kemiğini yukarı ve geriye çeker; yutmada ağız tabanını uzatır"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Cricothyroid muscle": {
+    "tr": "Krikotiroid kas",
+    "ozet": "Gırtlağın dış yüzündeki tek iç gırtlak kası; ses tellerini gererek sesi inceltir. Düz ve eğik bölümleri vardır.",
+    "bilgi": [
+      ["Origo", "Krikoid kıkırdağın ön-yan yüzü"],
+      ["İnsersiyo", "Tiroid kıkırdağın alt kenarı ve alt boynuzu"],
+      ["İnnervasyon", "Üst laringeal sinirin dış dalı (n. laryngeus superior, r. externus — CN X)"],
+      ["Fonksiyon", "Tiroid kıkırdağı öne eğer; ses tellerini uzatıp gerer ve sesin perdesini yükseltir"]
+    ],
+    "klinik": "Tiroidektomide üst tiroid arteriyle yakın seyreden dış dal yaralanırsa ses yorgun ve monoton olur, tiz seslere çıkılamaz (şarkıcılar için kritik).",
+    "durum": "taslak"
+  },
+
+  "Posterior crico-arytenoid muscle": {
+    "tr": "Arka krikoaritenoid kas",
+    "ozet": "Ses tellerini birbirinden uzaklaştıran (glottisi açan) tek kas; solunum için yaşamsaldır.",
+    "bilgi": [
+      ["Origo", "Krikoid lamina'nın arka yüzü"],
+      ["İnsersiyo", "Aritenoid kıkırdağın kas çıkıntısı (processus muscularis)"],
+      ["İnnervasyon", "Rekürren (alt) laringeal sinir — CN X"],
+      ["Fonksiyon", "Aritenoidleri dışa döndürür, ses tellerini abdüksiyona getirir, rima glottidis'i açar"]
+    ],
+    "klinik": "İki taraflı rekürren sinir hasarında (ör. tiroid cerrahisi) ses telleri orta hatta yakın kalır; stridor ve solunum sıkıntısı gelişir, trakeostomi gerekebilir. Tek taraflı hasarda ses kısıklığı olur.",
+    "durum": "taslak"
+  },
+
+  "Lateral crico-arytenoid muscle": {
+    "tr": "Yan krikoaritenoid kas",
+    "ozet": "Ses tellerini birbirine yaklaştıran (addüktör) başlıca kas.",
+    "bilgi": [
+      ["Origo", "Krikoid kıkırdak kemerinin üst kenarı"],
+      ["İnsersiyo", "Aritenoid kıkırdağın kas çıkıntısı"],
+      ["İnnervasyon", "Rekürren laringeal sinir"],
+      ["Fonksiyon", "Aritenoidleri içe döndürür; ses tellerinin bağ bölümünü kapatır (fonasyon)"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Transverse arytenoid muscle": {
+    "tr": "Enine aritenoid kas",
+    "ozet": "İki aritenoid kıkırdağın arka yüzleri arasında uzanan tek (çift olmayan) kas.",
+    "bilgi": [
+      ["Origo / İnsersiyo", "Bir aritenoid kıkırdağın arka yüzünden karşı aritenoide"],
+      ["İnnervasyon", "Rekürren laringeal sinirler (iki taraflı)"],
+      ["Fonksiyon", "Aritenoidleri birbirine yaklaştırır; glottisin arka (kıkırdak arası) bölümünü kapatır"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Oblique arytenoid muscle": {
+    "tr": "Eğik aritenoid kas",
+    "ozet": "Enine aritenoidin yüzeyinde çapraz uzanan kas çifti; devamı ariepiglottik kıvrım içinde epiglota uzanır.",
+    "bilgi": [
+      ["Origo", "Bir aritenoid kıkırdağın kas çıkıntısının arkası"],
+      ["İnsersiyo", "Karşı aritenoidin tepesi; ariepiglottik bölüm epiglot kenarına"],
+      ["İnnervasyon", "Rekürren laringeal sinir"],
+      ["Fonksiyon", "Glottisin arka bölümünü kapatır; ariepiglottik bölüm yutkunmada gırtlak girişini sfinkter gibi daraltır"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Thyro-arytenoid muscle": {
+    "tr": "Tiroaritenoid kas",
+    "ozet": "Ses tellerinin yanında uzanan, ses tellerini gevşeterek sesin perdesini düşüren kas; iç lifleri vokalis kasını oluşturur.",
+    "bilgi": [
+      ["Origo", "Tiroid kıkırdak açısının arka yüzü (alt yarısı)"],
+      ["İnsersiyo", "Aritenoid kıkırdağın ön-yan yüzü; tiroepiglottik bölüm epiglot kenarına"],
+      ["İnnervasyon", "Rekürren laringeal sinir"],
+      ["Fonksiyon", "Aritenoidleri öne çekerek ses bağlarını gevşetir (pes sesler); vokalis bölümü ses telinin gerginliğini ince ayarlar; tiroepiglottik bölüm gırtlak girişini genişletir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Superior pharyngeal constrictor": {
+    "tr": "Üst yutak büzücü kası",
+    "ozet": "Yutağın üst bölümünü saran, en ince büzücü kas.",
+    "bilgi": [
+      ["Origo", "Pterigoid çengel (hamulus), pterigomandibular rafe, mandibulanın milohiyoid çizgisinin arka ucu, dilin yanı"],
+      ["İnsersiyo", "Yutağın orta hat rafesi ve oksipital kemiğin faringeal tüberkülü"],
+      ["İnnervasyon", "Vagus siniri (CN X) — faringeal pleksus"],
+      ["Fonksiyon", "Yutkunmada yutak duvarını büzer, lokmayı aşağı iter"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Middle pharyngeal constrictor": {
+    "tr": "Orta yutak büzücü kası",
+    "ozet": "Dil kemiğinden başlayan yelpaze biçimli büzücü kas.",
+    "bilgi": [
+      ["Origo", "Stilohiyoid bağ, dil kemiğinin büyük ve küçük boynuzları"],
+      ["İnsersiyo", "Yutağın orta hat rafesi"],
+      ["İnnervasyon", "Vagus siniri — faringeal pleksus"],
+      ["Fonksiyon", "Yutkunmada yutak duvarını büzer"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Inferior pharyngeal constrictor": {
+    "tr": "Alt yutak büzücü kası",
+    "ozet": "Büzücülerin en kalını; tiroid ve krikoid kıkırdaktan başlar, alt bölümü (krikofaringeus) üst yemek borusu sfinkterini oluşturur.",
+    "bilgi": [
+      ["Origo", "Tiroid kıkırdağın linea obliqua'sı (tirofaringeus) ve krikoid kıkırdağın yanı (krikofaringeus)"],
+      ["İnsersiyo", "Yutağın orta hat rafesi; krikofaringeus kesintisiz halka yapar"],
+      ["İnnervasyon", "Vagus siniri — faringeal pleksus; ayrıca rekürren ve dış laringeal dallar"],
+      ["Fonksiyon", "Yutkunmada yutağı büzer; krikofaringeus yutkunmalar arasında yemek borusu girişini kapalı tutar"]
+    ],
+    "klinik": "Tirofaringeus ile krikofaringeus arasındaki zayıf alandan (Killian üçgeni) mukoza fıtıklaşarak Zenker divertikülünü oluşturur: yutma güçlüğü, sindirilmemiş gıdanın geri gelmesi, ağız kokusu.",
+    "durum": "taslak"
+  },
+
+  "Stylopharyngeus muscle": {
+    "tr": "Stilofaringeus kası",
+    "ozet": "Stiloid çıkıntıdan yutak duvarına inen uzun ince kas; glossofaringeal sinirle uyarılan tek kastır.",
+    "bilgi": [
+      ["Origo", "Stiloid çıkıntı tabanının iç yüzü"],
+      ["İnsersiyo", "Tiroid kıkırdağın arka ve üst kenarları, yutak duvarı"],
+      ["İnnervasyon", "Glossofaringeal sinir (CN IX)"],
+      ["Fonksiyon", "Yutkunma ve konuşmada yutağı ve gırtlağı yukarı kaldırır, yutağı genişletir"]
+    ],
+    "durum": "taslak"
+  }
+}

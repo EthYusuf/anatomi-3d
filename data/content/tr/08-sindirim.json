@@ -1,0 +1,348 @@
+{
+  "_aciklama": "Sindirim sistemi: ağız, tükürük bezleri, yutak, yemek borusu, mide, bağırsaklar, karaciğer, safra yolları ve pankreas",
+
+  "Tongue": {
+    "tr": "Dil (lingua)",
+    "ozet": "Çiğneme, yutma, tat alma ve konuşmada görev alan, mukozayla örtülü kaslı organ.",
+    "bilgi": [
+      ["Kaslar", "İç kaslar (şeklini değiştirir) ve dış kaslar: genioglossus, hiyoglossus, stiloglossus, palatoglossus"],
+      ["Motor innervasyon", "Hipoglossal sinir (CN XII); palatoglossus: vagus (CN X)"],
+      ["Duyu (ön üçte iki)", "Genel duyu: lingual sinir (V3); tat: korda timpani (CN VII)"],
+      ["Duyu (arka üçte bir)", "Genel duyu ve tat: glossofaringeal sinir (CN IX)"],
+      ["Papillalar", "Filiform, fungiform, sulcus terminalis önünde sıralanmış 8–12 çevresel (vallat) ve foliat papillalar"],
+      ["Kanlanma", "Lingual arter"]
+    ],
+    "klinik": "Hipoglossal sinir hasarında dil felçli tarafa sapar. Dil kanseri en sık yan kenarda görülür. Dil bağı (ankiloglossi) emme ve konuşmayı etkileyebilir. Foramen caecum tiroid bezinin embriyolojik çıkış yeridir.",
+    "durum": "taslak"
+  },
+
+  "Soft palate": {
+    "tr": "Yumuşak damak (palatum molle, velum)",
+    "ozet": "Sert damağın arkasındaki hareketli fibromüsküler perde; yutkunma ve konuşmada nazofarenksi kapatır.",
+    "bilgi": [
+      ["Kaslar", "Tensor veli palatini (V3), levator veli palatini, palatoglossus, palatofaringeus, uvula kası (vagus — faringeal pleksus)"],
+      ["Görev", "Velofaringeal kapanma: yutkunmada besinin, konuşmada havanın buruna kaçmasını önler"]
+    ],
+    "klinik": "Damak yarığında genizden konuşma ve beslenme güçlüğü olur. Vagus hasarında etkilenen tarafta yumuşak damak sarkar, uvula sağlam tarafa çekilir. Horlama ve uyku apnesinde yumuşak damak titreşimi ve tıkanması rol oynar.",
+    "durum": "taslak"
+  },
+
+  "Uvula of palate": {
+    "tr": "Küçük dil (uvula)",
+    "ozet": "Yumuşak damağın arka kenarının ortasından sarkan konik çıkıntı; içinde uvula kası bulunur.",
+    "bilgi": [["İnnervasyon", "Vagus siniri — faringeal pleksus"]],
+    "klinik": "Vagus felcinde uvula sağlam tarafa doğru sapar. Uyku apnesinde uvulopalatofaringoplasti uygulanabilir.",
+    "durum": "taslak"
+  },
+
+  "Gingiva": {
+    "tr": "Diş eti (gingiva)",
+    "ozet": "Alveoler çıkıntıları ve diş boyunlarını örten, sıkıca yapışık ağız mukozası.",
+    "bilgi": [
+      ["Bölümler", "Yapışık diş eti ve serbest diş eti; diş ile arasında diş eti oluğu (sulkus)"],
+      ["Epitel", "Keratinize çok katlı yassı epitel"]
+    ],
+    "klinik": "Bakteri plağı diş eti iltihabına (gingivit) ve ilerleyerek diş kaybına yol açan periodontitise neden olur. C vitamini eksikliğinde (skorbüt) diş eti kanaması; fenitoin, siklosporin ve nifedipin kullanımında diş eti büyümesi görülür.",
+    "durum": "taslak"
+  },
+
+  "Parotid gland": {
+    "tr": "Kulak altı tükürük bezi (glandula parotidea)",
+    "ozet": "En büyük tükürük bezi; kulak önünde, mandibula ramusu ile mastoid çıkıntı arasına yerleşmiştir. Yüz siniri bezin içinde dallarına ayrılır.",
+    "bilgi": [
+      ["Salgı tipi", "Seröz"],
+      ["İçinden geçenler", "Yüz siniri ve dalları, retromandibular ven, dış karotis arter ve uç dalları"],
+      ["Kanal", "Parotis kanalı (Stensen) — üst ikinci azı dişi hizasında ağız içine açılır"],
+      ["Salgı innervasyonu", "Glossofaringeal sinir (CN IX) → otik ganglion → aurikülotemporal sinir"]
+    ],
+    "klinik": "Kabakulak (parotit) bezi sıkı kapsülü nedeniyle ağrılı şişirir. Tükürük bezi tümörlerinin çoğu parotiste ve çoğunlukla iyi huyludur (pleomorfik adenom). Parotidektomide yüz sinirinin korunması esastır; ameliyat sonrası yemek yerken terleme (Frey sendromu) gelişebilir.",
+    "durum": "taslak"
+  },
+
+  "Accessory parotid gland": {
+    "tr": "Yardımcı parotis bezi",
+    "ozet": "Parotis kanalı boyunca masseter kası üzerinde bulunan küçük ayrık bez dokusu; kişilerin bir kısmında bulunur.",
+    "bilgi": [["Boşaltım", "Küçük bir kanalla parotis kanalına"]],
+    "klinik": "Yanakta kitle olarak ele gelebilir; buradan gelişen tümörler nadirdir.",
+    "durum": "taslak"
+  },
+
+  "Parotid duct": {
+    "tr": "Parotis kanalı (ductus parotideus, Stensen kanalı)",
+    "ozet": "Parotis bezinin tükürüğünü ağız içine taşıyan yaklaşık 5 cm'lik kanal.",
+    "bilgi": [
+      ["Seyir", "Zigomatik arkın bir parmak altında masseter üzerinden öne geçer, kasın ön kenarında içe döner, bukkinatoru deler"],
+      ["Açılış", "Üst ikinci azı dişi karşısındaki parotis papillası"]
+    ],
+    "klinik": "Yanak kesilerinde yaralanabilir ve onarım gerektirir. Tükürük taşları parotiste submandibular beze göre daha seyrektir.",
+    "durum": "taslak"
+  },
+
+  "Submandibular gland": {
+    "tr": "Çene altı tükürük bezi (glandula submandibularis)",
+    "ozet": "Submandibular üçgende, milohiyoid kasın arka kenarını saran karma tükürük bezi; dinlenme halindeki tükürüğün çoğunu üretir.",
+    "bilgi": [
+      ["Salgı tipi", "Karma (ağırlıklı seröz)"],
+      ["Kanal", "Submandibular kanal (Wharton) — dil altındaki papillaya açılır"],
+      ["Salgı innervasyonu", "Yüz siniri (korda timpani) → submandibular ganglion"]
+    ],
+    "klinik": "Tükürük taşlarının yaklaşık %80'i bu bezde oluşur (daha koyu ve alkali salgı, yukarı doğru seyreden kanal); yemek sırasında ağrılı şişlik tipiktir. Bez çıkarılırken yüz sinirinin marjinal mandibular dalı, lingual ve hipoglossal sinirler korunmalıdır.",
+    "durum": "taslak"
+  },
+
+  "Submandibular duct": {
+    "tr": "Submandibular kanal (ductus submandibularis, Wharton kanalı)",
+    "ozet": "Çene altı bezinin salgısını dil altına taşıyan ~5 cm'lik kanal.",
+    "bilgi": [
+      ["Seyir", "Milohiyoid ile hiyoglossus arasında öne ilerler; lingual sinir kanalı iki kez çaprazlar"],
+      ["Açılış", "Dil frenulumunun iki yanındaki sublingual papilla (karunkül)"]
+    ],
+    "klinik": "Taş en sık bu kanalda takılır; ağız tabanından elle hissedilebilir veya sialendoskopiyle çıkarılabilir.",
+    "durum": "taslak"
+  },
+
+  "Sublingual gland": {
+    "tr": "Dil altı tükürük bezi (glandula sublingualis)",
+    "ozet": "Büyük tükürük bezlerinin en küçüğü; ağız tabanında dil altı kıvrımının altında yer alır ve çoğunlukla müköz salgı üretir.",
+    "bilgi": [
+      ["Kanallar", "Dil altı kıvrımına açılan 10–12 küçük kanal (Rivinus); bazıları submandibular kanala katılır"],
+      ["Salgı innervasyonu", "Korda timpani → submandibular ganglion"]
+    ],
+    "klinik": "Ağız tabanında mavimsi kistik şişlik (ranula) bu bezden sızan müküsle oluşur; boyuna uzanabilir (dalan ranula).",
+    "durum": "taslak"
+  },
+
+  "Nasopharynx": {
+    "tr": "Burun yutağı (nazofarenks)",
+    "ozet": "Burun boşluğunun arkasında, yumuşak damağın üstünde yer alan yutak bölümü; östaki borularının açıldığı ve geniz eti (adenoid) bulunduran solunum yolu.",
+    "bilgi": [
+      ["Sınırlar", "Önde koanalar, altta yumuşak damak"],
+      ["Yapılar", "Östaki borusu ağzı, torus tubarius, faringeal resesus (Rosenmüller çukuru), faringeal tonsil (adenoid)"]
+    ],
+    "klinik": "Çocuklarda adenoid büyümesi ağızdan solunum, horlama ve orta kulakta sıvı birikimine yol açar. Nazofarenks kanseri sıklıkla Rosenmüller çukurundan gelişir; erişkinde tek taraflı seröz otit bu bölgenin muayenesini gerektirir.",
+    "durum": "taslak"
+  },
+
+  "Oropharynx": {
+    "tr": "Ağız yutağı (orofarenks)",
+    "ozet": "Yumuşak damak ile epiglot üst kenarı arasındaki yutak bölümü; hava ve besinin ortak geçididir.",
+    "bilgi": [
+      ["Yapılar", "Damak bademcikleri (palatoglossal ve palatofaringeal kemerler arasında), dil kökü, valleküller"],
+      ["Refleks", "Öğürme refleksi: afferent CN IX, efferent CN X"]
+    ],
+    "klinik": "Tonsillit ve bademcik çevresi apsesi sık görülür. Orofarenks kanserlerinde HPV ilişkili olguların oranı giderek artmaktadır.",
+    "durum": "taslak"
+  },
+
+  "Laryngopharynx": {
+    "tr": "Gırtlak yutağı (laringofarenks, hipofarenks)",
+    "ozet": "Epiglot ucundan krikoid kıkırdak alt kenarına (C6) uzanan, yemek borusuyla devam eden yutak bölümü.",
+    "bilgi": [
+      ["Yapılar", "Gırtlak girişinin iki yanında armut biçimli çukurlar (recessus piriformis)"],
+      ["Komşuluk", "Piriform çukur mukozasının altında iç laringeal sinir seyreder"]
+    ],
+    "klinik": "Balık kılçığı gibi yabancı cisimler sıklıkla piriform çukura takılır. Hipofarenks kanserleri genellikle geç belirti verir.",
+    "durum": "taslak"
+  },
+
+  "Oesophagus": {
+    "tr": "Yemek borusu (özofagus)",
+    "ozet": "Yutaktan (C6) mideye (T11) uzanan, yaklaşık 25 cm'lik kaslı tüp; besinleri peristaltik dalgalarla mideye iletir.",
+    "bilgi": [
+      ["Kas yapısı", "Üst üçte bir çizgili, alt üçte bir düz, orta bölüm karma kas"],
+      ["Epitel", "Keratinize olmayan çok katlı yassı epitel"],
+      ["Darlıklar", "Yutak-yemek borusu birleşimi (kesici dişlerden ~15 cm), aort kavsi (~22,5 cm), sol ana bronş (~27,5 cm), diyafram hiatusu (~40 cm)"],
+      ["Kanlanma", "Boyun: alt tiroid arter; göğüs: aortun özofageal dalları; karın: sol gastrik arter"],
+      ["İnnervasyon", "Vagus (özofageal pleksus) ve sempatik lifler"]
+    ],
+    "klinik": "Gastroözofageal reflü alt uçta Barrett metaplazisine ve adenokarsinoma yol açabilir. Portal hipertansiyonda alt uçtaki portokaval anastomozlar özofagus varislerine dönüşür ve ölümcül kanamaya neden olabilir. Yutulan yabancı cisimler ve yakıcı maddeler en çok fizyolojik darlıklarda hasar yapar.",
+    "durum": "taslak"
+  },
+
+  "Stomach": {
+    "tr": "Mide (gaster)",
+    "ozet": "Yemek borusu ile onikiparmak bağırsağı arasında, sol üst karında yer alan J biçimli genişleme; besinleri depolar, asit ve enzimlerle sindirmeye başlar.",
+    "bilgi": [
+      ["Bölümler", "Kardiya, fundus, korpus, pilorik antrum ve kanal, pilor (sfinkter)"],
+      ["Kapasite", "Erişkinde ~1,5 L (2–3 L'ye kadar genişleyebilir)"],
+      ["Bezler", "Pariyetal hücre (HCl, intrinsik faktör), esas hücre (pepsinojen), G hücresi (gastrin; antrum)"],
+      ["Kanlanma", "Çölyak gövdenin üç dalından: sol ve sağ gastrik (küçük kurvatur), sağ ve sol gastroepiploik (büyük kurvatur), kısa gastrik arterler (fundus)"],
+      ["İnnervasyon", "Vagus ön ve arka gövdeleri (salgı ve hareketi artırır), çölyak pleksus sempatik lifleri (T6–T9)"]
+    ],
+    "klinik": "Peptik ülser (H. pylori, NSAİİ) ve mide kanseri önemli hastalıklarıdır; arka duvar ülseri dalak arterini aşındırabilir. Obezite cerrahisinde tüp mide ve bypass ameliyatları uygulanır. Mide kaynaklı ağrı epigastriuma yansır.",
+    "durum": "taslak"
+  },
+
+  "Duodenum": {
+    "tr": "Onikiparmak bağırsağı (duodenum)",
+    "ozet": "İnce bağırsağın ilk bölümü; pankreas başını C harfi gibi saran ~25 cm'lik segment. Safra ve pankreas salgıları buraya dökülür.",
+    "bilgi": [
+      ["Bölümler", "Üst (1., bulbus), inen (2.), yatay (3.) ve çıkan (4.) bölümler; duodenojejunal fleksura ile sonlanır"],
+      ["Papillalar", "Büyük papilla (inen bölüm): ortak safra kanalı ve pankreas kanalı (Vater ampullası, Oddi sfinkteri); küçük papilla: yardımcı pankreas kanalı"],
+      ["Periton ilişkisi", "Bulbus dışında büyük ölçüde retroperitoneal"],
+      ["Kanlanma", "Üst ve alt pankreatikoduodenal arterler (gastroduodenal arter ve SMA) — ön ve orta bağırsak sınırı büyük papilla hizasıdır"],
+      ["Treitz bağı", "Duodenojejunal fleksurayı asan kas-bağ dokusu şeridi"]
+    ],
+    "klinik": "Duodenal ülserler çoğunlukla bulbustadır; arka duvar ülseri gastroduodenal arteri aşındırarak ağır kanamaya yol açabilir. Treitz bağı üst ve alt gastrointestinal kanamayı ayıran sınırdır. Yatay bölümün SMA ile aort arasında sıkışması (SMA sendromu) kusmaya neden olur.",
+    "durum": "taslak"
+  },
+
+  "Jejunum": {
+    "tr": "Boş bağırsak (jejunum) ve kıvrım bağırsak (ileum)",
+    "ozet": "İnce bağırsağın mezenterle asılı hareketli bölümü; besinlerin sindirim ve emiliminin büyük kısmı burada gerçekleşir. Modelde jejunum ve ileum tek parça olarak gösterilmiştir.",
+    "bilgi": [
+      ["Uzunluk", "Jejunum ~2,5 m (proksimal beşte iki), ileum ~3,5 m (distal beşte üç)"],
+      ["Jejunum özellikleri", "Daha geniş ve kalın duvarlı, belirgin dairesel kıvrımlar, uzun vasa recta, az arkad"],
+      ["İleum özellikleri", "Daha ince duvar, çok sayıda arkad, kısa vasa recta, Peyer plakları"],
+      ["Emilim yüzeyi", "Kıvrımlar, villuslar ve mikrovilluslarla ~200 m²"],
+      ["Özel emilim", "B12 vitamini ve safra tuzları terminal ileumdan emilir"],
+      ["Kanlanma", "Üst mezenterik arterin jejunal ve ileal dalları"]
+    ],
+    "klinik": "Meckel divertikülü (nüfusun ~%2'si) ileoçekal kapağın ~60 cm yukarısındadır. Crohn hastalığı en sık terminal ileumu tutar. Yapışıklık ve fıtıklar ince bağırsak tıkanmasının başlıca nedenleridir.",
+    "durum": "taslak"
+  },
+
+  "Ascending colon": {
+    "tr": "Çıkan kolon (colon ascendens)",
+    "ozet": "Çekumdan karaciğer altındaki sağ kolik (hepatik) fleksuraya uzanan, retroperitoneal kalın bağırsak bölümü.",
+    "bilgi": [
+      ["Uzunluk", "~15 cm"],
+      ["Kanlanma", "İleokolik ve sağ kolik arterler (üst mezenterik arter)"]
+    ],
+    "klinik": "Sağ kolon kanserleri çoğunlukla gizli kanamaya bağlı kansızlık ve kitleyle kendini gösterir; burada dışkı henüz sıvı kıvamdadır.",
+    "durum": "taslak"
+  },
+
+  "Transverse colon": {
+    "tr": "Enine kolon (colon transversum)",
+    "ozet": "Hepatik ve splenik fleksuralar arasında karnı enine geçen, kolonun en hareketli bölümü; transvers mezokolonla asılıdır ve büyük omentuma bağlanır.",
+    "bilgi": [
+      ["Uzunluk", "~45 cm"],
+      ["Kanlanma", "Orta kolik arter (SMA) ve sol kolik arter (IMA); orta ve arka bağırsak geçişi distal üçte birdedir"]
+    ],
+    "klinik": "Splenik fleksura iki arter sisteminin sınır bölgesi olduğundan iskemik kolite en yatkın yerdir.",
+    "durum": "taslak"
+  },
+
+  "Descending colon": {
+    "tr": "İnen kolon (colon descendens)",
+    "ozet": "Splenik fleksuradan pelvis girişine uzanan retroperitoneal kalın bağırsak bölümü.",
+    "bilgi": [
+      ["Uzunluk", "~25 cm"],
+      ["Kanlanma", "Sol kolik arter (alt mezenterik arter)"]
+    ],
+    "klinik": "Sol kolon kanserleri dışkı katılaştığı için daha çok dışkılama alışkanlığında değişiklik ve tıkanmayla belirti verir.",
+    "durum": "taslak"
+  },
+
+  "Sigmoid colon": {
+    "tr": "Sigmoid kolon",
+    "ozet": "Pelvis girişinden rektuma (S3) uzanan S biçimli, sigmoid mezokolonla asılı hareketli kolon bölümü.",
+    "bilgi": [
+      ["Uzunluk", "~40 cm"],
+      ["Kanlanma", "Sigmoid arterler (alt mezenterik arter)"]
+    ],
+    "klinik": "Divertiküler hastalığın en sık yerleştiği bölümdür. Uzun mezokolonu nedeniyle yaşlılarda volvulus (dönme) görülür. Kolorektal kanserlerin önemli bir kısmı sigmoid kolon ve rektumdadır.",
+    "durum": "taslak"
+  },
+
+  "Vermiform appendix": {
+    "tr": "Apendiks (appendix vermiformis)",
+    "ozet": "Çekumun arka-iç yüzünden çıkan, ileoçekal kapağın yaklaşık 2 cm altında başlayan kör uçlu tüp; lenfoid dokudan zengindir.",
+    "bilgi": [
+      ["Uzunluk", "~6–10 cm"],
+      ["Yüzey işareti", "Tabanı McBurney noktasındadır (SİAS ile göbeği birleştiren çizginin dış ve orta üçte biri birleşimi)"],
+      ["Konum", "En sık retroçekal (~%65), ardından pelvik (~%30)"],
+      ["Kanlanma", "Apendiküler arter (ileokolik arter dalı) — uç arter"],
+      ["Yer işareti", "Üç tenya koli apendiks tabanında birleşir"]
+    ],
+    "klinik": "Apandisit en sık acil karın cerrahisi nedenidir: ağrı göbek çevresinde başlar (viseral, T10) ve sağ alt kadrana yerleşir (pariyetal periton). McBurney hassasiyeti, Rovsing, psoas ve obturator belirtileri tanıya yardım eder. Uç arter olduğundan tıkanmada kangren ve perforasyon gelişebilir.",
+    "durum": "taslak"
+  },
+
+  "Taeniae coli": {
+    "grup": true,
+    "tr": "Tenya koli (taeniae coli)",
+    "ozet": "Kolonun dış boyuna kas tabakasının toplanmasıyla oluşan yaklaşık 1 cm genişliğindeki üç şerit; kolondan kısa oldukları için duvarda keseler (haustra) oluşturur.",
+    "bilgi": [
+      ["Şeritler", "Mezokolik (mezokolon tutunma yeri), omental (transvers kolonda büyük omentum tutunma yeri), serbest tenya"],
+      ["Uç noktalar", "Apendiks tabanında birleşir, rektosigmoid birleşimde dağılır"],
+      ["Eşlik eden yapılar", "Haustralar ve yağ ekleri (appendices epiploicae)"]
+    ],
+    "klinik": "Ameliyatta tenyaların izlenmesi apendiksin bulunmasını kolaylaştırır. Radyolojide haustralar kalın bağırsağı ince bağırsaktan ayırt ettirir.",
+    "durum": "taslak"
+  },
+
+  "Liver": {
+    "tr": "Karaciğer (hepar)",
+    "ozet": "Vücudun en büyük bezi ve iç organı (~1,5 kg); sağ üst karında diyaframın altında yer alır. Metabolizma, safra üretimi, detoksifikasyon, protein sentezi ve depolamada merkezi rol oynar.",
+    "bilgi": [
+      ["Loblar", "Anatomik: sağ, sol, kaudat, kuadrat; işlevsel: Couinaud'ya göre 8 bağımsız segment"],
+      ["Çift kanlanma", "Portal ven (~%75, besinden zengin kan) ve hepatik arter (~%25, oksijen)"],
+      ["Venöz drenaj", "Hepatik venler → alt vena kava"],
+      ["Bağlar", "Falsiform bağ, ligamentum teres hepatis (göbek veni kalıntısı), koroner ve triangüler bağlar"],
+      ["Görevler", "Safra (günde ~0,5–1 L), glikojen depolama, albümin ve pıhtılaşma faktörü sentezi, ilaç ve toksin metabolizması, bilirubin konjugasyonu, A, D, B12 vitaminleri ve demir depolama"]
+    ],
+    "bolumler": [
+      { "baslik": "Rejenerasyon", "metin": "Karaciğer, dokusunun büyük bölümü çıkarıldıktan sonra bile yeniden büyüyebilir; bu özellik canlı vericili karaciğer naklini mümkün kılar." }
+    ],
+    "klinik": "Siroz, viral hepatitler, yağlı karaciğer hastalığı ve hepatoselüler karsinom başlıca hastalıklarıdır. Portal hipertansiyon özofagus varisleri, asit ve karın duvarında genişlemiş venlere (caput medusae) yol açar. Karaciğer biyopsisi sağ 8.–10. interkostal aralıktan yapılabilir.",
+    "durum": "taslak"
+  },
+
+  "Gallbladder": {
+    "tr": "Safra kesesi (vesica biliaris)",
+    "ozet": "Karaciğerin alt yüzündeki çukura yerleşmiş armut biçimli kese; safrayı depolar ve yoğunlaştırır, yağlı yemekten sonra kasılarak onikiparmak bağırsağına boşaltır.",
+    "bilgi": [
+      ["Boyut", "~7–10 cm; kapasite ~30–50 mL"],
+      ["Bölümler", "Fundus, korpus, boyun (Hartmann poşu), spiral kıvrımlı sistik kanal"],
+      ["Yüzey işareti", "Fundus: sağ orta klavikular hattın kaburga kavsini kestiği yer (9. kaburga kıkırdağı ucu)"],
+      ["Kanlanma", "Sistik arter (çoğunlukla sağ hepatik arterden; Calot üçgeninde)"],
+      ["Uyarı", "Kolesistokinin (CCK) kasılmasını sağlar"]
+    ],
+    "klinik": "Safra taşları çok sıktır; akut kolesistitte sağ üst kadranda nefes alırken ağrıyla duraklama (Murphy belirtisi) görülür, ağrı sağ omza yansıyabilir. Laparoskopik kolesistektomide safra yolu yaralanmasını önlemek için Calot üçgeni diseksiyonuyla 'kritik güvenlik görüntüsü' elde edilir.",
+    "durum": "taslak"
+  },
+
+  "Bile duct": {
+    "tr": "Ortak safra kanalı (ductus choledochus)",
+    "ozet": "Ortak hepatik kanal ile sistik kanalın birleşmesiyle oluşan, safrayı onikiparmak bağırsağına taşıyan kanal.",
+    "bilgi": [
+      ["Uzunluk / çap", "~7–8 cm; ~6 mm"],
+      ["Seyir", "Küçük omentumun serbest kenarında (hepatoduodenal bağ), duodenum 1. bölümünün arkasından, pankreas başının arkasından veya içinden geçer"],
+      ["Sonlanma", "Pankreas kanalıyla hepatopankreatik ampullada (Vater) birleşir; Oddi sfinkteriyle çevrili büyük papillaya açılır"]
+    ],
+    "klinik": "Kanal taşı tıkanma sarılığı, kolanjit (ateş, sarılık, sağ üst kadran ağrısı: Charcot üçlüsü) ve biliyer pankreatite yol açar; ERCP ile tedavi edilir. Pankreas başı kanserinde ağrısız sarılık ve ele gelen büyük safra kesesi (Courvoisier belirtisi) görülür.",
+    "durum": "taslak"
+  },
+
+  "Pancreas": {
+    "tr": "Pankreas",
+    "ozet": "Karın arka duvarında L1–L2 hizasında enine uzanan, hem sindirim enzimleri (ekzokrin) hem de insülin ve glukagon gibi hormonlar (endokrin) üreten bez.",
+    "bilgi": [
+      ["Bölümler", "Baş (duodenum kıvrımı içinde; unsinat çıkıntı SMV arkasında), boyun (portal venin önünde), gövde, kuyruk (dalak hilusuna uzanır)"],
+      ["Ekzokrin (~%98)", "Asiner hücreler: tripsinojen, lipaz, amilaz; kanal hücreleri: bikarbonat — günde ~1,5 L salgı"],
+      ["Endokrin (~%1–2)", "Langerhans adacıkları: β (insülin), α (glukagon), δ (somatostatin) hücreleri"],
+      ["Kanlanma", "Pankreatikoduodenal arkadlar (gastroduodenal arter ve SMA), dalak arterinin pankreatik dalları"],
+      ["Periton ilişkisi", "Kuyruk dışında retroperitoneal"]
+    ],
+    "klinik": "Akut pankreatit (safra taşı, alkol) sırta yayılan şiddetli epigastrik ağrı ve yüksek lipaz ile seyreder. Pankreas kanseri kötü prognozludur; baş tümörlerinde Whipple ameliyatı uygulanır. Tip 1 diyabette β hücreleri otoimmün yolla yıkılır.",
+    "durum": "taslak"
+  },
+
+  "Pancreatic duct": {
+    "tr": "Pankreas kanalı (ductus pancreaticus, Wirsung kanalı)",
+    "ozet": "Pankreasın kuyruğundan başına boydan boya uzanan ana boşaltım kanalı.",
+    "bilgi": [["Sonlanma", "Ortak safra kanalıyla hepatopankreatik ampullada birleşerek büyük duodenal papillaya açılır"]],
+    "klinik": "Kanalın tıkanması pankreatite yol açar. Pankreas divisumda (%5–10) dorsal ve ventral kanallar birleşmemiştir; salgının çoğu yardımcı kanaldan boşalır.",
+    "durum": "taslak"
+  },
+
+  "Accessory pancreatic duct": {
+    "tr": "Yardımcı pankreas kanalı (ductus pancreaticus accessorius, Santorini kanalı)",
+    "ozet": "Pankreas başının bir bölümünü boşaltan, büyük papillanın ~2 cm üstündeki küçük duodenal papillaya açılan kanal.",
+    "bilgi": [["İlişki", "Çoğu kişide ana kanalla bağlantılıdır"]],
+    "klinik": "Pankreas divisumda pankreasın büyük kısmı bu kanal yoluyla boşalır ve dar küçük papilla pankreatite yatkınlık yaratabilir.",
+    "durum": "taslak"
+  }
+}

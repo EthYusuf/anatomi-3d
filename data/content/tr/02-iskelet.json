@@ -1,0 +1,638 @@
+{
+  "_aciklama": "Omurga, göğüs kafesi, üst ve alt ekstremite kemikleri, dişler ve kıkırdaklar",
+
+  "Cervical vertebrae": {
+    "grup": true,
+    "tr": "Boyun omurları (C1–C7)",
+    "ozet": "Omurganın boyun bölümünü oluşturan yedi omur. Küçük gövdeleri ve enine çıkıntılarındaki delikleri (foramen transversarium) ile tanınırlar.",
+    "bilgi": [
+      ["Sayı", "7 (C1 atlas ve C2 aksis atipik, C7 'vertebra prominens')"],
+      ["Tipik özellikler", "Küçük, enine geniş gövde; üçgen biçimli geniş omur deliği; çatallı (bifid) diken çıkıntısı; unkal çıkıntılar (uncovertebral / Luschka eklemleri)"],
+      ["Foramen transversarium", "C1–C6'dan vertebral arter geçer (C7 deliğinden genellikle yalnız ven geçer)"],
+      ["Eğrilik", "Öne doğru dışbükey (servikal lordoz)"]
+    ],
+    "klinik": "Boyun fıtıkları en sık C5–C6 ve C6–C7 düzeyindedir. Unkovertebral eklemlerdeki osteofitler sinir köklerine bası yapabilir. Boyun travmalarında omurilik yaralanması riski yüksektir.",
+    "durum": "taslak"
+  },
+
+  "Thoracic vertebrae": {
+    "grup": true,
+    "tr": "Göğüs omurları (T1–T12)",
+    "ozet": "Kaburgalarla eklem yapan on iki omur. Gövde ve enine çıkıntılarında kaburga eklem yüzeyleri (fovea costalis) bulunur.",
+    "bilgi": [
+      ["Sayı", "12"],
+      ["Tipik özellikler", "Kalp biçimli gövde, yuvarlak küçük omur deliği, aşağı-arkaya eğik uzun diken çıkıntısı"],
+      ["Kaburga eklemleri", "Gövdede üst ve alt fovea costalis (kaburga başı), enine çıkıntıda fovea costalis processus transversi (kaburga tüberkülü; T11–T12 hariç)"],
+      ["Eğrilik", "Arkaya doğru dışbükey (torakal kifoz)"]
+    ],
+    "klinik": "Osteoporoza bağlı kompresyon kırıkları en sık orta-alt göğüs omurlarında görülür ve kifozu artırır. Skolyoz çoğunlukla torakal bölgeyi tutar.",
+    "durum": "taslak"
+  },
+
+  "Lumbar vertebrae": {
+    "grup": true,
+    "tr": "Bel omurları (L1–L5)",
+    "ozet": "Vücut ağırlığının büyük kısmını taşıyan, omurganın en büyük gövdeli beş omuru.",
+    "bilgi": [
+      ["Sayı", "5"],
+      ["Tipik özellikler", "Büyük böbrek biçimli gövde, üçgen omur deliği, kalın dörtgen diken çıkıntısı, sagittal yönde eklem yüzleri"],
+      ["Ek çıkıntılar", "Processus mamillaris ve accessorius (derin sırt kaslarına tutunma)"],
+      ["Eğrilik", "Öne doğru dışbükey (lomber lordoz)"],
+      ["Omurilik ilişkisi", "Omurilik yetişkinde genellikle L1–L2 düzeyinde (konus medullaris) sonlanır; altında at kuyruğu (kauda ekina) bulunur"]
+    ],
+    "klinik": "Bel fıtıkları en sık L4–L5 ve L5–S1 disklerinde görülür ve siyatalgiye yol açar. Lomber ponksiyon omuriliğin bittiği yerin altında, L3–L4 veya L4–L5 aralığından yapılır. Spondilolistezis en sık L5'te olur.",
+    "durum": "taslak"
+  },
+
+  "Intervertebral disc": {
+    "grup": true,
+    "tr": "Omurlar arası disk (discus intervertebralis)",
+    "ozet": "Komşu omur gövdeleri arasında yer alan, dıştaki lifli halka (anulus fibrosus) ve ortadaki jel kıvamlı çekirdekten (nucleus pulposus) oluşan fibrokartilaj yastık. Şok emici ve hareket sağlayıcıdır.",
+    "bilgi": [
+      ["Yapı", "Anulus fibrosus (iç içe fibrokartilaj lameller), nucleus pulposus (su ve proteoglikandan zengin), kıkırdak uç plaklar"],
+      ["Sayı", "23 (C1–C2 arasında disk yoktur)"],
+      ["Beslenme", "Yetişkinde büyük ölçüde damarsızdır; uç plaklardan difüzyonla beslenir"],
+      ["Omurga uzunluğuna katkı", "Yaklaşık dörtte bir"]
+    ],
+    "klinik": "Yaşla su kaybederek dejenere olur. Anulus yırtılınca nükleus çoğunlukla arka-yana doğru fıtıklaşır (disk hernisi) ve sinir köküne bası yapar.",
+    "durum": "taslak"
+  },
+
+  "Nucleus pulposus": {
+    "grup": true,
+    "tr": "Nukleus pulpozus",
+    "ozet": "Omurlar arası diskin ortasındaki jel kıvamlı çekirdek; embriyonik notokord kalıntısıdır ve yükü diskin çevresine dağıtır.",
+    "bilgi": [
+      ["İçerik", "%70–90 su (gençlerde), proteoglikan ve tip II kollajen"],
+      ["Görev", "Basınç altında şekil değiştirerek yükü anulus fibrosus'a eşit dağıtır"]
+    ],
+    "klinik": "Disk hernisinde nukleus pulpozus anulus fibrosus'taki yırtıktan taşar; en sık arka-yan (posterolateral) yöne doğrudur.",
+    "durum": "taslak"
+  },
+
+  "Sacrum": {
+    "tr": "Sağrı kemiği (sakrum)",
+    "ozet": "Beş sakral omurun kaynaşmasıyla oluşan, pelvisin arka duvarını yapan üçgen biçimli kemik. Omurgayı kalça kemiklerine bağlar.",
+    "bilgi": [
+      ["Tür", "Kaynaşmış omurlar (S1–S5), tek"],
+      ["Eklemler", "L5 (lumbosakral), kalça kemikleri (sakroiliak eklemler), koksiks"],
+      ["Önemli yapılar", "Promontorium, ön ve arka sakral delikler, crista sacralis mediana, hiatus sacralis, facies auricularis, ala sacralis"],
+      ["Sakral kanal", "Kauda ekina ve dural kesenin alt ucu (genellikle S2 düzeyi) buradadır"]
+    ],
+    "klinik": "Kaudal (epidural) anestezi hiatus sacralis yoluyla uygulanır. Sakroiliak eklem iltihabı ankilozan spondilitin erken bulgusudur.",
+    "durum": "taslak"
+  },
+
+  "Coccyx": {
+    "tr": "Kuyruk kemiği (koksiks)",
+    "ozet": "Omurganın en alt ucunu oluşturan, 3–5 küçük körelmiş omurun kaynaşmasından oluşan kemik.",
+    "bilgi": [
+      ["Tür", "Kaynaşmış rudimenter omurlar"],
+      ["Tutunan yapılar", "Levator ani, koksigeus ve büyük kalça kası; anokoksigeal bağ"]
+    ],
+    "klinik": "Düşmelere bağlı kırık veya çıkıklarda oturunca artan ağrı (koksidini) görülür.",
+    "durum": "taslak"
+  },
+
+  "Manubrium of sternum": {
+    "tr": "Göğüs kemiği sapı (manubrium sterni)",
+    "ozet": "Göğüs kemiğinin en üst ve en geniş bölümü; köprücük kemikleri ve birinci kaburga kıkırdaklarıyla eklem yapar.",
+    "bilgi": [
+      ["Önemli yapılar", "Incisura jugularis (boyun çentiği), incisura clavicularis, birinci kaburga kıkırdağı çentiği"],
+      ["Eklemler", "Sternoklaviküler eklem, 1. kaburga (sinkondroz), manubriosternal eklem (angulus sterni)"]
+    ],
+    "klinik": "Angulus sterni (Louis açısı) ikinci kaburganın sternuma eklendiği düzeydir; kaburgaları saymak, trakea çatallanması ve aort kavsinin başlangıç–bitiş düzeyini (T4–T5) belirlemek için kullanılır.",
+    "durum": "taslak"
+  },
+
+  "Body of sternum": {
+    "tr": "Göğüs kemiği gövdesi (corpus sterni)",
+    "ozet": "Göğüs kemiğinin en uzun, orta bölümü; 2–7. kaburga kıkırdaklarıyla eklem yapar.",
+    "bilgi": [
+      ["Eklemler", "Manubrium (angulus sterni), ksifoid çıkıntı, 2.–7. kaburga kıkırdakları"],
+      ["Kemik iliği", "Yetişkinde kırmızı kemik iliği içerir"]
+    ],
+    "klinik": "Kemik iliği aspirasyonu için kullanılabilir. Açık kalp cerrahisinde göğüs, sternum ortadan bölünerek (median sternotomi) açılır. Kalp masajında bası gövdenin alt yarısına uygulanır.",
+    "durum": "taslak"
+  },
+
+  "Xiphoid process": {
+    "tr": "Ksifoid çıkıntı (kılıç çıkıntısı)",
+    "ozet": "Göğüs kemiğinin en alttaki, en küçük bölümü; yaşla kemikleşir.",
+    "bilgi": [
+      ["Tutunan yapılar", "Diyafram (sternal bölüm), rektus abdominis ve linea alba"],
+      ["Düzey", "Yaklaşık T9–T10 omuru"]
+    ],
+    "klinik": "Kalp masajında yanlış el yerleşimi ksifoid kırığına ve karaciğer yaralanmasına yol açabilir.",
+    "durum": "taslak"
+  },
+
+  "True ribs": {
+    "grup": true,
+    "tr": "Gerçek kaburgalar (1–7)",
+    "ozet": "Kendi kaburga kıkırdaklarıyla doğrudan göğüs kemiğine bağlanan ilk yedi kaburga çifti.",
+    "bilgi": [
+      ["Tipik kaburga", "Baş (caput costae), boyun, tüberkül, gövde ve alt kenardaki kaburga oluğu (sulcus costae)"],
+      ["Arka eklemler", "Kostovertebral (kaburga başı) ve kostotransvers eklemler"],
+      ["Sulcus costae", "İnterkostal ven, arter ve sinir (yukarıdan aşağıya VAN sırası) bu olukta seyreder"],
+      ["Atipik kaburgalar", "1., 2. (ve 10.–12.) kaburgalar"]
+    ],
+    "klinik": "Göğüs tüpü ve iğne aspirasyonu, interkostal demeti korumak için alttaki kaburganın üst kenarından yapılır. Birinci kaburga kırıkları ciddi yüksek enerjili travmayı düşündürür.",
+    "durum": "taslak"
+  },
+
+  "False ribs": {
+    "grup": true,
+    "tr": "Yalancı kaburgalar (8–10)",
+    "ozet": "Kıkırdakları doğrudan sternuma değil, üstteki kaburga kıkırdağına bağlanan kaburgalar; birlikte kaburga kavsini (arcus costalis) oluştururlar.",
+    "bilgi": [
+      ["Bağlantı", "7. kaburga kıkırdağına (dolaylı olarak sternuma)"],
+      ["Kaburga kavsi", "8–10. kaburga kıkırdaklarının birleşerek oluşturduğu alt göğüs kenarı"]
+    ],
+    "klinik": "Kaburga kavsi karaciğer ve dalak muayenesinde referans noktasıdır.",
+    "durum": "taslak"
+  },
+
+  "Floating ribs": {
+    "grup": true,
+    "tr": "Serbest (yüzen) kaburgalar (11–12)",
+    "ozet": "Ön uçları kaslar arasında serbestçe sonlanan, sternuma hiçbir şekilde bağlanmayan son iki kaburga çifti.",
+    "bilgi": [
+      ["Özellik", "Kısa, tüberkülsüz; tek eklem yüzlü başa sahip"],
+      ["Komşuluk", "12. kaburga böbreğin arka üst kısmıyla ve plevranın alt sınırıyla komşudur"]
+    ],
+    "klinik": "Böbrek cerrahisinde 12. kaburga bölgesinden girişimlerde plevra yaralanması riski vardır.",
+    "durum": "taslak"
+  },
+
+  "Costal cartilages": {
+    "grup": true,
+    "tr": "Kaburga kıkırdakları",
+    "ozet": "Kaburgaların ön uçlarını sternuma veya birbirine bağlayan hiyalin kıkırdak çubuklar; göğüs kafesine esneklik kazandırır.",
+    "bilgi": [
+      ["Doku", "Hiyalin kıkırdak"],
+      ["Görev", "Solunumda göğüs kafesinin genişlemesine izin verir"]
+    ],
+    "klinik": "Yaşla kalsifiye olur. Kostokondral eklem iltihabı (Tietze sendromu, kostokondrit) göğüs ağrısının kardiyak olmayan nedenlerindendir.",
+    "durum": "taslak"
+  },
+
+  "Clavicle": {
+    "tr": "Köprücük kemiği (klavikula)",
+    "ozet": "Kolu gövdeye bağlayan tek kemik payandası; S biçimli uzun kemik. Deri altında boydan boya ele gelir.",
+    "bilgi": [
+      ["Tür", "Uzun kemik, çift"],
+      ["Eklemler", "Sternum (sternoklaviküler), kürek kemiği akromiyonu (akromiyoklaviküler)"],
+      ["Tutunan kaslar", "Deltoid, trapez, büyük göğüs kası, sternokleidomastoid, subklavius, sternohiyoid"],
+      ["Kemikleşme", "Vücutta ilk kemikleşmeye başlayan kemik (5.–6. embriyonik hafta; büyük ölçüde zar içi)"]
+    ],
+    "klinik": "En sık kırılan kemiklerdendir; kırık genellikle orta ve dış üçte bir birleşiminde olur. Altındaki subklavyen damarlar ve brakiyal pleksus yaralanabilir.",
+    "durum": "taslak"
+  },
+
+  "Scapula": {
+    "tr": "Kürek kemiği (skapula)",
+    "ozet": "Göğüs kafesinin arka-üst bölümünde 2.–7. kaburgalar düzeyinde yer alan üçgen biçimli yassı kemik. Omuz ekleminin çukurunu taşır ve 17 kasa tutunma yeri verir.",
+    "bilgi": [
+      ["Tür", "Yassı kemik, çift"],
+      ["Önemli yapılar", "Spina scapulae, akromiyon, korakoid çıkıntı, cavitas glenoidalis, fossa supraspinata/infraspinata/subscapularis, tuberculum supra- ve infraglenoidale"],
+      ["Eklemler", "Humerus (glenohumeral / omuz eklemi), klavikula (akromiyoklaviküler)"],
+      ["Tutunan kaslar", "Rotator manşet (supraspinatus, infraspinatus, teres minor, subskapularis), deltoid, trapez, serratus anterior, rhomboidler, levator scapulae, biseps ve triseps (uzun başlar), korakobrakiyal, küçük göğüs kası, teres major, omohiyoid"]
+    ],
+    "klinik": "Uzun torasik sinir hasarında serratus anterior felç olur ve kürek kemiği kanat gibi kalkar (skapula alata). Akromiyonun biçimi subakromiyal sıkışma sendromuna yatkınlık yaratır.",
+    "durum": "taslak"
+  },
+
+  "Humerus": {
+    "tr": "Kol kemiği (humerus)",
+    "ozet": "Üst kolun tek kemiği; üstte omuz eklemini, altta dirsek eklemini oluşturur.",
+    "bilgi": [
+      ["Tür", "Uzun kemik, çift"],
+      ["Üst uç", "Caput humeri, collum anatomicum ve chirurgicum, tuberculum majus ve minus, sulcus intertubercularis (biseps uzun başı)"],
+      ["Gövde", "Tuberositas deltoidea, sulcus nervi radialis"],
+      ["Alt uç", "Capitulum, trochlea, medial ve lateral epikondil, fossa olecrani, sulcus nervi ulnaris"]
+    ],
+    "bolumler": [
+      { "baslik": "Sinirlerle ilişki", "metin": "Cerrahi boyunda aksiller sinir ve arka sirkumfleks humeral arter, gövdenin ortasında spiral olukta radiyal sinir ve derin brakiyal arter, medial epikondilin arkasında ulnar sinir kemiğe yakın seyreder." }
+    ],
+    "klinik": "Cerrahi boyun kırığı aksiller siniri, gövde kırığı radiyal siniri (el bileği düşüklüğü), medial epikondil kırığı ulnar siniri, suprakondiler kırık (çocuklarda) brakiyal arter ve median siniri tehdit eder.",
+    "durum": "taslak"
+  },
+
+  "Radius": {
+    "tr": "Döner kemik (radius)",
+    "ozet": "Önkolun dış (başparmak) tarafındaki kemik; pronasyon-supinasyon hareketinde ulnanın etrafında döner ve el bileği ekleminin büyük kısmını oluşturur.",
+    "bilgi": [
+      ["Tür", "Uzun kemik, çift"],
+      ["Önemli yapılar", "Caput radii, tuberositas radii (biseps tendonu), processus styloideus radii, incisura ulnaris, tuberculum dorsale (Lister)"],
+      ["Eklemler", "Humerus (humeroradiyal), ulna (proksimal ve distal radyoulnar), skafoid ve lunatum (radyokarpal)"]
+    ],
+    "klinik": "Uzanmış el üzerine düşmede distal radius kırığı (Colles kırığı: distal parçanın dorsale yer değiştirmesi, 'çatal görünümü') çok sıktır. Çocuklarda radius başı çıkığı ('dadı dirseği') görülür.",
+    "durum": "taslak"
+  },
+
+  "Ulna": {
+    "tr": "Dirsek kemiği (ulna)",
+    "ozet": "Önkolun iç (küçük parmak) tarafındaki kemik; üst ucu dirsek eklemini sağlamlaştıran büyük olekranonu taşır.",
+    "bilgi": [
+      ["Tür", "Uzun kemik, çift"],
+      ["Önemli yapılar", "Olekranon, processus coronoideus, incisura trochlearis ve radialis, tuberositas ulnae, caput ulnae, processus styloideus ulnae"],
+      ["Tutunan kaslar", "Triseps (olekranon), brakiyal (tuberositas ulnae), ankoneus, supinatör, pronator quadratus"]
+    ],
+    "klinik": "Dirseğin ucu olekranondur; direkt darbelerle kırılabilir. Monteggia kırığı: ulna kırığı + radius başı çıkığı.",
+    "durum": "taslak"
+  },
+
+  "Scaphoid bone": {
+    "tr": "Kayık kemik (os scaphoideum)",
+    "ozet": "El bileği kemiklerinin proksimal sırasındaki en büyük ve en sık kırılan kemik; anatomik enfiye kutusunun tabanında ele gelir.",
+    "bilgi": [
+      ["Sıra", "Proksimal karpal sıra (başparmak tarafı)"],
+      ["Eklemler", "Radius, lunatum, kapitatum, trapezium, trapezoid"],
+      ["Kanlanma", "Radiyal arter dalları; kan akımı distalden proksimale doğrudur"]
+    ],
+    "klinik": "Uzanmış el üzerine düşmede kırılır; kanlanma distalden geldiğinden bel kırıklarında proksimal parçada avasküler nekroz ve kaynamama riski yüksektir. Anatomik enfiye kutusunda hassasiyet önemli bir bulgudur.",
+    "durum": "taslak"
+  },
+
+  "Lunate bone": {
+    "tr": "Ay kemik (os lunatum)",
+    "ozet": "Proksimal karpal sıranın ortasında, radiusla eklem yapan yarım ay biçimli kemik.",
+    "bilgi": [
+      ["Sıra", "Proksimal karpal sıra"],
+      ["Eklemler", "Radius, skafoid, trikuetrum, kapitatum, hamatum"]
+    ],
+    "klinik": "En sık çıkan karpal kemiktir; öne (karpal tünele) çıktığında median sinire bası yapabilir. Kienböck hastalığı lunatumun avasküler nekrozudur.",
+    "durum": "taslak"
+  },
+
+  "Triquetrum bone": {
+    "tr": "Üçgen kemik (os triquetrum)",
+    "ozet": "Proksimal karpal sıranın iç (ulnar) tarafında, piramit biçimli kemik; ön yüzünde bezelye kemikle eklem yapar.",
+    "bilgi": [
+      ["Sıra", "Proksimal karpal sıra"],
+      ["Eklemler", "Lunatum, pisiforme, hamatum; artiküler disk aracılığıyla ulna"]
+    ],
+    "klinik": "Dorsal avülsiyon (kopma) kırıkları el bileği travmalarında sık görülür.",
+    "durum": "taslak"
+  },
+
+  "Pisiform bone": {
+    "tr": "Bezelye kemik (os pisiforme)",
+    "ozet": "Ulnar el bileği fleksör kasının tendonu içinde gelişen, bezelye büyüklüğünde sesamoid karpal kemik.",
+    "bilgi": [
+      ["Sıra", "Proksimal karpal sıra (trikuetrumun önünde)"],
+      ["Tutunan yapılar", "Fleksör karpi ulnaris, abdüktör digiti minimi, pisohamat ve pisometakarpal bağlar"]
+    ],
+    "klinik": "Ulnar sinir ve arter, pisiform ile hamatum çengeli arasındaki Guyon kanalından geçer; burada sıkışabilir.",
+    "durum": "taslak"
+  },
+
+  "Trapezium bone": {
+    "tr": "Trapez kemik (os trapezium)",
+    "ozet": "Distal karpal sıranın dış ucunda, başparmak metakarpıyla eyer biçimli eklem yapan kemik.",
+    "bilgi": [
+      ["Sıra", "Distal karpal sıra"],
+      ["Eklemler", "1. metakarp (eyer eklemi), skafoid, trapezoid, 2. metakarp"]
+    ],
+    "klinik": "Başparmak kök (trapeziometakarpal) eklemi osteoartritin en sık tuttuğu el eklemlerindendir.",
+    "durum": "taslak"
+  },
+
+  "Trapezoid bone": {
+    "tr": "Trapezoid kemik (os trapezoideum)",
+    "ozet": "Distal karpal sırada, trapezium ile kapitatum arasında yer alan küçük kemik; 2. metakarpla eklem yapar.",
+    "bilgi": [
+      ["Sıra", "Distal karpal sıra"],
+      ["Eklemler", "2. metakarp, trapezium, kapitatum, skafoid"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Capitate bone": {
+    "tr": "Başlı kemik (os capitatum)",
+    "ozet": "El bileği kemiklerinin en büyüğü; distal sıranın ortasında yer alır ve ilk kemikleşen karpal kemiktir.",
+    "bilgi": [
+      ["Sıra", "Distal karpal sıra"],
+      ["Eklemler", "3. metakarp (ve 2., 4.), skafoid, lunatum, trapezoid, hamatum"]
+    ],
+    "klinik": "Çocuklarda kemik yaşının belirlenmesinde karpal kemiklerin kemikleşme sırası kullanılır; kapitatum ve hamatum ilk görülenlerdir.",
+    "durum": "taslak"
+  },
+
+  "Hamate bone": {
+    "tr": "Çengelli kemik (os hamatum)",
+    "ozet": "Distal karpal sıranın iç tarafında, avuç içine doğru çengel (hamulus) uzatan kemik.",
+    "bilgi": [
+      ["Sıra", "Distal karpal sıra"],
+      ["Eklemler", "4. ve 5. metakarplar, kapitatum, trikuetrum, lunatum"],
+      ["Önemli yapı", "Hamulus ossis hamati — fleksör retinakulum tutunma yeri, karpal tünel ve Guyon kanalının sınırı"]
+    ],
+    "klinik": "Golf ve raket sporlarında hamulus kırığı görülebilir; ulnar sinir etkilenebilir.",
+    "durum": "taslak"
+  },
+
+  "Metacarpal bones": {
+    "grup": true,
+    "tr": "Tarak kemikleri (metakarplar)",
+    "ozet": "Avuç içinin iskeletini oluşturan beş uzun kemik; tabanları karpal kemiklerle, başları parmakların ilk falankslarıyla eklem yapar.",
+    "bilgi": [
+      ["Sayı", "5 (başparmaktan küçük parmağa I–V)"],
+      ["Bölümler", "Taban (basis), gövde, baş (caput — yumruk yapınca 'eklem tümsekleri')"],
+      ["Özellik", "1. metakarp en kısa ve en hareketlisidir (karşı koyma hareketi)"]
+    ],
+    "klinik": "Yumrukla vurmada 5. metakarp boynu kırılır ('boksör kırığı'). 1. metakarp tabanının eklem içi kırığı Bennett kırığıdır.",
+    "durum": "taslak"
+  },
+
+  "Phalanges of hand": {
+    "grup": true,
+    "tr": "El parmak kemikleri (falankslar)",
+    "ozet": "Parmakların iskeletini oluşturan küçük uzun kemikler. Başparmakta iki, diğer parmaklarda üçer falanks bulunur (toplam 14).",
+    "bilgi": [
+      ["Sayı", "14 (başparmak: proksimal ve distal; diğerleri: proksimal, orta, distal)"],
+      ["Eklemler", "Metakarpofalangeal (MKF), proksimal ve distal interfalangeal (PİF, DİF)"],
+      ["Distal falanks", "Ucunda tırnak yatağını taşıyan tuberositas phalangis distalis bulunur"]
+    ],
+    "klinik": "Distal falanks ezilme kırıkları sıktır. Ekstansör tendonun distal falankstan kopması 'çekiç parmak' (mallet finger) deformitesine yol açar.",
+    "durum": "taslak"
+  },
+
+  "Hip bone": {
+    "tr": "Kalça kemiği (os coxae)",
+    "ozet": "İlium, iskiyum ve pubis kemiklerinin asetabulumda kaynaşmasıyla oluşan büyük yassı kemik; sakrumla birlikte pelvis halkasını oluşturur.",
+    "bilgi": [
+      ["Tür", "Yassı / düzensiz kemik, çift"],
+      ["Bölümler", "İlium (kalça kanadı), iskiyum (oturma kemiği), pubis (çatı kemiği); kaynaşma yeri asetabulum (Y kıkırdağı ergenlikte kemikleşir)"],
+      ["Önemli yapılar", "Crista iliaca, SİAS ve SİAİ, SİPS, tuber ischiadicum, spina ischiadica, incisura ischiadica major/minor, foramen obturatum, symphysis pubica, linea arcuata"],
+      ["Eklemler", "Sakrum (sakroiliak), karşı taraf pubis (simfiz), femur (kalça eklemi)"]
+    ],
+    "bolumler": [
+      { "baslik": "Kadın–erkek pelvis farkı", "metin": "Kadın pelvisinde pelvis girişi daha geniş ve ovaldir, subpubik açı daha geniştir (>80°), iskiyal çıkıntılar daha dışa açıktır; doğum kanalına uyumdur." }
+    ],
+    "klinik": "Kemik iliği biyopsisi genellikle crista iliaca'nın arka bölümünden yapılır. Pelvis halkası kırıkları ciddi iç kanamaya yol açabilir. SİAS inguinal ligamentin dış ucudur ve önemli bir yüzey işaretidir.",
+    "durum": "taslak"
+  },
+
+  "Femur": {
+    "tr": "Uyluk kemiği (femur)",
+    "ozet": "Vücudun en uzun, en ağır ve en güçlü kemiği; üstte kalça eklemini, altta diz eklemini oluşturur.",
+    "bilgi": [
+      ["Tür", "Uzun kemik, çift"],
+      ["Üst uç", "Caput femoris (fovea capitis — lig. capitis femoris), collum femoris, trochanter major ve minor, linea ve crista intertrochanterica"],
+      ["Gövde", "Linea aspera (adduktörler ve vastusların tutunma yeri), tuberositas glutea"],
+      ["Alt uç", "Medial ve lateral kondil ile epikondiller, fossa intercondylaris, facies patellaris, tuberculum adductorium"],
+      ["Açılar", "Boyun-gövde açısı ~125°; anteversiyon ~10–15°"]
+    ],
+    "bolumler": [
+      { "baslik": "Kanlanma", "metin": "Femur başı çoğunlukla medial sirkumfleks femoral arterin retinaküler dallarıyla beslenir; lig. capitis femoris içindeki arter yetişkinde katkısı azdır." }
+    ],
+    "klinik": "Yaşlılarda boyun kırıkları sıktır; retinaküler damarlar yırtılırsa femur başında avasküler nekroz gelişir ve bacak kısalıp dışa döner. Gövde kırıkları ciddi kan kaybına (1–1,5 L) yol açabilir.",
+    "durum": "taslak"
+  },
+
+  "Patella": {
+    "tr": "Diz kapağı (patella)",
+    "ozet": "Kuadriseps tendonu içinde gelişen, vücudun en büyük sesamoid kemiği; kuadriseps kasının kaldıraç kolunu uzatarak diz ekstansiyonunu güçlendirir.",
+    "bilgi": [
+      ["Tür", "Sesamoid kemik, çift"],
+      ["Bölümler", "Taban (üstte), tepe (apex, altta), eklem yüzü (lateral faset daha geniş)"],
+      ["Bağlantılar", "Kuadriseps tendonu (üstte), patellar bağ ile tuberositas tibiae'ye (altta), medial ve lateral retinakulumlar"]
+    ],
+    "klinik": "Patella genellikle dışa (lateral) çıkar; vastus medialisin alt (oblik) lifleri bunu önlemeye yardım eder. Direkt darbeyle kırılabilir; ekstansör mekanizma bozulursa cerrahi gerekir.",
+    "durum": "taslak"
+  },
+
+  "Tibia": {
+    "tr": "Kaval kemiği (tibia)",
+    "ozet": "Bacağın iç tarafındaki, vücut ağırlığını taşıyan kalın kemik; ön kenarı ve iç yüzü deri altında ele gelir.",
+    "bilgi": [
+      ["Tür", "Uzun kemik, çift"],
+      ["Üst uç", "Medial ve lateral kondiller (tibia platosu), eminentia intercondylaris, tuberositas tibiae"],
+      ["Alt uç", "Malleolus medialis (iç topuk kemiği), incisura fibularis"],
+      ["Eklemler", "Femur (diz), fibula (üst ve alt tibiofibular), talus (ayak bileği)"]
+    ],
+    "klinik": "Uzun kemikler arasında en sık açık kırığa uğrayandır (ön yüzü yalnız deriyle örtülü). Kaynamama riski özellikle alt üçte birde yüksektir. Tibia önü ağrısı (shin splints) koşucularda sıktır.",
+    "durum": "taslak"
+  },
+
+  "Fibula": {
+    "tr": "Kamış kemiği (fibula)",
+    "ozet": "Bacağın dış tarafındaki ince kemik; ağırlık taşımada az rol oynar ancak ayak bileği ekleminin dış duvarını (lateral malleol) oluşturur ve kaslara tutunma yeri verir.",
+    "bilgi": [
+      ["Tür", "Uzun kemik, çift"],
+      ["Önemli yapılar", "Caput fibulae, collum fibulae, malleolus lateralis (dış topuk kemiği)"],
+      ["Sinirle ilişki", "Ortak fibular sinir fibula boynunun çevresini sarar"]
+    ],
+    "klinik": "Fibula boynu kırıkları veya alçı basısı ortak fibular siniri zedeleyerek düşük ayağa yol açabilir. Fibula, çene rekonstrüksiyonunda damarlı kemik grefti olarak kullanılır.",
+    "durum": "taslak"
+  },
+
+  "Talus": {
+    "tr": "Aşık kemiği (talus)",
+    "ozet": "Bacak ile ayak arasında ağırlığı aktaran, hiçbir kasın tutunmadığı tarsal kemik; ayak bileği ekleminin alt parçasıdır.",
+    "bilgi": [
+      ["Bölümler", "Baş, boyun, gövde (trochlea tali), arka çıkıntı"],
+      ["Eklemler", "Tibia ve fibula (talokrural), kalkaneus (subtalar), naviküler (talokalkaneonaviküler)"],
+      ["Özellik", "Yüzeyinin büyük kısmı eklem kıkırdağıyla kaplıdır; kas tutunmaz"]
+    ],
+    "klinik": "Talus boynu kırıklarında (yüksekten düşme, trafik) kanlanma bozulur ve avasküler nekroz sık görülür.",
+    "durum": "taslak"
+  },
+
+  "Calcaneus": {
+    "tr": "Topuk kemiği (kalkaneus)",
+    "ozet": "Ayağın en büyük kemiği; topuğu oluşturur ve Aşil tendonuna tutunma yeri verir.",
+    "bilgi": [
+      ["Önemli yapılar", "Tuber calcanei (Aşil tendonu), sustentaculum tali, trochlea fibularis, sulcus calcanei"],
+      ["Eklemler", "Talus (subtalar), küboid (kalkaneoküboid)"],
+      ["Tutunan yapılar", "Aşil tendonu, plantar aponevroz, kısa ayak kasları, uzun plantar bağ"]
+    ],
+    "klinik": "Yüksekten topukların üzerine düşmede kırılır (sıklıkla bel omuru kırığıyla birlikte). Plantar fasiit ve topuk dikeni (kalkaneal spur) topuk ağrısının sık nedenleridir.",
+    "durum": "taslak"
+  },
+
+  "Navicular bone": {
+    "tr": "Kayık kemik (os naviculare)",
+    "ozet": "Ayağın iç kenarında, talus başı ile kama kemikleri arasında yer alan tarsal kemik; iç boyuna kemerin anahtar taşlarındandır.",
+    "bilgi": [
+      ["Eklemler", "Talus, üç kama kemiği (bazen küboid)"],
+      ["Önemli yapı", "Tuberositas ossis navicularis — arka tibial kas tendonu"]
+    ],
+    "klinik": "Aksesuar naviküler kemik iç ayak ağrısına yol açabilir. Sporcularda stres kırığı görülebilir.",
+    "durum": "taslak"
+  },
+
+  "Cuboid bone": {
+    "tr": "Küp kemik (os cuboideum)",
+    "ozet": "Ayağın dış kenarında, kalkaneus ile 4.–5. metatarslar arasında yer alan tarsal kemik.",
+    "bilgi": [
+      ["Eklemler", "Kalkaneus, 4.–5. metatarslar, dış kama kemiği, naviküler"],
+      ["Önemli yapı", "Uzun fibular kas tendonu altındaki olukta seyreder"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Medial cuneiform bone": {
+    "tr": "İç kama kemiği (os cuneiforme mediale)",
+    "ozet": "Kama kemiklerinin en büyüğü; ayak başparmağının metatarsıyla eklem yapar.",
+    "bilgi": [
+      ["Eklemler", "Naviküler, orta kama kemiği, 1. ve 2. metatars"],
+      ["Tutunan yapılar", "Ön tibial kas ve uzun fibular kas tendonları"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Intermediate cuneiform bone": {
+    "tr": "Orta kama kemiği (os cuneiforme intermedium)",
+    "ozet": "Kama kemiklerinin en küçüğü; 2. metatarsla eklem yapar ve Lisfranc ekleminde 'kilit taşı' yuvasını oluşturur.",
+    "bilgi": [["Eklemler", "Naviküler, iç ve dış kama kemikleri, 2. metatars"]],
+    "durum": "taslak"
+  },
+
+  "Lateral cuneiform bone": {
+    "tr": "Dış kama kemiği (os cuneiforme laterale)",
+    "ozet": "Orta ile küboid arasında yer alan kama kemiği; 3. metatarsla eklem yapar.",
+    "bilgi": [["Eklemler", "Naviküler, orta kama, küboid, 2.–4. metatarslar"]],
+    "durum": "taslak"
+  },
+
+  "Metatarsal bones": {
+    "grup": true,
+    "tr": "Ayak tarak kemikleri (metatarslar)",
+    "ozet": "Ayağın orta bölümünü oluşturan beş uzun kemik; başları ağırlığın öne aktarıldığı 'ayak topu'nu oluşturur.",
+    "bilgi": [
+      ["Sayı", "5 (başparmaktan küçük parmağa I–V)"],
+      ["Özellik", "1. metatars en kısa ve en kalın olanıdır; 5. metatars tabanında tuberositas (kısa fibular kas tendonu) bulunur"]
+    ],
+    "klinik": "Uzun yürüyüşlerde 2.–3. metatarslarda stres ('marş') kırığı görülür. 5. metatars tabanı kırıkları (Jones kırığı) kaynamama eğilimlidir.",
+    "durum": "taslak"
+  },
+
+  "Phalanges of foot": {
+    "grup": true,
+    "tr": "Ayak parmak kemikleri (falankslar)",
+    "ozet": "Ayak parmaklarının iskeleti; başparmakta iki, diğer parmaklarda üçer falanks bulunur (toplam 14).",
+    "bilgi": [
+      ["Sayı", "14"],
+      ["Eklemler", "Metatarsofalangeal ve interfalangeal eklemler"]
+    ],
+    "klinik": "Halluks valgus (başparmak çıkıntısı) başparmağın metatarsofalangeal ekleminde dışa sapmasıdır.",
+    "durum": "taslak"
+  },
+
+  "Sesamoid bones of foot": {
+    "tr": "Ayağın sesamoid kemikleri",
+    "ozet": "Ayak başparmağının metatars başı altında, kısa başparmak fleksör kasının tendonları içinde bulunan iki küçük kemik.",
+    "bilgi": [["Görev", "Uzun başparmak fleksör tendonunu korur, kaldıraç etkisini artırır ve yükü dağıtır"]],
+    "klinik": "Dansçı ve koşucularda sesamoidit ve stres kırıkları görülebilir.",
+    "durum": "taslak"
+  },
+
+  "Incisors": {
+    "grup": true,
+    "tr": "Kesici dişler",
+    "ozet": "Ağzın ön bölümünde her çenede dört adet bulunan, keskin kenarlı, tek köklü dişler; besinleri keser.",
+    "bilgi": [
+      ["Sayı (kalıcı dişlenme)", "8 (her yarım çenede orta ve yan kesici)"],
+      ["Kök", "Tek"],
+      ["Sürme zamanı", "Kalıcı orta kesiciler 6–8 yaş, yan kesiciler 7–9 yaş"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Canines": {
+    "grup": true,
+    "tr": "Köpek dişleri",
+    "ozet": "Kesici dişlerin yanında bulunan, sivri tepeli ve vücudun en uzun köklü dişleri; besinleri yırtar.",
+    "bilgi": [
+      ["Sayı", "4"],
+      ["Kök", "Tek, en uzun kök"],
+      ["Sürme zamanı", "Üst 11–12 yaş, alt 9–10 yaş"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Premolars": {
+    "grup": true,
+    "tr": "Küçük azı dişleri",
+    "ozet": "Köpek dişleri ile büyük azılar arasında her yarım çenede ikişer bulunan, iki tüberküllü dişler; ezme ve yırtmaya katkı verir.",
+    "bilgi": [
+      ["Sayı", "8"],
+      ["Kök", "Genellikle tek (üst birinci küçük azı çoğunlukla iki köklü)"],
+      ["Not", "Süt dişlenmesinde küçük azı yoktur"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Molars": {
+    "grup": true,
+    "tr": "Büyük azı dişleri",
+    "ozet": "Ağzın en arkasındaki, geniş çiğneme yüzeyli ve çok köklü dişler; besinleri öğütür.",
+    "bilgi": [
+      ["Sayı", "12 (üçüncü azılar — yirmilik dişler — dahil)"],
+      ["Kök", "Üst azılar genellikle üç, alt azılar iki köklü"],
+      ["Sürme zamanı", "1. azı ~6 yaş, 2. azı ~12 yaş, 3. azı 17–21 yaş"]
+    ],
+    "klinik": "Üst azı kökleri maksiller sinüse çok yakındır. Gömülü yirmilik dişler perikoronit ve komşu diş hasarına yol açabilir.",
+    "durum": "taslak"
+  },
+
+  "Thyroid cartilage": {
+    "tr": "Tiroid kıkırdak",
+    "ozet": "Gırtlağın en büyük kıkırdağı; iki levhanın önde birleşmesiyle oluşan çıkıntı erkeklerde 'Âdem elması' olarak belirgindir. Ses tellerini önden korur.",
+    "bilgi": [
+      ["Doku", "Hiyalin kıkırdak (yaşla kemikleşebilir)"],
+      ["Bölümler", "Sağ ve sol lamina, prominentia laryngea, üst ve alt boynuzlar"],
+      ["Bağlantılar", "Tirohiyoid zar ile dil kemiğine, krikotiroid eklem ile krikoid kıkırdağa"]
+    ],
+    "klinik": "Ses telleri tiroid kıkırdağın iç yüzünün önüne tutunur. Acil hava yolunda krikotiroidotomi, tiroid ve krikoid kıkırdak arasındaki krikotiroid zardan yapılır.",
+    "durum": "taslak"
+  },
+
+  "Cricoid cartilage": {
+    "tr": "Krikoid kıkırdak (yüzük kıkırdak)",
+    "ozet": "Gırtlağın alt ucundaki, hava yolunu tam çember olarak saran tek kıkırdak; önü dar, arkası geniş bir yüzüğe benzer.",
+    "bilgi": [
+      ["Düzey", "C6 omuru"],
+      ["Eklemler", "Tiroid kıkırdak (krikotiroid), aritenoid kıkırdaklar (krikoaritenoid)"],
+      ["İlişki", "Altında trakea, arkasında yemek borusunun başlangıcı"]
+    ],
+    "klinik": "Acil entübasyonda krikoide bası (Sellick manevrası) yemek borusunu sıkıştırmak için uygulanabilir. Hava yolunun tam kıkırdak halkalı tek noktasıdır.",
+    "durum": "taslak"
+  },
+
+  "Arytenoid cartilage": {
+    "tr": "Aritenoid kıkırdak",
+    "ozet": "Krikoid kıkırdağın arka üst kenarına oturan, piramit biçimli çift kıkırdak; ses tellerinin arka ucu ona tutunur ve hareketleri glottisi açıp kapatır.",
+    "bilgi": [
+      ["Bölümler", "Processus vocalis (ses teli), processus muscularis (krikoaritenoid kaslar), apex"],
+      ["Hareket", "Kayma ve dönme; ses tellerini birbirine yaklaştırır veya uzaklaştırır"]
+    ],
+    "klinik": "Entübasyon travmasıyla aritenoid çıkığı ses kısıklığına yol açabilir. Tek abdüktör kas (posterior krikoaritenoid) buradan etki eder.",
+    "durum": "taslak"
+  },
+
+  "Corniculate cartilage": {
+    "tr": "Kornikülat kıkırdak",
+    "ozet": "Aritenoid kıkırdakların tepesine oturan küçük elastik kıkırdak çifti; ariepiglottik kıvrımın arka ucunu destekler.",
+    "bilgi": [["Doku", "Elastik kıkırdak"]],
+    "durum": "taslak"
+  },
+
+  "Nasal septal cartilage": {
+    "tr": "Burun septum kıkırdağı",
+    "ozet": "Burun septumunun ön bölümünü oluşturan dörtgen biçimli hiyalin kıkırdak plak.",
+    "bilgi": [["Bağlantılar", "Arkada kalbur kemiğinin lamina perpendicularis'i ve vomer, önde büyük kanat kıkırdakları"]],
+    "klinik": "Septum deviasyonu ve septum hematomu bu kıkırdağı etkiler; hematom drene edilmezse kıkırdak nekrozu ve 'semer burun' gelişebilir.",
+    "durum": "taslak"
+  },
+
+  "Major alar cartilage": {
+    "tr": "Büyük kanat kıkırdağı",
+    "ozet": "Burun ucunu ve burun deliklerinin kenarını biçimlendiren U şekilli kıkırdak çifti.",
+    "bilgi": [["Bölümler", "Medial ve lateral bacak (crus mediale / laterale)"]],
+    "klinik": "Rinoplastide burun ucu biçimi bu kıkırdaklar üzerinde çalışılarak değiştirilir.",
+    "durum": "taslak"
+  }
+}
