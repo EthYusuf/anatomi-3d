@@ -1,0 +1,707 @@
+{
+  "_aciklama": "Alt ekstremite kasları: kalça, uyluk, bacak ve ayak",
+
+  "Gluteus maximus muscle": {
+    "tr": "Büyük kalça kası (m. gluteus maximus)",
+    "ozet": "Kalçanın biçimini veren, vücudun en büyük ve en güçlü kaslarından biri; uyluğu güçlü biçimde ekstansiyona getirir (merdiven çıkma, oturduğu yerden kalkma, koşma).",
+    "bilgi": [
+      ["Origo", "İliumun arka gluteal çizginin gerisi, sakrum ve koksiksin sırt yüzü, sakrotüberöz bağ, erektör spina aponevrozu"],
+      ["İnsersiyo", "Liflerin çoğu iliotibial trakta (tibia dış kondili — Gerdy tüberkülü); derin lifler femurun tuberositas glutea'sı"],
+      ["İnnervasyon", "Alt gluteal sinir (L5–S2)"],
+      ["Kanlanma", "Alt ve üst gluteal arterler"],
+      ["Fonksiyon", "Uyluğu, özellikle bükük pozisyondan ekstansiyona getirir; dış rotasyona yardım eder; iliotibial trakt yoluyla dizi ekstansiyonda stabilize eder; gövdeyi bükük pozisyondan kaldırır"]
+    ],
+    "klinik": "Kas içi enjeksiyonlar siyatik sinire zarar vermemek için kalçanın üst-dış çeyreğine yapılır. Kasın zayıflığında hasta gövdesini geriye atarak yürür ve merdiven çıkmakta zorlanır.",
+    "durum": "taslak"
+  },
+
+  "Gluteus medius muscle": {
+    "tr": "Orta kalça kası (m. gluteus medius)",
+    "ozet": "Büyük kalça kasının kısmen altında yer alan yelpaze kas; yürürken karşı bacak havadayken pelvisi dengede tutar.",
+    "bilgi": [
+      ["Origo", "İliumun dış yüzü, ön ve arka gluteal çizgiler arası"],
+      ["İnsersiyo", "Trokanter majorun dış yüzü"],
+      ["İnnervasyon", "Üst gluteal sinir (L4–S1)"],
+      ["Kanlanma", "Üst gluteal arter"],
+      ["Fonksiyon", "Uyluğu abdüksiyona getirir, ön lifleri iç rotasyon yapar; tek ayak üzerinde dururken pelvisi dengede tutar"]
+    ],
+    "klinik": "Üst gluteal sinir hasarı veya kas zayıflığında hasta sağlam bacağını kaldırınca pelvis o tarafa düşer (Trendelenburg belirtisi); yürüyüş 'ördekvari' olur. Büyük trokanter ağrı sendromunda tendonu sıklıkla etkilenir.",
+    "durum": "taslak"
+  },
+
+  "Gluteus minimus muscle": {
+    "tr": "Küçük kalça kası (m. gluteus minimus)",
+    "ozet": "Kalça kaslarının en derini ve en küçüğü; orta kalça kasıyla birlikte çalışır.",
+    "bilgi": [
+      ["Origo", "İliumun dış yüzü, ön ve alt gluteal çizgiler arası"],
+      ["İnsersiyo", "Trokanter majorun ön yüzü"],
+      ["İnnervasyon", "Üst gluteal sinir (L4–S1)"],
+      ["Kanlanma", "Üst gluteal arter"],
+      ["Fonksiyon", "Uyluğu abdüksiyon ve iç rotasyona getirir; yürürken pelvisi dengeler"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Tensor fasciae latae": {
+    "tr": "Uyluk zarını geren kas (m. tensor fasciae latae)",
+    "ozet": "Kalçanın ön-dış yüzünde yer alan, iliotibial trakta tutunan kas.",
+    "bilgi": [
+      ["Origo", "SİAS ve krista iliaka'nın ön bölümü"],
+      ["İnsersiyo", "İliotibial trakt (tibia dış kondiline uzanır)"],
+      ["İnnervasyon", "Üst gluteal sinir (L4–S1)"],
+      ["Fonksiyon", "Uyluğu abdüksiyon, iç rotasyon ve fleksiyona getirir; dizin ekstansiyonda kalmasına ve gövdenin uyluk üzerinde dengelenmesine yardım eder"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Iliotibial tract": {
+    "tr": "İliotibial trakt (tractus iliotibialis)",
+    "ozet": "Uyluğun dış yüzünde, fascia lata'nın kalınlaşmasıyla oluşan güçlü lifli şerit; kalça ve dizi dıştan stabilize eder.",
+    "bilgi": [
+      ["Uzanım", "İliak tüberkül – tibia dış kondili (Gerdy tüberkülü)"],
+      ["Bağlanan kaslar", "Tensor fasciae latae ve büyük kalça kası"]
+    ],
+    "klinik": "Koşucu ve bisikletçilerde femur dış kondili üzerinde sürtünmeye bağlı iliotibial bant sendromu dizin dış yanında ağrı yapar. Cerrahide fasya grefti kaynağı olarak kullanılır.",
+    "durum": "taslak"
+  },
+
+  "Piriformis muscle": {
+    "tr": "Armut biçimli kas (m. piriformis)",
+    "ozet": "Sakrumun ön yüzünden büyük trokantere uzanan derin kalça kası; büyük siyatik deliği üst ve alt bölmelere ayıran anahtar yer işaretidir.",
+    "bilgi": [
+      ["Origo", "Sakrumun ön yüzü (S2–S4), büyük siyatik çentiğin üst kenarı, sakrotüberöz bağ"],
+      ["İnsersiyo", "Trokanter majorun üst kenarı"],
+      ["İnnervasyon", "Ön dallardan piriformis siniri (S1–S2)"],
+      ["Fonksiyon", "Ekstansiyondaki uyluğu dışa döndürür, fleksiyondaki uyluğu abdüksiyona getirir; femur başını asetabulumda tutar"],
+      ["Komşuluk", "Üstünden üst gluteal damar-sinir; altından siyatik sinir, alt gluteal damar-sinir ve pudendal sinir çıkar"]
+    ],
+    "klinik": "Piriformis sendromunda siyatik sinir kas tarafından sıkıştırılarak kalça ve bacak ağrısı oluşur. İnsanların bir bölümünde siyatik sinirin bir kısmı kasın içinden geçer.",
+    "durum": "taslak"
+  },
+
+  "Superior gemellus muscle": {
+    "tr": "Üst ikiz kas (m. gemellus superior)",
+    "ozet": "Obturator internus tendonunun üst kenarına eşlik eden küçük kas.",
+    "bilgi": [
+      ["Origo", "Spina ischiadica'nın dış yüzü"],
+      ["İnsersiyo", "Obturator internus tendonuyla trokanter majorun iç yüzü"],
+      ["İnnervasyon", "Obturator internus siniri (L5–S1)"],
+      ["Fonksiyon", "Uyluğu dışa döndürür; fleksiyondaki uyluğu abdüksiyona getirir; femur başını sabitler"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Inferior gemellus muscle": {
+    "tr": "Alt ikiz kas (m. gemellus inferior)",
+    "ozet": "Obturator internus tendonunun alt kenarına eşlik eden küçük kas.",
+    "bilgi": [
+      ["Origo", "Tuber ischiadicum'un üst bölümü"],
+      ["İnsersiyo", "Obturator internus tendonuyla trokanter majorun iç yüzü"],
+      ["İnnervasyon", "Kuadratus femoris siniri (L5–S1)"],
+      ["Fonksiyon", "Uyluğu dışa döndürür; femur başını sabitler"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Obturator internus": {
+    "tr": "İç obturator kas (m. obturator internus)",
+    "ozet": "Pelvisin yan duvarından başlayıp küçük siyatik delikten dik açıyla dönerek trokantere uzanan kas.",
+    "bilgi": [
+      ["Origo", "Obturator zarın pelvik yüzü ve çevresindeki kemikler"],
+      ["İnsersiyo", "Trokanter majorun iç yüzü (trokanterik çukur)"],
+      ["İnnervasyon", "Obturator internus siniri (L5–S1)"],
+      ["Fonksiyon", "Uyluğu dışa döndürür; fleksiyondaki uyluğu abdüksiyona getirir; kalça eklemini stabilize eder"],
+      ["Komşuluk", "Fasyası levator ani tendinöz arkını ve pudendal kanalı (Alcock) oluşturur"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Obturator externus": {
+    "tr": "Dış obturator kas (m. obturator externus)",
+    "ozet": "Obturator zarın dış yüzünden başlayan, femur boynunun altından trokanterik çukura uzanan derin kas.",
+    "bilgi": [
+      ["Origo", "Obturator deliğin kenarları ve obturator zarın dış yüzü"],
+      ["İnsersiyo", "Femurun trokanterik çukuru"],
+      ["İnnervasyon", "Obturator sinir (L3–L4)"],
+      ["Fonksiyon", "Uyluğu dışa döndürür; femur başını asetabulumda sabitler"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Quadratus femoris muscle": {
+    "tr": "Kare uyluk kası (m. quadratus femoris)",
+    "ozet": "Tuber ischiadicum ile femur arasında yatay uzanan dörtgen kas; güçlü bir dış rotatördür.",
+    "bilgi": [
+      ["Origo", "Tuber ischiadicum'un dış kenarı"],
+      ["İnsersiyo", "Crista intertrochanterica üzerindeki kuadrat tüberkül"],
+      ["İnnervasyon", "Kuadratus femoris siniri (L5–S1)"],
+      ["Fonksiyon", "Uyluğu dışa döndürür; femur başını sabitler"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Iliacus muscle": {
+    "tr": "İliak kas (m. iliacus)",
+    "ozet": "İliak çukuru dolduran yelpaze kas; psoas major ile birleşerek iliopsoas kasını oluşturur.",
+    "bilgi": [
+      ["Origo", "Krista iliaka, fossa iliaca, sakrum kanadı, ön sakroiliak bağlar"],
+      ["İnsersiyo", "Psoas major tendonu, trokanter minor ve altındaki femur bölümü"],
+      ["İnnervasyon", "Femoral sinir (L2–L3)"],
+      ["Kanlanma", "İliolomber arterin iliak dalı"],
+      ["Fonksiyon", "Psoas ile birlikte uyluğu kalçada büker ve kalça eklemini stabilize eder; bacak sabitken gövdeyi öne büker"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Psoas major": {
+    "tr": "Büyük bel kası (m. psoas major)",
+    "ozet": "Bel omurlarının yanından kasığa uzanan uzun kalın kas; iliakusla birlikte kalçanın en güçlü bükücüsüdür. Lomber pleksus bu kasın içinde oluşur.",
+    "bilgi": [
+      ["Origo", "T12–L5 omur gövdelerinin yanları ve aradaki diskler; tüm lomber enine çıkıntılar"],
+      ["İnsersiyo", "Trokanter minor (iliopsoas tendonu olarak)"],
+      ["İnnervasyon", "Lomber sinirlerin ön dalları (L1–L3)"],
+      ["Kanlanma", "Lomber arterler"],
+      ["Fonksiyon", "Uyluğu kalçada büker; tek taraflı kasılmada omurgayı yana eğer; sırtüstü yatarken gövdeyi kaldırır (mekik)"]
+    ],
+    "klinik": "Omurga tüberkülozunda apse psoas kılıfı boyunca kasığa kadar inebilir. Apandisitte bacağın pasif ekstansiyonunda karın ağrısı (psoas belirtisi) görülebilir.",
+    "durum": "taslak"
+  },
+
+  "Sartorius muscle": {
+    "tr": "Terzi kası (m. sartorius)",
+    "ozet": "Vücudun en uzun kası; uyluğun önünden çapraz iner ve bağdaş kurma ('terzi oturuşu') hareketini sağlar.",
+    "bilgi": [
+      ["Origo", "SİAS ve altındaki çentiğin üst bölümü"],
+      ["İnsersiyo", "Tibia iç yüzünün üst bölümü (pes anserinus)"],
+      ["İnnervasyon", "Femoral sinir (L2–L3)"],
+      ["Kanlanma", "Femoral arter dalları"],
+      ["Fonksiyon", "Uyluğu kalçada büker, abdüksiyon ve dış rotasyona getirir; dizi büker"],
+      ["Yer işareti", "Femoral üçgenin dış sınırını oluşturur ve adduktor kanalı örter"]
+    ],
+    "klinik": "Pes anserinus (sartorius, grasilis ve semitendinozus ortak tutunma yeri) bursiti dizin iç-alt yanında ağrı yapar.",
+    "durum": "taslak"
+  },
+
+  "Rectus femoris muscle": {
+    "tr": "Düz uyluk kası (m. rectus femoris)",
+    "ozet": "Kuadriseps kasının kalça eklemini de aşan tek başı; hem dizi açar hem kalçayı büker (tekme atma).",
+    "bilgi": [
+      ["Origo", "Düz baş: SİAİ; yansıyan baş: asetabulumun üstündeki ilium"],
+      ["İnsersiyo", "Kuadriseps tendonu ve patellar bağ yoluyla tuberositas tibiae"],
+      ["İnnervasyon", "Femoral sinir (L2–L4)"],
+      ["Kanlanma", "Lateral sirkumfleks femoral arter"],
+      ["Fonksiyon", "Dizi ekstansiyona getirir; uyluğu kalçada büker"]
+    ],
+    "klinik": "Ergen sprinter ve futbolcularda SİAİ avülsiyon kırığı ve kas yırtıkları görülür.",
+    "durum": "taslak"
+  },
+
+  "Vastus lateralis muscle": {
+    "tr": "Dış geniş kas (m. vastus lateralis)",
+    "ozet": "Kuadriseps kasının en büyük başı; uyluğun dış yüzünü oluşturur.",
+    "bilgi": [
+      ["Origo", "Trokanter major ve linea aspera'nın dış dudağı"],
+      ["İnsersiyo", "Kuadriseps tendonu yoluyla patella ve tuberositas tibiae; lateral patellar retinakulum"],
+      ["İnnervasyon", "Femoral sinir (L2–L4)"],
+      ["Fonksiyon", "Dizi ekstansiyona getirir"]
+    ],
+    "klinik": "Bebeklerde kas içi enjeksiyonun tercih edilen yeridir; kas biyopsisi için de sık kullanılır.",
+    "durum": "taslak"
+  },
+
+  "Vastus medialis muscle": {
+    "tr": "İç geniş kas (m. vastus medialis)",
+    "ozet": "Kuadriseps kasının dizin iç-üst yanında 'damla' şeklinde belirginleşen başı; alt eğik lifleri patellanın dışa kaymasını önler.",
+    "bilgi": [
+      ["Origo", "Linea intertrochanterica ve linea aspera'nın iç dudağı"],
+      ["İnsersiyo", "Kuadriseps tendonu yoluyla patella ve tuberositas tibiae; medial patellar retinakulum"],
+      ["İnnervasyon", "Femoral sinir (L2–L4)"],
+      ["Fonksiyon", "Dizi ekstansiyona getirir; patellayı stabilize eder"]
+    ],
+    "klinik": "Diz yaralanması ve ameliyatlarından sonra en hızlı atrofiye uğrayan kastır; rehabilitasyonun odak noktasıdır.",
+    "durum": "taslak"
+  },
+
+  "Vastus intermedius muscle": {
+    "tr": "Ara geniş kas (m. vastus intermedius)",
+    "ozet": "Düz uyluk kasının derininde, femur gövdesi üzerinde yer alan kuadriseps başı.",
+    "bilgi": [
+      ["Origo", "Femur gövdesinin ön ve dış yüzleri"],
+      ["İnsersiyo", "Kuadriseps tendonu yoluyla patella ve tuberositas tibiae"],
+      ["İnnervasyon", "Femoral sinir (L2–L4)"],
+      ["Fonksiyon", "Dizi ekstansiyona getirir; derin lifleri (m. articularis genus) diz ekstansiyonunda suprapatellar bursayı yukarı çeker"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Medial patellar retinaculum": {
+    "tr": "İç patellar retinakulum",
+    "ozet": "Vastus medialis aponevrozu ve fascia lata'dan oluşan, patellanın iç kenarından tibia ve femur iç kondillerine uzanan lifli tabaka.",
+    "bilgi": [["Görev", "Patellayı stabilize eder; medial patellofemoral bağ lifleri içerir"]],
+    "klinik": "Patellanın dışa çıkmasında yırtılır; tekrarlayan çıkıklarda medial patellofemoral bağ rekonstrüksiyonu yapılır.",
+    "durum": "taslak"
+  },
+
+  "Lateral patellar retinaculum": {
+    "tr": "Dış patellar retinakulum",
+    "ozet": "Vastus lateralis aponevrozu ve iliotibial trakttan oluşan, patellanın dış kenarından tibia dış kondiline uzanan lifli tabaka.",
+    "bilgi": [["Görev", "Patellanın izlediği yolu dengeler"]],
+    "klinik": "Aşırı gerginliği patellanın dışa kayarak hatalı yol izlemesine ve ön diz ağrısına yol açar; seçilmiş olgularda cerrahi gevşetme uygulanır.",
+    "durum": "taslak"
+  },
+
+  "Adductor longus": {
+    "tr": "Uzun yaklaştırıcı kas (m. adductor longus)",
+    "ozet": "Uyluğun iç yüzündeki en öndeki adduktor kas; femoral üçgenin iç sınırını yapar.",
+    "bilgi": [
+      ["Origo", "Pubis gövdesi, pubik kristanın altı"],
+      ["İnsersiyo", "Linea aspera'nın orta üçte biri"],
+      ["İnnervasyon", "Obturator sinir, ön dal (L2–L4)"],
+      ["Fonksiyon", "Uyluğu addüksiyona getirir; fleksiyon ve iç rotasyona yardım eder"]
+    ],
+    "klinik": "Sporcularda kasık gerilmesinin (groin strain) en sık etkilenen kasıdır.",
+    "durum": "taslak"
+  },
+
+  "Adductor brevis": {
+    "tr": "Kısa yaklaştırıcı kas (m. adductor brevis)",
+    "ozet": "Uzun adduktorun derininde yer alan kas; obturator sinirin ön ve arka dalları arasında bulunur.",
+    "bilgi": [
+      ["Origo", "Pubis gövdesi ve alt kolu"],
+      ["İnsersiyo", "Linea pectinea ve linea aspera'nın üst bölümü"],
+      ["İnnervasyon", "Obturator sinir (L2–L4)"],
+      ["Fonksiyon", "Uyluğu addüksiyona getirir; bir miktar fleksiyon"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Adductor magnus": {
+    "tr": "Büyük yaklaştırıcı kas (m. adductor magnus)",
+    "ozet": "Adduktor grubun en büyük ve en derin kası; adduktor bölümü ve hamstring bölümünden oluşur, farklı sinirlerle uyarılır.",
+    "bilgi": [
+      ["Origo", "Adduktor bölüm: pubis alt kolu ve iskiyum kolu; hamstring bölümü: tuber ischiadicum"],
+      ["İnsersiyo", "Adduktor bölüm: tuberositas glutea, linea aspera, medial suprakondiler çizgi; hamstring bölümü: tuberculum adductorium"],
+      ["İnnervasyon", "Adduktor bölüm: obturator sinir (L2–L4); hamstring bölümü: siyatik sinirin tibial bölümü (L4)"],
+      ["Fonksiyon", "Uyluğu addüksiyona getirir; adduktor bölüm fleksiyon, hamstring bölümü ekstansiyon yapar"],
+      ["Adduktor hiatus", "İki bölüm arasındaki açıklıktan femoral damarlar diz arkasına (popliteal çukur) geçer"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Adductor minimus": {
+    "tr": "En küçük yaklaştırıcı kas (m. adductor minimus)",
+    "ozet": "Büyük adduktorun en üstteki, çoğu zaman ayrı bir kas gibi görülen bölümü.",
+    "bilgi": [
+      ["Origo", "Pubis alt kolu"],
+      ["İnsersiyo", "Tuberositas glutea ve linea aspera'nın üst bölümü"],
+      ["İnnervasyon", "Obturator sinir (L2–L4)"],
+      ["Fonksiyon", "Uyluğu addüksiyon ve dış rotasyona getirir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Gracilis muscle": {
+    "tr": "İnce kas (m. gracilis)",
+    "ozet": "Uyluğun iç yüzündeki en yüzeyel, uzun ve ince adduktor; hem kalça hem diz eklemini aşar.",
+    "bilgi": [
+      ["Origo", "Pubis gövdesi ve alt kolu"],
+      ["İnsersiyo", "Tibia iç yüzünün üst bölümü (pes anserinus)"],
+      ["İnnervasyon", "Obturator sinir (L2–L3)"],
+      ["Fonksiyon", "Uyluğu addüksiyona getirir; dizi büker ve bacağı içe döndürür"]
+    ],
+    "klinik": "İşlevi başka kaslarca karşılandığından serbest kas nakli (yüz felci onarımı) ve ön çapraz bağ rekonstrüksiyonunda tendon grefti olarak kullanılır.",
+    "durum": "taslak"
+  },
+
+  "Pectineus muscle": {
+    "tr": "Tarak kası (m. pectineus)",
+    "ozet": "Femoral üçgenin tabanında yer alan dörtgen kas; çift sinir desteği alabilir.",
+    "bilgi": [
+      ["Origo", "Pubis üst kolu (pecten ossis pubis)"],
+      ["İnsersiyo", "Femurun linea pectinea'sı, trokanter minorun hemen altı"],
+      ["İnnervasyon", "Femoral sinir (L2–L3); obturator sinirden dal alabilir"],
+      ["Fonksiyon", "Uyluğu addüksiyon ve fleksiyona getirir; iç rotasyona yardım eder"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Biceps femoris muscle": {
+    "tr": "Uyluğun iki başlı kası (m. biceps femoris)",
+    "ozet": "Uyluğun arka-dış yanındaki hamstring kası; uzun başı kalçayı açar, iki başı birlikte dizi büker.",
+    "bilgi": [
+      ["Origo", "Uzun baş: tuber ischiadicum (semitendinozus ile ortak); kısa baş: linea aspera'nın dış dudağı ve lateral suprakondiler çizgi"],
+      ["İnsersiyo", "Fibula başının dış yüzü (tendonu fibular kollateral bağ tarafından ikiye ayrılır)"],
+      ["İnnervasyon", "Uzun baş: siyatik sinirin tibial bölümü; kısa baş: ortak fibular bölüm (L5–S2)"],
+      ["Kanlanma", "Profunda femoris arterinin perforan dalları"],
+      ["Fonksiyon", "Dizi büker; diz bükükken bacağı dışa döndürür; uzun baş uyluğu ekstansiyona getirir"]
+    ],
+    "klinik": "Hamstring yırtıklarında (özellikle depar atarken) en sık uzun baş etkilenir. Ortak fibular sinir kasın iç kenarı boyunca seyreder.",
+    "durum": "taslak"
+  },
+
+  "Semitendinosus muscle": {
+    "tr": "Yarı tendinöz kas (m. semitendinosus)",
+    "ozet": "Uyluğun arka-iç yanında, alt yarısı uzun bir tendona dönüşen hamstring kası.",
+    "bilgi": [
+      ["Origo", "Tuber ischiadicum"],
+      ["İnsersiyo", "Tibia iç yüzünün üst bölümü (pes anserinus)"],
+      ["İnnervasyon", "Siyatik sinirin tibial bölümü (L5–S2)"],
+      ["Fonksiyon", "Uyluğu ekstansiyona getirir; dizi büker, diz bükükken bacağı içe döndürür"]
+    ],
+    "klinik": "Ön çapraz bağ rekonstrüksiyonunda en sık kullanılan tendon greftlerinden biridir.",
+    "durum": "taslak"
+  },
+
+  "Semimembranosus muscle": {
+    "tr": "Yarı zarsı kas (m. semimembranosus)",
+    "ozet": "Semitendinozusun derininde, üst bölümü yassı bir zar biçimindeki hamstring kası.",
+    "bilgi": [
+      ["Origo", "Tuber ischiadicum'un üst-dış izi"],
+      ["İnsersiyo", "Tibia iç kondilinin arka bölümü; yansıyan lifleri oblik popliteal bağı oluşturur"],
+      ["İnnervasyon", "Siyatik sinirin tibial bölümü (L5–S2)"],
+      ["Fonksiyon", "Uyluğu ekstansiyona getirir; dizi büker ve bacağı içe döndürür"]
+    ],
+    "klinik": "Diz arkasındaki Baker (popliteal) kisti çoğunlukla bu kas ile gastroknemius iç başı arasındaki bursadan gelişir.",
+    "durum": "taslak"
+  },
+
+  "Tibialis anterior muscle": {
+    "tr": "Ön kaval kası (m. tibialis anterior)",
+    "ozet": "Kaval kemiğinin dış yanında, deri altında ele gelen güçlü kas; ayağı yukarı kaldırır (dorsifleksiyon) ve içe çevirir.",
+    "bilgi": [
+      ["Origo", "Tibia dış kondili ve dış yüzünün üst yarısı, interosseöz zar"],
+      ["İnsersiyo", "İç kama kemiğinin iç-alt yüzü ve 1. metatars tabanı"],
+      ["İnnervasyon", "Derin fibular sinir (L4–L5)"],
+      ["Kanlanma", "Ön tibial arter"],
+      ["Fonksiyon", "Ayak bileğini dorsifleksiyona getirir, ayağı inversiyona getirir; iç boyuna kemeri destekler"]
+    ],
+    "klinik": "Derin veya ortak fibular sinir hasarında ayak düşer (düşük ayak) ve hasta ayağını yüksek kaldırarak yürür (stepaj yürüyüşü). Ön kompartman sendromunda kas basınç altında kalır ve acil fasyotomi gerekebilir.",
+    "durum": "taslak"
+  },
+
+  "Extensor digitorum longus": {
+    "tr": "Uzun parmak açıcı kas (ayak)",
+    "ozet": "Bacağın ön kompartmanındaki kas; dört tendonu dış dört ayak parmağına uzanır.",
+    "bilgi": [
+      ["Origo", "Tibia dış kondili, fibula iç yüzünün üst dörtte üçü ve interosseöz zar"],
+      ["İnsersiyo", "2.–5. ayak parmaklarının orta ve distal falanksları (ekstansör kaputlar)"],
+      ["İnnervasyon", "Derin fibular sinir (L5–S1)"],
+      ["Fonksiyon", "Dış dört parmağı açar; ayak bileğini dorsifleksiyona getirir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Extensor hallucis longus": {
+    "tr": "Başparmağın uzun açıcı kası (ayak)",
+    "ozet": "Ayak başparmağını yukarı kaldıran kas; L5 sinir kökünün en duyarlı göstergelerindendir.",
+    "bilgi": [
+      ["Origo", "Fibula ön yüzünün orta bölümü ve interosseöz zar"],
+      ["İnsersiyo", "Başparmak distal falanks tabanının sırt yüzü"],
+      ["İnnervasyon", "Derin fibular sinir (L5–S1)"],
+      ["Fonksiyon", "Ayak başparmağını açar; ayak bileği dorsifleksiyonuna yardım eder"]
+    ],
+    "klinik": "L4–L5 disk hernisinde (L5 kökü) başparmak ekstansiyon güçsüzlüğü erken bulgudur. Dorsalis pedis nabzı bu tendonun hemen dış yanında alınır.",
+    "durum": "taslak"
+  },
+
+  "Fibularis tertius muscle": {
+    "tr": "Üçüncü fibular kas (m. fibularis tertius)",
+    "ozet": "Uzun parmak açıcının alt-dış bölümünden ayrılan küçük kas; bazı kişilerde bulunmaz.",
+    "bilgi": [
+      ["Origo", "Fibula ön yüzünün alt üçte biri ve interosseöz zar"],
+      ["İnsersiyo", "5. metatars tabanının sırt yüzü"],
+      ["İnnervasyon", "Derin fibular sinir (L5–S1)"],
+      ["Fonksiyon", "Ayak bileğini dorsifleksiyona getirir, eversiyona yardım eder"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Fibularis longus muscle": {
+    "tr": "Uzun fibular kas (m. fibularis longus)",
+    "ozet": "Bacağın dış kompartmanındaki kas; tendonu dış topuk kemiğinin arkasından geçip ayak tabanını çaprazlayarak iç kenara ulaşır.",
+    "bilgi": [
+      ["Origo", "Fibula başı ve dış yüzünün üst üçte ikisi"],
+      ["İnsersiyo", "1. metatars tabanı ve iç kama kemiği (taban yüzü)"],
+      ["İnnervasyon", "Yüzeyel fibular sinir (L5–S2)"],
+      ["Fonksiyon", "Ayağı eversiyona getirir, zayıf plantar fleksiyon; ön tibial kasla birlikte ayak kemerlerini 'üzengi' gibi destekler"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Fibularis brevis muscle": {
+    "tr": "Kısa fibular kas (m. fibularis brevis)",
+    "ozet": "Uzun fibular kasın derininde yer alan, 5. metatarsa tutunan kas.",
+    "bilgi": [
+      ["Origo", "Fibula dış yüzünün alt üçte ikisi"],
+      ["İnsersiyo", "5. metatars tabanının dış yanındaki tüberozite"],
+      ["İnnervasyon", "Yüzeyel fibular sinir (L5–S2)"],
+      ["Fonksiyon", "Ayağı eversiyona getirir, zayıf plantar fleksiyon"]
+    ],
+    "klinik": "Ayak bileği burkulmalarında (inversiyon) tendonun çekmesiyle 5. metatars tabanında avülsiyon kırığı oluşabilir.",
+    "durum": "taslak"
+  },
+
+  "Gastrocnemius muscle": {
+    "tr": "Baldır kası (m. gastrocnemius)",
+    "ozet": "Baldırın yüzeyel, iki başlı kası; soleusla birlikte triseps surae'yi oluşturur ve Aşil tendonuyla topuğa tutunur. Diz ve ayak bileği eklemlerini aşar.",
+    "bilgi": [
+      ["Origo", "Dış baş: femur dış kondilinin dış yüzü; iç baş: femurun popliteal yüzü, iç kondilin üstü"],
+      ["İnsersiyo", "Kalkaneus arka yüzü (Aşil tendonu yoluyla)"],
+      ["İnnervasyon", "Tibial sinir (S1–S2)"],
+      ["Kanlanma", "Sural arterler (popliteal arter)"],
+      ["Fonksiyon", "Diz düzken ayak bileğini plantar fleksiyona getirir (parmak ucunda yükselme, yürürken topuğu kaldırma); dizi büker"]
+    ],
+    "klinik": "Ani kasılmayla iç başın yırtılması ('tenis bacağı') görülür. Baldır kas pompası venöz dönüşte kritiktir. Aşil refleksi S1 segmentini test eder.",
+    "durum": "taslak"
+  },
+
+  "Soleus muscle": {
+    "tr": "Pisi balığı kası (m. soleus)",
+    "ozet": "Gastroknemiusun derinindeki geniş yassı kas; diz pozisyonundan bağımsız olarak plantar fleksiyon yapar ve ayakta dururken vücudu dengede tutar ('ikinci kalp').",
+    "bilgi": [
+      ["Origo", "Fibula başının arkası ve arka yüzünün üst dörtte biri, tibianın soleal çizgisi ve iç kenarı, aradaki tendinöz kemer"],
+      ["İnsersiyo", "Kalkaneus arka yüzü (Aşil tendonu yoluyla)"],
+      ["İnnervasyon", "Tibial sinir (S1–S2)"],
+      ["Kanlanma", "Popliteal, arka tibial ve fibular arterler"],
+      ["Fonksiyon", "Ayak bileğini plantar fleksiyona getirir; ayakta dururken bacağın ayak üzerinde öne düşmesini önler (postür)"]
+    ],
+    "klinik": "Kas içindeki geniş venöz sinüsler kasılmayla kanı kalbe pompalar; uzun hareketsizlikte derin ven trombozu sıklıkla bu sinüslerde başlar.",
+    "durum": "taslak"
+  },
+
+  "Plantaris muscle": {
+    "tr": "Taban kası (m. plantaris)",
+    "ozet": "Küçük karınlı ve vücudun en uzun tendonlarından birine sahip kas; insanların bir kısmında bulunmaz.",
+    "bilgi": [
+      ["Origo", "Femurun lateral suprakondiler çizgisinin alt ucu ve oblik popliteal bağ"],
+      ["İnsersiyo", "Kalkaneus arka yüzü (Aşil tendonunun iç yanında)"],
+      ["İnnervasyon", "Tibial sinir (S1–S2)"],
+      ["Fonksiyon", "Gastroknemiusa zayıf yardım eder; propriosepsiyon rolü olduğu düşünülür"]
+    ],
+    "klinik": "Uzun ince tendonu rekonstrüktif cerrahide greft olarak kullanılır.",
+    "durum": "taslak"
+  },
+
+  "Calcaneal tendon": {
+    "tr": "Aşil tendonu (tendo calcaneus)",
+    "ozet": "Gastroknemius ve soleusun (triseps surae) ortak tendonu; vücudun en kalın ve en güçlü tendonudur.",
+    "bilgi": [
+      ["Uzanım", "Baldır kaslarının alt ucu – kalkaneus tüberinin arka yüzünün orta bölümü"],
+      ["Kanlanma", "Tutunma yerinin 2–6 cm üstünde kanlanması zayıf bir bölge bulunur"]
+    ],
+    "klinik": "Kopmalar çoğunlukla kanlanmanın zayıf olduğu bölgede, ani ayak itişiyle olur; Thompson testinde baldır sıkıldığında ayak hareket etmez. Aşil tendinopatisi koşucularda sıktır. Aşil refleksi S1 kökünü değerlendirir.",
+    "durum": "taslak"
+  },
+
+  "Popliteus muscle": {
+    "tr": "Diz arkası kası (m. popliteus)",
+    "ozet": "Diz ekleminin arkasındaki ince üçgen kas; tam ekstansiyonda 'kilitlenmiş' dizi büküme başlarken açar.",
+    "bilgi": [
+      ["Origo", "Femur dış kondilinin dış yüzü ve dış menisküs"],
+      ["İnsersiyo", "Tibianın arka yüzü, soleal çizginin üstü"],
+      ["İnnervasyon", "Tibial sinir (L4–S1)"],
+      ["Fonksiyon", "Tibia sabitken femuru ~5° dışa döndürerek dizi 'açar' (kilidi çözer); dizi zayıf büker; dış menisküsü arkaya çeker"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Tibialis posterior muscle": {
+    "tr": "Arka kaval kası (m. tibialis posterior)",
+    "ozet": "Bacağın arka kompartmanının en derin kası; ayağın iç boyuna kemerinin ana dinamik destekçisidir.",
+    "bilgi": [
+      ["Origo", "İnterosseöz zar, tibianın soleal çizgi altındaki arka yüzü, fibulanın arka yüzü"],
+      ["İnsersiyo", "Başlıca naviküler tüberozite; ayrıca kama kemikleri, küboid ve 2.–4. metatars tabanları"],
+      ["İnnervasyon", "Tibial sinir (L4–L5)"],
+      ["Fonksiyon", "Ayak bileğini plantar fleksiyona, ayağı inversiyona getirir; iç boyuna kemeri destekler"]
+    ],
+    "klinik": "Tendon yetmezliği erişkin tipi edinsel düztabanlığın en sık nedenidir. Tarsal tünel sırası (önden arkaya): tibialis posterior, fleksör digitorum longus, arter, ven, tibial sinir, fleksör hallusis longus.",
+    "durum": "taslak"
+  },
+
+  "Flexor digitorum longus": {
+    "tr": "Uzun parmak bükücü kas (ayak)",
+    "ozet": "Bacağın derin arka kompartmanındaki kas; tendonları dış dört ayak parmağının uç falankslarına uzanır.",
+    "bilgi": [
+      ["Origo", "Tibianın soleal çizgi altındaki arka yüzünün iç bölümü"],
+      ["İnsersiyo", "2.–5. ayak parmaklarının distal falanks tabanları"],
+      ["İnnervasyon", "Tibial sinir (S2–S3)"],
+      ["Fonksiyon", "Dış dört parmağı büker; ayak bileği plantar fleksiyonuna yardım eder; boyuna kemerleri destekler"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Flexor hallucis longus": {
+    "tr": "Başparmağın uzun bükücü kası (ayak)",
+    "ozet": "Yürümede itme evresinde ayak başparmağıyla yerden güç alan kuvvetli kas; tendonu talusun arkasındaki oluktan ve sustentaculum tali'nin altından geçer.",
+    "bilgi": [
+      ["Origo", "Fibula arka yüzünün alt üçte ikisi ve interosseöz zarın alt bölümü"],
+      ["İnsersiyo", "Ayak başparmağı distal falanks tabanı"],
+      ["İnnervasyon", "Tibial sinir (S2–S3)"],
+      ["Fonksiyon", "Başparmağın tüm eklemlerini büker; zayıf plantar fleksiyon; iç boyuna kemeri destekler"]
+    ],
+    "klinik": "Bale dansçılarında tendinit sıktır ('dansçı tendiniti').",
+    "durum": "taslak"
+  },
+
+  "Extensor digitorum brevis": {
+    "tr": "Kısa parmak açıcı kas (ayak)",
+    "ozet": "Ayak sırtındaki tek kas grubunun parçası; ayak sırtının dış yanında yumuşak bir kabarıklık olarak ele gelir.",
+    "bilgi": [
+      ["Origo", "Kalkaneusun üst-dış yüzü (tarsal sinüs tabanı), alt ekstansör retinakulum"],
+      ["İnsersiyo", "2.–4. parmakların uzun ekstansör tendonları"],
+      ["İnnervasyon", "Derin fibular sinir (L5–S1)"],
+      ["Fonksiyon", "2.–4. parmakların ekstansiyonuna yardım eder"]
+    ],
+    "klinik": "Kas karnı ayak bileği burkulmasından sonra şişlikle karıştırılabilir; elektromiyografide L5–S1 kök değerlendirmesinde kullanılır.",
+    "durum": "taslak"
+  },
+
+  "Extensor hallucis brevis": {
+    "tr": "Başparmağın kısa açıcı kası (ayak)",
+    "ozet": "Kısa parmak açıcının başparmağa giden iç bölümü.",
+    "bilgi": [
+      ["Origo", "Kalkaneusun üst-dış yüzü"],
+      ["İnsersiyo", "Başparmak proksimal falanks tabanının sırt yüzü"],
+      ["İnnervasyon", "Derin fibular sinir (L5–S1)"],
+      ["Fonksiyon", "Ayak başparmağını MTF ekleminde açar"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Abductor hallucis": {
+    "tr": "Başparmak uzaklaştırıcı kası (ayak)",
+    "ozet": "Ayak tabanının iç kenarındaki yüzeyel kas; iç boyuna kemeri destekler.",
+    "bilgi": [
+      ["Origo", "Kalkaneus tüberinin iç çıkıntısı, fleksör retinakulum, plantar aponevroz"],
+      ["İnsersiyo", "Başparmak proksimal falanks tabanının iç yanı"],
+      ["İnnervasyon", "Medial plantar sinir (S2–S3)"],
+      ["Fonksiyon", "Başparmağı abdüksiyona getirir ve büker; iç kemeri destekler"]
+    ],
+    "klinik": "Tarsal tünel çıkışında plantar sinir dallarını sıkıştırabilir.",
+    "durum": "taslak"
+  },
+
+  "Flexor digitorum brevis": {
+    "tr": "Kısa parmak bükücü kas (ayak)",
+    "ozet": "Ayak tabanının orta bölümünde, plantar aponevrozun hemen üstündeki kas.",
+    "bilgi": [
+      ["Origo", "Kalkaneus tüberinin iç çıkıntısı, plantar aponevroz"],
+      ["İnsersiyo", "2.–5. parmakların orta falankslarının iki yanı"],
+      ["İnnervasyon", "Medial plantar sinir (S2–S3)"],
+      ["Fonksiyon", "Dış dört parmağı proksimal interfalangeal eklemlerde büker"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Abductor digiti minimi of foot": {
+    "tr": "Serçe parmak uzaklaştırıcı kası (ayak)",
+    "ozet": "Ayak tabanının dış kenarını oluşturan yüzeyel kas.",
+    "bilgi": [
+      ["Origo", "Kalkaneus tüberinin iç ve dış çıkıntıları, plantar aponevroz"],
+      ["İnsersiyo", "5. parmak proksimal falanks tabanının dış yanı"],
+      ["İnnervasyon", "Lateral plantar sinir (S2–S3)"],
+      ["Fonksiyon", "Serçe parmağı abdüksiyona getirir ve büker"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Quadratus plantae muscle": {
+    "tr": "Kare taban kası (m. quadratus plantae)",
+    "ozet": "Uzun parmak bükücü tendonuna tutunarak onun eğik çekişini düzelten kas.",
+    "bilgi": [
+      ["Origo", "Kalkaneusun taban yüzünün iç yüzü ve dış kenarı"],
+      ["İnsersiyo", "Uzun parmak bükücü tendonunun arka-dış kenarı"],
+      ["İnnervasyon", "Lateral plantar sinir (S2–S3)"],
+      ["Fonksiyon", "Uzun parmak bükücünün dış dört parmağı düz bir hatta bükmesine yardım eder"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Lumbrical muscles of foot": {
+    "tr": "Lumbrikal kaslar (ayak)",
+    "ozet": "Uzun parmak bükücü tendonlarından başlayan dört küçük kas.",
+    "bilgi": [
+      ["Origo", "Uzun parmak bükücü tendonları"],
+      ["İnsersiyo", "2.–5. parmakların ekstansör kaputlarının iç yanı"],
+      ["İnnervasyon", "1. lumbrikal: medial plantar sinir; 2.–4. lumbrikaller: lateral plantar sinir (S2–S3)"],
+      ["Fonksiyon", "MTF eklemlerini büker, interfalangeal eklemleri açar"]
+    ],
+    "klinik": "Ayak iç kaslarının zayıflığı (ör. diyabetik nöropati) çekiç ve pençe parmak deformitelerine yol açar.",
+    "durum": "taslak"
+  },
+
+  "Flexor hallucis brevis": {
+    "grup": true,
+    "tr": "Başparmağın kısa bükücü kası (ayak)",
+    "ozet": "Ayak başparmağının altında iki başlı kas; her iki tendonu içinde birer sesamoid kemik bulunur.",
+    "bilgi": [
+      ["Origo", "Küboid ve dış kama kemiklerinin taban yüzleri; arka tibial kas tendonu"],
+      ["İnsersiyo", "Başparmak proksimal falanks tabanının iki yanı (iç ve dış sesamoidler yoluyla)"],
+      ["İnnervasyon", "Medial plantar sinir (S2–S3)"],
+      ["Fonksiyon", "Başparmağı MTF ekleminde büker"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Adductor hallucis": {
+    "grup": true,
+    "tr": "Başparmak yaklaştırıcı kası (ayak)",
+    "ozet": "Ayak tabanının derininde eğik ve enine başlardan oluşan kas; enine kemeri destekler.",
+    "bilgi": [
+      ["Origo", "Eğik baş: 2.–4. metatars tabanları; enine baş: 3.–5. MTF eklemlerinin taban bağları"],
+      ["İnsersiyo", "Başparmak proksimal falanks tabanının dış yanı (dış sesamoid)"],
+      ["İnnervasyon", "Lateral plantar sinirin derin dalı (S2–S3)"],
+      ["Fonksiyon", "Başparmağı yaklaştırır; enine kemerin korunmasına yardım eder"]
+    ],
+    "klinik": "Halluks valgus deformitesinde başparmağı dışa çeken kuvvetlerden biridir.",
+    "durum": "taslak"
+  },
+
+  "Flexor digiti minimi of foot": {
+    "tr": "Serçe parmağın kısa bükücü kası (ayak)",
+    "ozet": "5. metatarsın altında yer alan küçük kas.",
+    "bilgi": [
+      ["Origo", "5. metatars tabanı"],
+      ["İnsersiyo", "5. parmak proksimal falanks tabanı"],
+      ["İnnervasyon", "Lateral plantar sinirin yüzeyel dalı (S2–S3)"],
+      ["Fonksiyon", "Serçe parmağın proksimal falanksını büker"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Opponens digiti minimi muscle of foot": {
+    "tr": "Serçe parmak karşılayıcı kası (ayak)",
+    "ozet": "Kısa serçe parmak bükücüsünden ayrılan, değişken ve küçük kas lifleri.",
+    "bilgi": [
+      ["Origo", "Uzun plantar bağ ve uzun fibular kas tendon kılıfı"],
+      ["İnsersiyo", "5. metatarsın dış yanı"],
+      ["İnnervasyon", "Lateral plantar sinir"],
+      ["Fonksiyon", "5. metatarsı tabana doğru ve içe çeker (etkisi sınırlıdır)"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Plantar interossei muscles": {
+    "tr": "Taban interosseöz kasları",
+    "ozet": "3.–5. metatarsların iç yanından başlayan üç kas; parmakları 2. parmak eksenine yaklaştırır (PAD).",
+    "bilgi": [
+      ["Origo", "3.–5. metatarsların taban ve iç yüzleri"],
+      ["İnsersiyo", "3.–5. parmakların proksimal falanks tabanlarının iç yanı"],
+      ["İnnervasyon", "Lateral plantar sinir (S2–S3)"],
+      ["Fonksiyon", "3.–5. parmakları addüksiyona getirir; MTF eklemlerini büker"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Dorsal interossei muscles of foot": {
+    "tr": "Sırt interosseöz kasları (ayak)",
+    "ozet": "Metatarslar arasındaki dört çift tüylü kas; parmakları 2. parmak ekseninden uzaklaştırır (DAB).",
+    "bilgi": [
+      ["Origo", "1.–5. metatarsların komşu yüzleri"],
+      ["İnsersiyo", "1. kas: 2. parmağın iç yanı; 2.–4. kaslar: 2.–4. parmakların dış yanları (proksimal falanks tabanları)"],
+      ["İnnervasyon", "Lateral plantar sinir (S2–S3)"],
+      ["Fonksiyon", "2.–4. parmakları abdüksiyona getirir; MTF eklemlerini büker"]
+    ],
+    "durum": "taslak"
+  }
+}

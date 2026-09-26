@@ -21,6 +21,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 -------------------------------------------------------------------------------
-This license covers the source code only. The 3D anatomy model, structure names
-and descriptions in app/public/body/ are derived from Z-Anatomy and are licensed
-under CC BY-SA 4.0 — see app/public/body/LICENSE.md.
+This license covers the source code and the Turkish content in data/content/.
+The 3D anatomy model data — data/anatomy.pak (published with GitHub releases)
+and app/public/body/ — is derived from Z-Anatomy and is licensed under
+CC BY-SA 4.0; see data/LICENSE.md and app/public/body/LICENSE.md.
+Third-party components are listed in THIRD-PARTY-NOTICES.md.

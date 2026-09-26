@@ -1,0 +1,262 @@
+{
+  "_aciklama": "Duyu organları (göz küresi, gözyaşı sistemi, kulak) ve beyin-omurilik zarları",
+
+  "Cornea": {
+    "tr": "Kornea (saydam tabaka)",
+    "ozet": "Göz küresinin ön altıda birini oluşturan saydam, damarsız tabaka; gözün kırma gücünün yaklaşık üçte ikisini sağlar.",
+    "bilgi": [
+      ["Kalınlık", "Merkezde ~0,5 mm"],
+      ["Katmanlar", "Epitel, Bowman tabakası, stroma, Descemet zarı, endotel"],
+      ["Kırma gücü", "~43 diyoptri"],
+      ["Beslenme", "Humor aköz, gözyaşı ve limbus damarları"],
+      ["İnnervasyon", "Oftalmik sinir (V1) — vücudun en yoğun sinirlenen dokularından"],
+      ["Kornea refleksi", "Afferent: V1; efferent: yüz siniri (VII)"]
+    ],
+    "klinik": "Kornea abrazyonu, kontakt lensle ilişkili keratit ve keratokonus (koni biçimli incelme) sık sorunlardır. Kırma kusurları LASIK/PRK ile düzeltilir. Kornea nakli damarsız ve görece bağışık ayrıcalıklı olduğundan başarılıdır. Kornea refleksi koma ve beyin ölümü değerlendirmesinde kullanılır.",
+    "durum": "taslak"
+  },
+
+  "Sclera": {
+    "tr": "Sklera (gözün beyazı)",
+    "ozet": "Göz küresinin arka altıda beşini saran beyaz, sağlam, opak lifli tabaka; göz dışı kaslara tutunma yeri verir ve gözün biçimini korur.",
+    "bilgi": [
+      ["Bağlantılar", "Önde limbusta korneayla (Schlemm kanalı burada), arkada optik sinirin dural kılıfıyla devam eder"],
+      ["Lamina cribrosa", "Optik sinir liflerinin gözden çıktığı elek biçimli bölge"]
+    ],
+    "klinik": "Sarılıkta bilirubin birikimi gözün beyazında sararma yapar (skleral ikter). Osteogenesis imperfektada ince sklera mavi görünür. Sklerit romatoid artrit gibi sistemik hastalıklara eşlik edebilir.",
+    "durum": "taslak"
+  },
+
+  "Iris": {
+    "tr": "İris (gözün renkli tabakası)",
+    "ozet": "Merceğin önünde yer alan, ortasındaki açıklık (pupilla) ile göze giren ışık miktarını ayarlayan pigmentli kas diyaframı.",
+    "bilgi": [
+      ["Kaslar", "Sfinkter pupilla (parasempatik, CN III — pupillayı daraltır), dilatatör pupilla (sempatik — pupillayı genişletir)"],
+      ["Renk", "Stromadaki melanin miktarına bağlıdır"],
+      ["Işık refleksi", "Afferent: optik sinir (II); efferent: okülomotor sinir (III)"]
+    ],
+    "klinik": "Tek taraflı genişlemiş ve ışığa yanıtsız pupilla okülomotor sinirin basısını (ör. herniasyon) düşündürür ve acildir. Horner sendromunda miyozis görülür. İrit (ön üveit) ağrılı kırmızı göz yapar. Açı kapanması glokomunda iris ön odanın drenaj açısını tıkar.",
+    "durum": "taslak"
+  },
+
+  "Lens": {
+    "tr": "Göz merceği (lens)",
+    "ozet": "İrisin arkasında, zonül lifleriyle siliyer cisme asılı saydam, çift dışbükey, damarsız yapı; odak ayarı (akomodasyon) yaparak yakını ve uzağı net görmeyi sağlar.",
+    "bilgi": [
+      ["Yapı", "Kapsül, ön yüzde epitel, ömür boyu eklenen lens lifleri (çekirdek en yaşlı liflerdir)"],
+      ["Kırma gücü", "~15–20 diyoptri (değişken)"],
+      ["Akomodasyon", "Siliyer kas kasılınca zonüller gevşer, mercek kalınlaşır — yakın görme"]
+    ],
+    "klinik": "Katarakt (mercek bulanıklığı) dünyada körlüğün önde gelen nedenidir; göz içi lens yerleştirilerek yapılan katarakt ameliyatı en sık yapılan cerrahi işlemlerdendir. 40 yaşından sonra akomodasyon azalır (presbiyopi). Marfan sendromunda mercek yukarı-dışa kayar.",
+    "durum": "taslak"
+  },
+
+  "Retina": {
+    "tr": "Retina (ağ tabaka)",
+    "ozet": "Göz küresinin en iç, ışığa duyarlı sinirsel tabakası; ışığı sinir sinyallerine dönüştürerek optik sinirle beyne iletir.",
+    "bilgi": [
+      ["Fotoreseptörler", "Çubuklar (~120 milyon; loş ışık, çevre görme) ve koniler (~6 milyon; renk ve keskin görme)"],
+      ["Makula / fovea", "Konilerin yoğunlaştığı merkezi görme bölgesi"],
+      ["Optik disk", "Fotoreseptör içermeyen kör nokta; foveanın ~3 mm iç yanında"],
+      ["Kanlanma", "İç katmanlar: santral retinal arter (uç arter); dış katmanlar: koryokapiller"],
+      ["Katman sayısı", "10"]
+    ],
+    "klinik": "Retina dekolmanı ışık çakmaları, uçuşan cisimler ve perde inmesiyle kendini gösterir; acil tedavi gerektirir. Diyabetik retinopati çalışma çağındaki erişkinlerde körlüğün önde gelen nedenidir; yaşa bağlı makula dejenerasyonu yaşlılarda merkezi görmeyi bozar. Santral retinal arter tıkanıklığı ani ağrısız görme kaybı yapar. Kafa içi basınç artışı optik diskte ödem (papilödem) oluşturur.",
+    "durum": "taslak"
+  },
+
+  "Vitreous body": {
+    "tr": "Camsı cisim (corpus vitreum)",
+    "ozet": "Merceğin arkasında göz küresinin arka segmentini dolduran saydam jel; gözün hacminin yaklaşık %80'ini oluşturur ve retinayı destekler.",
+    "bilgi": [
+      ["Hacim", "~4 mL"],
+      ["İçerik", "%99 su, kollajen lifleri ve hiyaluronik asit"],
+      ["Hiyaloid kanal", "Embriyonik hiyaloid arterin kalıntısı"]
+    ],
+    "klinik": "Yaşla jelin sıvılaşıp retinadan ayrılması (arka vitreus dekolmanı) uçuşan cisimlere ve ışık çakmalarına yol açar. Diyabetik retinopatide vitreus kanaması görülür. Yaşa bağlı makula dejenerasyonunda ilaçlar vitreus içine enjekte edilir.",
+    "durum": "taslak"
+  },
+
+  "Zonular fibres": {
+    "tr": "Zonül lifleri (Zinn zonülü)",
+    "ozet": "Siliyer cisimden merceğin ekvatoruna uzanan, merceği asılı tutan ince fibrilin lifleri; siliyer kasın gerilimini merceğe ileterek akomodasyonu sağlar.",
+    "bilgi": [["İçerik", "Fibrilin-1"]],
+    "klinik": "Marfan sendromunda (fibrilin-1 mutasyonu) zayıf zonüller merceğin yerinden oynamasına (ektopia lentis) yol açar.",
+    "durum": "taslak"
+  },
+
+  "Anterior chamber of eyeball": {
+    "tr": "Ön kamara (camera anterior bulbi)",
+    "ozet": "Kornea ile iris arasındaki, humor aköz ile dolu boşluk; göz içi basıncını belirleyen drenaj açısı burada yer alır.",
+    "bilgi": [
+      ["Humor aköz akışı", "Siliyer cisim (arka kamara) → pupilla → ön kamara → iridokorneal açı (trabeküler ağ) → Schlemm kanalı → episkleral venler"],
+      ["Normal göz içi basıncı", "10–21 mmHg"]
+    ],
+    "klinik": "Glokom (göz tansiyonu) optik sinir hasarıyla sinsice görme alanı kaybı yapar; açı kapanması glokomu ağrılı kırmızı göz ve bulanık görmeyle seyreden acil bir durumdur. Ön kamarada kan (hifema) veya irin (hipopiyon) toplanabilir.",
+    "durum": "taslak"
+  },
+
+  "Anterior segment of eyeball": {
+    "tr": "Göz küresinin ön segmenti",
+    "ozet": "Camsı cismin önünde kalan bölüm: kornea, iris, siliyer cisim, mercek ile ön ve arka kamaralar.",
+    "bilgi": [["Muayene", "Biyomikroskop (yarık lamba)"]],
+    "klinik": "Katarakt, glokom, üveit ve keratit ön segment hastalıklarıdır.",
+    "durum": "taslak"
+  },
+
+  "Posterior segment of eyeball": {
+    "tr": "Göz küresinin arka segmenti",
+    "ozet": "Merceğin arkasındaki büyük bölüm: camsı cisim, retina, koroid ve optik disk.",
+    "bilgi": [["Muayene", "Oftalmoskopi (göz dibi muayenesi), optik koherens tomografi"]],
+    "klinik": "Diyabetik retinopati, yaşa bağlı makula dejenerasyonu ve retina dekolmanı arka segment hastalıklarıdır.",
+    "durum": "taslak"
+  },
+
+  "Suspensory ligament of eyeball": {
+    "tr": "Göz küresinin askı bağı (Lockwood bağı)",
+    "ozet": "Göz küresinin altında, alt rektus ve alt eğik kas kılıflarının kaynaşmasıyla oluşan hamak biçimli fasya kalınlaşması; göz küresini destekler.",
+    "bilgi": [["Bağlantılar", "Medial ve lateral 'check' bağları yoluyla lakrimal ve elmacık kemiklerine"]],
+    "klinik": "Orbita tabanı çıkarılsa bile (maksillektomi) bağ sağlamsa göz küresi yerinde kalabilir.",
+    "durum": "taslak"
+  },
+
+  "Lacrimal gland": {
+    "tr": "Gözyaşı bezi (glandula lacrimalis)",
+    "ozet": "Orbitanın üst-dış köşesindeki badem büyüklüğünde bez; gözyaşı filminin sulu tabakasını üretir.",
+    "bilgi": [
+      ["Bölümler", "Levator aponevrozuyla ayrılan orbital ve palpebral bölümler"],
+      ["Kanallar", "Üst konjonktiva forniksine açılan 6–12 kanal"],
+      ["Salgı innervasyonu", "Yüz siniri: büyük petrozal sinir → pterigopalatin ganglion → zigomatik ve lakrimal sinirler"],
+      ["İçerik", "Lizozim, IgA ve laktoferrin içeren koruyucu sıvı"]
+    ],
+    "klinik": "Sjögren sendromunda gözyaşı ve tükürük salgısı azalır (kuru göz, kuru ağız). Genikulat ganglion öncesi yüz siniri lezyonlarında gözyaşı salgısı azalır (Schirmer testi).",
+    "durum": "taslak"
+  },
+
+  "Lacrimal canaliculus": {
+    "tr": "Gözyaşı kanalcığı (canaliculus lacrimalis)",
+    "ozet": "Göz kapaklarının iç ucundaki gözyaşı noktalarından (punktum) başlayan, gözyaşını gözyaşı kesesine taşıyan üst ve alt kanalcıklar.",
+    "bilgi": [
+      ["Uzunluk", "~10 mm; kısa dikey ve uzun yatay bölüm, birleşim yerinde genişleme (ampulla)"],
+      ["Sonlanma", "Çoğunlukla ortak kanalcıkla gözyaşı kesesine"]
+    ],
+    "klinik": "Kapak iç kenarı yırtıklarında kanalcık kesilebilir ve stentle onarılmalıdır. Kuru gözde punktum tıkaçları gözyaşının gözde kalmasını sağlar.",
+    "durum": "taslak"
+  },
+
+  "Lacrimal sac": {
+    "tr": "Gözyaşı kesesi (saccus lacrimalis)",
+    "ozet": "Gözün iç köşesinde, lakrimal kemik çukurunda yer alan, nazolakrimal kanalın genişlemiş üst ucu.",
+    "bilgi": [
+      ["Konum", "Medial palpebral bağın arkasında, lakrimal kemik ve maksillanın oluşturduğu çukurda"],
+      ["Pompa", "Göz kırpmada orbikülaris okulinin lakrimal bölümü keseyi sıkıp boşaltır"]
+    ],
+    "klinik": "Nazolakrimal kanal tıkanıklığında kese enfeksiyonu (dakriyosistit) iç köşenin altında ağrılı şişlik yapar; dakriyosistorinostomi ile buruna yeni bir açıklık oluşturulur.",
+    "durum": "taslak"
+  },
+
+  "Nasolacrimal duct": {
+    "tr": "Nazolakrimal kanal (ductus nasolacrimalis)",
+    "ozet": "Gözyaşı kesesinden alt burun kanalına (alt konkanın altı) uzanan ~12–18 mm'lik kanal; ağlarken burnun akmasının nedenidir.",
+    "bilgi": [["Açılış", "Alt burun kanalı; çıkışında Hasner kıvrımı bulunur"]],
+    "klinik": "Yenidoğanların önemli bir kısmında Hasner zarı açılmadığından sulanan ve çapaklanan göz görülür; masaj veya sondalama ile tedavi edilir.",
+    "durum": "taslak"
+  },
+
+  "Tympanic membrane": {
+    "tr": "Kulak zarı (membrana tympanica)",
+    "ozet": "Dış kulak yolunu orta kulaktan ayıran ince, yarı saydam oval zar; ses titreşimlerini kemikçiklere iletir.",
+    "bilgi": [
+      ["Boyut", "~9–10 mm çap, ~0,1 mm kalınlık"],
+      ["Bölümler", "Pars tensa (gergin bölüm), pars flaccida (Shrapnell); umbo (çekiç kolunun ucu); otoskopide ön-alt kadranda ışık refleksi"],
+      ["Katmanlar", "Dış deri, orta lifli tabaka, iç mukoza"],
+      ["Duyu", "Aurikülotemporal sinir (V3), vagusun kulak dalı (X), timpanik pleksus (IX)"],
+      ["İletim", "Zar ile üzengi tabanı arasındaki alan farkı sesi ~17 kat güçlendirir"]
+    ],
+    "klinik": "Enfeksiyon, basınç travması veya yabancı cisimle delinebilir ve iletim tipi işitme kaybına yol açar. Akut otitis mediada zar kırmızı ve dışa bombelidir. Kulak tüpü (ventilasyon tüpü) alt kadranlardan takılır. Kolesteatom sıklıkla pars flaccida'dan gelişir.",
+    "durum": "taslak"
+  },
+
+  "Auditory tube": {
+    "tr": "Östaki borusu (tuba auditiva)",
+    "ozet": "Orta kulağı nazofarenkse bağlayan ~36 mm'lik kanal; yutkunma ve esnemede açılarak orta kulak basıncını dengeler ve salgıların boşalmasını sağlar.",
+    "bilgi": [
+      ["Yapı", "Arka-dış üçte bir kemik, ön-iç üçte iki kıkırdak"],
+      ["Açan kaslar", "Tensor veli palatini (başlıca), levator veli palatini, salpingofaringeus"],
+      ["Çocuklarda", "Daha kısa, geniş ve yatay seyirli"]
+    ],
+    "klinik": "Çocuklarda orta kulak iltihabının sık görülmesi borunun yapısıyla ilişkilidir. Uçak inişi ve dalışta boru açılamazsa barotravma gelişir (Valsalva manevrası yardımcı olur). Erişkinde tek taraflı seröz otit nazofarenks tümörünü düşündürmelidir.",
+    "durum": "taslak"
+  },
+
+  "Cochlea": {
+    "tr": "Salyangoz (koklea)",
+    "ozet": "Temporal kemiğin petröz bölümünde, modiolus etrafında 2,5–2,75 tur dönen kemik kanal; işitme organı Corti organını içerir.",
+    "bilgi": [
+      ["Bölmeler", "Skala vestibuli ve skala timpani (perilenf; helikotremada birleşir), aradaki kohlear kanal (skala media, endolenf)"],
+      ["Corti organı", "Baziler zar üzerinde ~3.500 iç tüy hücresi (asıl duyu dönüşümü) ve ~12.000 dış tüy hücresi (kohlear yükselteç)"],
+      ["Tonotopi", "Taban: yüksek frekans; tepe: düşük frekans"],
+      ["İşitme aralığı", "20–20.000 Hz"],
+      ["İnnervasyon", "Kohlear sinir (CN VIII) — spiral ganglion"]
+    ],
+    "klinik": "Gürültüye bağlı işitme kaybı tipik olarak 4 kHz'de başlar; yaşa bağlı işitme kaybı (presbiakuzi) önce yüksek frekansları etkiler. Aminoglikozidler ve sisplatin ototoksiktir. Ağır sensörinöral kayıpta koklear implant uygulanır. Yenidoğan işitme taramasında dış tüy hücrelerinin ürettiği otoakustik emisyonlar ölçülür.",
+    "durum": "taslak"
+  },
+
+  "Vestibule": {
+    "tr": "Vestibül (iç kulak dehlizi)",
+    "ozet": "Kemik labirentin koklea ile yarım daire kanalları arasındaki orta bölümü; denge organlarından utrikulus ve sakkulusu içerir.",
+    "bilgi": [
+      ["İçerik", "Utrikulus ve sakkulus — maküllerindeki otolitlerle doğrusal ivme ve baş eğimini (yerçekimi) algılar"],
+      ["Oval pencere", "Dış duvarında; üzengi kemiği tabanı buraya oturur"],
+      ["İnnervasyon", "Vestibüler sinir (CN VIII)"]
+    ],
+    "klinik": "Benign paroksismal pozisyonel vertigoda utrikulustan kopan otokonyalar yarım daire kanallarına (en sık arka) kaçar; Dix-Hallpike testiyle tanı konur, Epley manevrasıyla tedavi edilir. Ménière hastalığı ataklarla vertigo, dalgalı işitme kaybı ve çınlama yapar. Otosklerozda üzengi tabanı oval pencerede kilitlenir.",
+    "durum": "taslak"
+  },
+
+  "Falx cerebri": {
+    "tr": "Beyin orağı (falx cerebri)",
+    "ozet": "İki beyin yarımküresini ayıran uzunlamasına yarık içine uzanan orak biçimli dura mater katlantısı.",
+    "bilgi": [
+      ["Tutunma", "Önde crista galli, arkada tentoryum serebelli"],
+      ["İçerdiği sinüsler", "Üst kenarında üst sagittal sinüs, serbest alt kenarında alt sagittal sinüs, tentoryumla birleşiminde düz sinüs"]
+    ],
+    "klinik": "Tek taraflı kitlelerde singulat girus orağın altından karşı tarafa fıtıklaşabilir (subfalksiyel herniasyon) ve ön serebral arter basısıyla bacakta güçsüzlük yapabilir. Orak kireçlenmesi yaşlılarda normaldir; menenjiyomlar buradan gelişebilir.",
+    "durum": "taslak"
+  },
+
+  "Tentorium cerebelli": {
+    "tr": "Beyincik çadırı (tentorium cerebelli)",
+    "ozet": "Oksipital loblar ile beyincik arasına gerilmiş çadır biçimli dura katlantısı; kafa boşluğunu supratentoryal ve infratentoryal bölmelere ayırır.",
+    "bilgi": [
+      ["Tutunma", "Oksipital kemik (transvers sinüsler), petröz kemik kenarları (üst petrozal sinüsler), klinoid çıkıntılar"],
+      ["Tentoryal çentik", "Orta beynin geçtiği açıklık"]
+    ],
+    "klinik": "Supratentoryal kitlelerde temporal lobun unkusu çentikten fıtıklaşır (unkal herniasyon): aynı tarafta okülomotor sinir basısıyla genişlemiş ışık yanıtsız pupilla, bilinç bozukluğu ve motor bulgular gelişir; acil tedavi gerektirir.",
+    "durum": "taslak"
+  },
+
+  "Spinal dura": {
+    "tr": "Omurilik sert zarı (dura mater spinalis)",
+    "ozet": "Foramen magnumdan S2 düzeyine kadar omuriliği ve kauda ekinayı saran sağlam tübüler kılıf; sinir köklerine kılıf şeklinde uzanır.",
+    "bilgi": [
+      ["Uzanım", "Foramen magnum – S2 (dural kese); filum terminale externum ile koksikse bağlanır"],
+      ["Epidural aralık", "Dura ile omur kanalı arasında yağ ve iç vertebral ven pleksusu"]
+    ],
+    "klinik": "Epidural anestezi ilacın epidural aralığa, spinal anestezi ise subaraknoid aralığa (omurilik sonlanımının altından) verilmesidir. Dural delinme sonrası BOS kaçağı ayakta artan baş ağrısı yapar. Spinal epidural hematom ve apse acil cerrahi gerektirir.",
+    "durum": "taslak"
+  },
+
+  "Choroid plexus": {
+    "tr": "Koroid pleksus",
+    "ozet": "Yan, üçüncü ve dördüncü ventriküllerde yer alan, ependim kökenli epitelle örtülü damar yumakları; beyin omurilik sıvısını (BOS) üretir.",
+    "bilgi": [
+      ["BOS üretimi", "Günde ~500 mL; dolaşımdaki BOS ~150 mL (günde 3–4 kez yenilenir)"],
+      ["Kan-BOS bariyeri", "Epitel hücreleri arasındaki sıkı bağlantılar"],
+      ["Kalsifikasyon", "Yan ventrikül atriyumundaki glomus yaşla kireçlenir (radyolojik işaret)"]
+    ],
+    "klinik": "Çocuklarda koroid pleksus papillomu aşırı BOS üretimiyle hidrosefaliye yol açabilir. Doğum öncesi ultrasonda koroid pleksus kistleri sık ve çoğunlukla zararsızdır.",
+    "durum": "taslak"
+  }
+}

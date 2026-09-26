@@ -1,0 +1,597 @@
+{
+  "_aciklama": "Gövde kasları: sırt (yüzeyel, ara ve derin), göğüs duvarı, diyafram, karın duvarı ve pelvis tabanı",
+
+  "Trapezius muscle": {
+    "grup": true,
+    "tr": "Kukula kası (m. trapezius)",
+    "ozet": "Sırtın üst bölümünü ve ense arkasını örten geniş üçgen kas; kürek kemiğini kaldırır, geri çeker, indirir ve döndürür. İnen, enine ve çıkan bölümlerden oluşur.",
+    "bilgi": [
+      ["Origo", "Linea nuchalis superior'un iç üçte biri, protuberantia occipitalis externa, ense bağı (lig. nuchae), C7–T12 diken çıkıntıları"],
+      ["İnsersiyo", "Klavikulanın dış üçte biri (inen bölüm), akromiyon (enine bölüm), spina scapulae (çıkan bölüm)"],
+      ["İnnervasyon", "Aksesuar sinir (CN XI) — motor; C3–C4 — ağrı ve propriosepsiyon"],
+      ["Kanlanma", "Transvers servikal arter (yüzeyel dal), dorsal skapular arter, arka interkostal arter dalları"],
+      ["Fonksiyon", "İnen bölüm: kürek kemiğini ve omzu kaldırır (omuz silkme); çıkan bölümle birlikte glenoidi yukarı döndürür (kolun 90° üzerine kaldırılması); enine bölüm: kürek kemiğini geri çeker; çıkan bölüm: kürek kemiğini indirir; iki taraflı inen bölüm: boynu ekstansiyona getirir"]
+    ],
+    "klinik": "Arka boyun üçgenindeki cerrahi girişimlerde (ör. lenf nodu biyopsisi) aksesuar sinir yaralanabilir: omuz düşer, omuz silkilemez ve kol yatay düzlemin üstüne zor kaldırılır. Masa başı çalışanlarda kas gerginliği ve tetik noktaları sık görülür.",
+    "durum": "taslak"
+  },
+
+  "Latissimus dorsi muscle": {
+    "tr": "Geniş sırt kası (m. latissimus dorsi)",
+    "ozet": "Sırtın alt ve yan bölümünü kaplayan, vücudun yüzey alanı en geniş kası; kolu arkaya ve aşağı çeker, içe döndürür ('tırmanma kası').",
+    "bilgi": [
+      ["Origo", "T7–T12 diken çıkıntıları, torakolomber fasya, krista iliaka'nın arka üçte biri, son 3–4 kaburga (bazen kürek kemiği alt açısı)"],
+      ["İnsersiyo", "Humerusun sulcus intertubercularis tabanı"],
+      ["İnnervasyon", "Torakodorsal sinir (C6–C8)"],
+      ["Kanlanma", "Torakodorsal arter (a. subscapularis dalı); arka interkostal ve lomber arterlerin dorsal dalları"],
+      ["Fonksiyon", "Kolu ekstansiyon, addüksiyon ve iç rotasyona getirir; kollar sabitken gövdeyi yukarı çeker (tırmanma, barfiks); zorlu ekspirasyon ve öksürüğe yardım eder"]
+    ],
+    "klinik": "Meme rekonstrüksiyonu ve büyük doku defektlerinde latissimus dorsi flebi yaygın olarak kullanılır. Koltuk altı cerrahisinde torakodorsal sinir korunmalıdır.",
+    "durum": "taslak"
+  },
+
+  "Levator scapulae": {
+    "tr": "Kürek kemiği kaldırıcı kas (m. levator scapulae)",
+    "ozet": "Boyun omurlarından kürek kemiğinin üst açısına uzanan şerit biçimli kas.",
+    "bilgi": [
+      ["Origo", "C1–C4 enine çıkıntılarının arka tüberkülleri"],
+      ["İnsersiyo", "Kürek kemiğinin iç kenarı, spina scapulae'nin üstü (üst açı)"],
+      ["İnnervasyon", "Dorsal skapular sinir (C5) ve servikal sinirler (C3–C4)"],
+      ["Kanlanma", "Dorsal skapular ve transvers servikal arterler"],
+      ["Fonksiyon", "Kürek kemiğini kaldırır ve glenoidi aşağı döndürür; boynu yana eğer"]
+    ],
+    "klinik": "Boyun-omuz ağrısının sık kaynağıdır ('boyun tutulması'); tetik noktaları üst açı çevresinde ağrı yapar.",
+    "durum": "taslak"
+  },
+
+  "Rhomboid major muscle": {
+    "tr": "Büyük eşkenar dörtgen kas (m. rhomboideus major)",
+    "ozet": "Trapezin derininde, omurga ile kürek kemiği iç kenarı arasında uzanan dörtgen kas; kürek kemiğini omurgaya doğru çeker.",
+    "bilgi": [
+      ["Origo", "T2–T5 diken çıkıntıları"],
+      ["İnsersiyo", "Kürek kemiği iç kenarı, spina hizasından alt açıya kadar"],
+      ["İnnervasyon", "Dorsal skapular sinir (C4–C5)"],
+      ["Kanlanma", "Dorsal skapular arter, arka interkostal arterler"],
+      ["Fonksiyon", "Kürek kemiğini geri çeker (retraksiyon), glenoidi aşağı döndürür, kürek kemiğini göğüs duvarına sabitler"]
+    ],
+    "klinik": "Dorsal skapular sinir hasarında kürek kemiği iç kenarı hafifçe kalkar ve dışa kayar.",
+    "durum": "taslak"
+  },
+
+  "Rhomboid minor muscle": {
+    "tr": "Küçük eşkenar dörtgen kas (m. rhomboideus minor)",
+    "ozet": "Büyük rhomboidin hemen üstünde yer alan küçük kas.",
+    "bilgi": [
+      ["Origo", "Ense bağı, C7–T1 diken çıkıntıları"],
+      ["İnsersiyo", "Kürek kemiği iç kenarında spina scapulae hizasındaki düz üçgen alan"],
+      ["İnnervasyon", "Dorsal skapular sinir (C4–C5)"],
+      ["Fonksiyon", "Kürek kemiğini geri çeker ve sabitler"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Serratus posterior superior muscle": {
+    "tr": "Üst arka testere kası (m. serratus posterior superior)",
+    "ozet": "Sırtın ara katmanında, rhomboidlerin derininde yer alan ince dörtgen kas.",
+    "bilgi": [
+      ["Origo", "Ense bağı, C7–T3 diken çıkıntıları"],
+      ["İnsersiyo", "2.–4. kaburgaların üst kenarları"],
+      ["İnnervasyon", "2.–5. interkostal sinirler"],
+      ["Fonksiyon", "Kaburgaları kaldırdığı düşünülür; asıl rolünün propriosepsiyon olduğu kabul edilir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Serratus posterior inferior muscle": {
+    "tr": "Alt arka testere kası (m. serratus posterior inferior)",
+    "ozet": "Geniş sırt kasının derininde, bel-göğüs geçişinde yer alan ince kas.",
+    "bilgi": [
+      ["Origo", "T11–L2 diken çıkıntıları (torakolomber fasya yoluyla)"],
+      ["İnsersiyo", "8.–12. kaburgaların alt kenarları, açılarına yakın"],
+      ["İnnervasyon", "T9–T12 spinal sinirlerin ön dalları"],
+      ["Fonksiyon", "Kaburgaları aşağı çektiği düşünülür; asıl rolü propriosepsiyondur"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Iliocostalis muscles": {
+    "grup": true,
+    "tr": "İliokostal kaslar (m. iliocostalis)",
+    "ozet": "Omurgayı dikleştiren kas grubunun (m. erector spinae) en dıştaki sütunu; bel, göğüs ve boyun bölümlerinden oluşur.",
+    "bilgi": [
+      ["Origo", "Ortak tendon: krista iliaka'nın arka bölümü, sakrumun arka yüzü, sakroiliak bağlar, alt lomber diken çıkıntıları"],
+      ["İnsersiyo", "Bel bölümü: alt kaburgaların açıları; göğüs bölümü: üst kaburgaların açıları; boyun bölümü: C4–C6 enine çıkıntıları"],
+      ["İnnervasyon", "Spinal sinirlerin arka dalları"],
+      ["Kanlanma", "Arka interkostal, subkostal ve lomber arterlerin dorsal dalları"],
+      ["Fonksiyon", "İki taraflı: omurgayı ekstansiyona getirir ve dik duruşu korur; tek taraflı: omurgayı aynı tarafa eğer"]
+    ],
+    "klinik": "Erektör spina kaslarının spazmı akut bel ağrısında sık görülür ve omurga hareketlerini kısıtlar.",
+    "durum": "taslak"
+  },
+
+  "Longissimus muscles": {
+    "grup": true,
+    "tr": "Longissimus kasları (m. longissimus)",
+    "ozet": "Erektör spinanın orta ve en uzun sütunu; göğüs, boyun ve baş bölümlerinden oluşur.",
+    "bilgi": [
+      ["Origo", "Ortak tendon; üst göğüs ve alt boyun omurlarının enine çıkıntıları"],
+      ["İnsersiyo", "Göğüs bölümü: göğüs omurlarının enine çıkıntıları ve kaburgalar; boyun bölümü: C2–C6 enine çıkıntıları; baş bölümü: mastoid çıkıntı"],
+      ["İnnervasyon", "Spinal sinirlerin arka dalları"],
+      ["Fonksiyon", "Omurgayı ve başı ekstansiyona getirir, yana eğer; baş bölümü başı aynı tarafa döndürür"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Spinalis muscles": {
+    "grup": true,
+    "tr": "Spinal kaslar (m. spinalis)",
+    "ozet": "Erektör spinanın en içteki, diken çıkıntılarının hemen yanındaki en küçük sütunu.",
+    "bilgi": [
+      ["Origo", "Üst lomber ve alt göğüs omurlarının diken çıkıntıları (T11–L2)"],
+      ["İnsersiyo", "Üst göğüs omurlarının diken çıkıntıları; boyun bölümü C2 diken çıkıntısına; baş bölümü semispinalis kapitis ile oksipital kemiğe"],
+      ["İnnervasyon", "Spinal sinirlerin arka dalları"],
+      ["Fonksiyon", "Omurgayı ekstansiyona getirir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Semispinalis muscles": {
+    "grup": true,
+    "tr": "Yarı dikensel kaslar (m. semispinalis)",
+    "ozet": "Transversospinal grubun en yüzeyel tabakası; enine çıkıntılardan 4–6 segment yukarıdaki diken çıkıntılarına uzanır.",
+    "bilgi": [
+      ["Origo", "C4–T12 enine çıkıntıları"],
+      ["İnsersiyo", "Göğüs bölümü: üst göğüs ve alt boyun diken çıkıntıları; boyun bölümü: C2–C5 diken çıkıntıları; baş bölümü: linea nuchalis superior ile inferior arası (oksipital kemik)"],
+      ["İnnervasyon", "Spinal sinirlerin arka dalları"],
+      ["Fonksiyon", "Başı, boyun ve göğüs omurgasını ekstansiyona getirir; karşı tarafa döndürür"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Multifidus muscles": {
+    "grup": true,
+    "tr": "Multifidus kasları (m. multifidus)",
+    "ozet": "Omurga boyunca uzanan, bel bölgesinde en kalın olan derin segmental kas; omurların tek tek dengelenmesinde anahtar roldedir.",
+    "bilgi": [
+      ["Origo", "Sakrum, ilium (SİPS), lomber omurların mamiller çıkıntıları, göğüs omurlarının enine çıkıntıları, C4–C7 eklem çıkıntıları"],
+      ["İnsersiyo", "2–4 segment yukarıdaki diken çıkıntıları"],
+      ["İnnervasyon", "Spinal sinirlerin arka dalları"],
+      ["Fonksiyon", "Omurları hareket sırasında segmental olarak stabilize eder; ekstansiyon ve rotasyona katkı verir"]
+    ],
+    "klinik": "Kronik bel ağrısında lomber multifidus atrofisi ve yağlanması sık görülür; stabilizasyon egzersizlerinin başlıca hedefidir.",
+    "durum": "taslak"
+  },
+
+  "Rotatores": {
+    "tr": "Rotator kaslar (mm. rotatores)",
+    "ozet": "Transversospinal grubun en derin tabakası; en iyi göğüs bölgesinde gelişmiş küçük kaslar.",
+    "bilgi": [
+      ["Origo", "Omurların enine çıkıntıları"],
+      ["İnsersiyo", "Bir (kısa) veya iki (uzun) üst omurun lamina ve diken çıkıntısı tabanı"],
+      ["İnnervasyon", "Spinal sinirlerin arka dalları"],
+      ["Fonksiyon", "Omurları stabilize eder, ekstansiyon ve rotasyona yardım eder; yoğun kas iğciği içerir (propriosepsiyon)"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Interspinales muscles": {
+    "grup": true,
+    "tr": "Dikenler arası kaslar (mm. interspinales)",
+    "ozet": "Komşu omurların diken çıkıntıları arasında uzanan kısa kaslar; boyun ve bel bölgesinde belirgindir, göğüste körelmiştir.",
+    "bilgi": [
+      ["Origo / İnsersiyo", "Komşu diken çıkıntılarının üst ve alt yüzeyleri"],
+      ["İnnervasyon", "Spinal sinirlerin arka dalları"],
+      ["Fonksiyon", "Omurganın ekstansiyonuna ve rotasyonuna yardım eder; propriosepsiyon"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Intertransversarii muscles": {
+    "tr": "Enine çıkıntılar arası kaslar (mm. intertransversarii)",
+    "ozet": "Komşu omurların enine çıkıntıları arasındaki küçük kaslar; bel bölgesinde iç ve dış (dorsal ve ventral bölümlü) gruplar oluşturur.",
+    "bilgi": [
+      ["Origo / İnsersiyo", "Komşu enine çıkıntılar"],
+      ["İnnervasyon", "Spinal sinirlerin arka ve ön dalları"],
+      ["Fonksiyon", "Omurganın yana eğilmesine yardım eder, segmentleri stabilize eder"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Splenius capitis muscle": {
+    "tr": "Başın kayış kası (m. splenius capitis)",
+    "ozet": "Ensenin derin kaslarını bir sargı gibi örten yassı kas; başı döndürür ve geriye çeker.",
+    "bilgi": [
+      ["Origo", "Ense bağının alt yarısı, C7–T3/T4 diken çıkıntıları"],
+      ["İnsersiyo", "Mastoid çıkıntı ve linea nuchalis superior'un dış üçte biri"],
+      ["İnnervasyon", "Orta servikal spinal sinirlerin arka dalları"],
+      ["Fonksiyon", "Tek taraflı: başı aynı tarafa eğer ve döndürür; iki taraflı: baş ve boynu ekstansiyona getirir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Splenius colli muscle": {
+    "tr": "Boynun kayış kası (m. splenius cervicis)",
+    "ozet": "Splenius kapitisin altında, üst boyun omurlarına tutunan ince kas.",
+    "bilgi": [
+      ["Origo", "T3–T6 diken çıkıntıları"],
+      ["İnsersiyo", "C1–C3 enine çıkıntılarının arka tüberkülleri"],
+      ["İnnervasyon", "Alt servikal spinal sinirlerin arka dalları"],
+      ["Fonksiyon", "Boynu aynı tarafa döndürür ve eğer; iki taraflı ekstansiyon"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Rectus posterior major capitis muscle": {
+    "tr": "Büyük arka düz baş kası (m. rectus capitis posterior major)",
+    "ozet": "Suboksipital üçgenin iç-üst sınırını yapan kas.",
+    "bilgi": [
+      ["Origo", "Aksisin (C2) diken çıkıntısı"],
+      ["İnsersiyo", "Linea nuchalis inferior'un dış bölümü"],
+      ["İnnervasyon", "Suboksipital sinir (C1 arka dalı)"],
+      ["Fonksiyon", "Başı ekstansiyona getirir ve aynı tarafa döndürür"],
+      ["Suboksipital üçgen", "Büyük arka düz baş kası, üst ve alt eğik baş kasları arasında kalır; içinde vertebral arter ve suboksipital sinir bulunur"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Rectus posterior minor capitis muscle": {
+    "tr": "Küçük arka düz baş kası (m. rectus capitis posterior minor)",
+    "ozet": "Atlas ile kafatası arasındaki en küçük ense kası.",
+    "bilgi": [
+      ["Origo", "Atlasın arka kemerindeki arka tüberkül"],
+      ["İnsersiyo", "Linea nuchalis inferior'un iç bölümü"],
+      ["İnnervasyon", "Suboksipital sinir (C1 arka dalı)"],
+      ["Fonksiyon", "Başı ekstansiyona getirir"]
+    ],
+    "klinik": "Dura materle bağ dokusu köprüsü (miyodural köprü) bulunduğu gösterilmiştir; servikojenik baş ağrısıyla ilişkisi araştırılmaktadır.",
+    "durum": "taslak"
+  },
+
+  "Obliquus inferior capitis muscle": {
+    "tr": "Alt eğik baş kası (m. obliquus capitis inferior)",
+    "ozet": "Adına karşın kafatasına tutunmayan tek 'kapitis' kası; atlası ve başı döndürür.",
+    "bilgi": [
+      ["Origo", "Aksisin diken çıkıntısı"],
+      ["İnsersiyo", "Atlasın enine çıkıntısı"],
+      ["İnnervasyon", "Suboksipital sinir (C1 arka dalı)"],
+      ["Fonksiyon", "Atlası (ve başı) aynı tarafa döndürür"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Obliquus superior capitis muscle": {
+    "tr": "Üst eğik baş kası (m. obliquus capitis superior)",
+    "ozet": "Atlasın enine çıkıntısından oksipital kemiğe uzanan suboksipital kas.",
+    "bilgi": [
+      ["Origo", "Atlasın enine çıkıntısı"],
+      ["İnsersiyo", "Oksipital kemik, linea nuchalis superior ile inferior arası (dış bölüm)"],
+      ["İnnervasyon", "Suboksipital sinir (C1 arka dalı)"],
+      ["Fonksiyon", "Başı ekstansiyona getirir ve yana eğer"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Pectoralis major muscle": {
+    "grup": true,
+    "tr": "Büyük göğüs kası (m. pectoralis major)",
+    "ozet": "Göğsün ön-üst bölümünü örten yelpaze biçimli güçlü kas; klaviküler baş, sternokostal baş ve abdominal bölümden oluşur.",
+    "bilgi": [
+      ["Origo", "Klaviküler baş: klavikulanın iç yarısının ön yüzü; sternokostal baş: sternumun ön yüzü ve ilk altı kaburga kıkırdağı; abdominal bölüm: dış eğik kasın aponevrozu"],
+      ["İnsersiyo", "Humerusun sulcus intertubercularis dış dudağı (crista tuberculi majoris)"],
+      ["İnnervasyon", "Lateral pektoral sinir (C5–C7) ve medial pektoral sinir (C8–T1)"],
+      ["Kanlanma", "Torakoakromiyal arterin pektoral dalı, iç torasik arterin perforan dalları, lateral torasik arter"],
+      ["Fonksiyon", "Kolu addüksiyon ve iç rotasyona getirir; klaviküler baş kolu fleksiyona, sternokostal baş fleksiyondaki kolu ekstansiyona getirir; kol sabitken gövdeyi yukarı çeker"]
+    ],
+    "klinik": "Poland sendromunda sternokostal baş doğuştan yoktur. Ağırlık kaldırmada (bench press) tendon kopması görülebilir. Baş-boyun rekonstrüksiyonunda pektoralis major flebi kullanılır.",
+    "durum": "taslak"
+  },
+
+  "Pectoralis minor muscle": {
+    "tr": "Küçük göğüs kası (m. pectoralis minor)",
+    "ozet": "Büyük göğüs kasının derininde yer alan üçgen kas; aksiller arteri üç bölüme ayıran önemli yer işaretidir.",
+    "bilgi": [
+      ["Origo", "3.–5. kaburgalar, kıkırdaklarına yakın"],
+      ["İnsersiyo", "Korakoid çıkıntının iç kenarı ve üst yüzü"],
+      ["İnnervasyon", "Medial pektoral sinir (C8–T1)"],
+      ["Kanlanma", "Torakoakromiyal ve lateral torasik arterler"],
+      ["Fonksiyon", "Kürek kemiğini aşağı-öne çekerek göğüs duvarına sabitler; kürek kemiği sabitken kaburgaları kaldırır (yardımcı solunum kası)"]
+    ],
+    "klinik": "Pektoralis minör sendromunda brakiyal pleksus ve aksiller damarlar korakoidin altında sıkışabilir. Meme kanserinde aksiller lenf nodu düzeyleri bu kasa göre sınıflandırılır.",
+    "durum": "taslak"
+  },
+
+  "Subclavius muscle": {
+    "tr": "Köprücük altı kası (m. subclavius)",
+    "ozet": "Köprücük kemiğinin alt yüzündeki küçük silindirik kas.",
+    "bilgi": [
+      ["Origo", "1. kaburga ile kıkırdağının birleşim yeri"],
+      ["İnsersiyo", "Klavikula orta üçte birinin alt yüzü"],
+      ["İnnervasyon", "Subklavius siniri (C5–C6)"],
+      ["Fonksiyon", "Klavikulayı sabitler ve aşağı-içe çeker"]
+    ],
+    "klinik": "Klavikula kırıklarında altındaki subklavyen damarları kırık uçlarından kısmen korur.",
+    "durum": "taslak"
+  },
+
+  "Serratus anterior muscle": {
+    "tr": "Ön testere kası (m. serratus anterior)",
+    "ozet": "Göğüs kafesinin yan duvarında testere dişi gibi kaburgalardan başlayan kas; kürek kemiğini öne çeker ve göğüs duvarına bastırır ('boksör kası').",
+    "bilgi": [
+      ["Origo", "1.–8. (9.) kaburgaların dış yüzleri"],
+      ["İnsersiyo", "Kürek kemiği iç kenarının ön (kostal) yüzü, üst açıdan alt açıya"],
+      ["İnnervasyon", "Uzun torasik sinir (n. thoracicus longus, C5–C7)"],
+      ["Kanlanma", "Lateral torasik ve torakodorsal arterler"],
+      ["Fonksiyon", "Kürek kemiğini öne çeker (protraksiyon) ve göğüs duvarına bastırır; trapezle birlikte glenoidi yukarı döndürerek kolun baş üstüne kaldırılmasını sağlar"]
+    ],
+    "klinik": "Uzun torasik sinir hasarında (mastektomi, aksiller diseksiyon, ağır sırt çantası) kürek kemiği iç kenarı kanat gibi kalkar (skapula alata); hasta duvarı ittiğinde belirginleşir ve kolu yatay düzlemin üstüne kaldıramaz.",
+    "durum": "taslak"
+  },
+
+  "External intercostal muscles": {
+    "tr": "Dış interkostal kaslar (mm. intercostales externi)",
+    "ozet": "Kaburga aralıklarının en dış tabakası; lifleri öne-aşağı ('eller cepte') uzanır ve kaburgaları kaldırır.",
+    "bilgi": [
+      ["Origo", "Üstteki kaburganın alt kenarı"],
+      ["İnsersiyo", "Alttaki kaburganın üst kenarı (kaburga tüberkülünden kostokondral birleşime kadar; önde dış interkostal zar olarak devam eder)"],
+      ["İnnervasyon", "İnterkostal sinirler"],
+      ["Kanlanma", "Arka ve ön interkostal arterler"],
+      ["Fonksiyon", "Zorlu inspirasyonda kaburgaları kaldırır; interkostal aralığı destekler"],
+      ["Sayı", "Her tarafta 11 kas"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Internal intercostal muscles": {
+    "tr": "İç interkostal kaslar (mm. intercostales interni)",
+    "ozet": "Kaburga aralıklarının orta tabakası; lifleri dış interkostallere dik olarak aşağı-arkaya uzanır.",
+    "bilgi": [
+      ["Origo", "Üstteki kaburganın alt kenarı (kaburga oluğunun dış dudağı)"],
+      ["İnsersiyo", "Alttaki kaburganın üst kenarı (sternumdan kaburga açılarına kadar; arkada iç interkostal zar)"],
+      ["İnnervasyon", "İnterkostal sinirler"],
+      ["Fonksiyon", "Kemik arası bölüm zorlu ekspirasyonda kaburgaları indirir; kıkırdaklar arası bölüm inspirasyona yardım eder"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Innermost intercostal muscles": {
+    "tr": "En iç interkostal kaslar (mm. intercostales intimi)",
+    "ozet": "İç interkostallerin derin tabakası; interkostal damar-sinir paketi iç ve en iç tabaka arasında seyreder.",
+    "bilgi": [
+      ["Konum", "Kaburga aralıklarının yan bölümleri"],
+      ["İnnervasyon", "İnterkostal sinirler"],
+      ["Fonksiyon", "İç interkostallerle birlikte çalışır"],
+      ["Damar-sinir paketi", "Yukarıdan aşağıya ven, arter, sinir (VAN); kaburga oluğunda korunur"]
+    ],
+    "klinik": "Göğüs tüpü ve torasentez iğnesi, damar-sinir paketine zarar vermemek için alttaki kaburganın üst kenarından ilerletilir.",
+    "durum": "taslak"
+  },
+
+  "Transversus thoracis muscle": {
+    "tr": "Enine göğüs kası (m. transversus thoracis)",
+    "ozet": "Ön göğüs duvarının iç yüzünde, sternumdan kaburga kıkırdaklarına yelpaze gibi açılan ince kas.",
+    "bilgi": [
+      ["Origo", "Sternum gövdesinin alt bölümü ve ksifoid çıkıntının arka yüzü"],
+      ["İnsersiyo", "2.–6. kaburga kıkırdaklarının iç yüzleri"],
+      ["İnnervasyon", "İnterkostal sinirler (T2–T6)"],
+      ["Fonksiyon", "Kaburgaları ve kıkırdakları hafifçe indirir (ekspirasyon)"],
+      ["Komşuluk", "İç torasik damarlar kasın önünde (yüzeyinde) seyreder"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Levatores costarum": {
+    "grup": true,
+    "tr": "Kaburga kaldırıcı kaslar (mm. levatores costarum)",
+    "ozet": "Enine çıkıntılardan hemen alttaki (kısa) veya iki alttaki (uzun) kaburgaya uzanan on iki çift küçük kas.",
+    "bilgi": [
+      ["Origo", "C7 ve T1–T11 enine çıkıntılarının uçları"],
+      ["İnsersiyo", "Kısa kaslar: bir alttaki kaburganın tüberkül ile açı arası; uzun kaslar: iki alttaki kaburga"],
+      ["İnnervasyon", "C8–T11 spinal sinirlerin arka dalları"],
+      ["Fonksiyon", "Kaburgaları kaldırır; omurganın yana eğilmesi ve rotasyonuna yardım eder"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Diaphragm": {
+    "tr": "Diyafram (diaphragma)",
+    "ozet": "Göğüs ve karın boşluklarını ayıran kubbe biçimli kas-tendon perdesi; solunumun en önemli kasıdır. Kasılınca kubbe düzleşir ve göğüs boşluğu dikey yönde genişler.",
+    "bilgi": [
+      ["Origo", "Sternal bölüm: ksifoid çıkıntının arka yüzü; kostal bölüm: alt altı kaburga ve kıkırdaklarının iç yüzü; lomber bölüm: medial ve lateral arkuat bağlar, krura (sağ: L1–L3, sol: L1–L2 gövdeleri)"],
+      ["İnsersiyo", "Merkezi tendon (centrum tendineum)"],
+      ["İnnervasyon", "Frenik sinir (C3–C5) — tek motor sinir; çevre bölümlerin duyusu alt interkostal sinirlerden"],
+      ["Kanlanma", "Üst ve alt frenik arterler, perikardiyakofrenik ve muskülofrenik arterler, alt interkostal arterler"],
+      ["Fonksiyon", "İnspirasyonun ana kası; karın içi basıncı artırarak dışkılama, idrar yapma ve doğuma yardım eder; venöz dönüşü destekler"]
+    ],
+    "bolumler": [
+      { "baslik": "Açıklıklar", "metin": "Kaval açıklık (T8): alt vena kava ve sağ frenik sinir dalları. Özofageal hiatus (T10): yemek borusu, vagus gövdeleri ve sol gastrik damarların özofageal dalları. Aort hiatusu (T12): aort, duktus torasikus ve azigos ven — aslında diyaframın arkasından geçer." }
+    ],
+    "klinik": "Hiatus hernisinde midenin bir bölümü özofageal hiatustan göğse kayar (reflü). Konjenital diyafram hernisi (çoğunlukla sol arka-yan, Bochdalek) yenidoğanda akciğer gelişimini bozar. Frenik sinir hasarında diyafram paradoks hareket eder. Diyafram tahrişinde ağrı omuza yansır (C4 dermatomu).",
+    "durum": "taslak"
+  },
+
+  "Rectus abdominis muscle": {
+    "tr": "Düz karın kası (m. rectus abdominis)",
+    "ozet": "Karın ön duvarının orta hattın iki yanında uzanan, rektus kılıfı içindeki uzun kas; tendinöz kesitleri 'altı pak' görünümünü oluşturur.",
+    "bilgi": [
+      ["Origo", "Simfizis pubika ve pubik krista"],
+      ["İnsersiyo", "Ksifoid çıkıntı ve 5.–7. kaburga kıkırdakları"],
+      ["İnnervasyon", "Torakoabdominal sinirler (T7–T11 ön dalları) ve subkostal sinir (T12)"],
+      ["Kanlanma", "Üst ve alt epigastrik arterler"],
+      ["Fonksiyon", "Gövdeyi fleksiyona getirir, karın organlarını sıkıştırır, pelvisin eğimini kontrol eder"],
+      ["Tendinöz kesitler", "Genellikle 3 adet; kılıfın ön yaprağına yapışıktır"]
+    ],
+    "klinik": "Gebelik sonrası iki kasın orta hattan ayrılması (diastazis rekti) görülebilir. Alt epigastrik arter yırtılırsa rektus kılıfı hematomu gelişir. Meme rekonstrüksiyonunda TRAM/DIEP flepleri bu bölgeden alınır.",
+    "durum": "taslak"
+  },
+
+  "External abdominal oblique muscle": {
+    "tr": "Dış karın eğik kası (m. obliquus externus abdominis)",
+    "ozet": "Karın yan duvarının en yüzeyel ve en büyük yassı kası; lifleri öne-aşağı uzanır, aponevrozunun alt kenarı kasık bağını oluşturur.",
+    "bilgi": [
+      ["Origo", "5.–12. kaburgaların dış yüzleri"],
+      ["İnsersiyo", "Linea alba, tuberculum pubicum ve krista iliaka'nın ön yarısı"],
+      ["İnnervasyon", "Torakoabdominal sinirler (T7–T11) ve subkostal sinir (T12)"],
+      ["Kanlanma", "Alt arka interkostal ve subkostal arterler, üst ve alt epigastrik, derin sirkumfleks iliak arterler"],
+      ["Fonksiyon", "Karın organlarını destekler ve sıkıştırır; gövdeyi fleksiyona getirir ve karşı tarafa döndürür"]
+    ],
+    "klinik": "Aponevrozundaki yüzeyel kasık halkası inguinal kanalın dış ağzıdır; indirekt kasık fıtıkları buradan skrotuma inebilir.",
+    "durum": "taslak"
+  },
+
+  "Internal abdominal oblique muscle": {
+    "tr": "İç karın eğik kası (m. obliquus internus abdominis)",
+    "ozet": "Dış eğik kasın derininde, lifleri ona dik (yukarı-öne) uzanan yassı karın kası; alt lifleri erkekte kremaster kasını oluşturur.",
+    "bilgi": [
+      ["Origo", "Torakolomber fasya, krista iliaka'nın ön üçte ikisi, kasık bağının dış yarısının derinindeki bağ dokusu"],
+      ["İnsersiyo", "10.–12. kaburgaların alt kenarları, linea alba, konjoint tendon yoluyla pecten pubis"],
+      ["İnnervasyon", "Torakoabdominal sinirler (T7–T11), subkostal sinir (T12), iliohipogastrik ve ilioinguinal sinirler (L1)"],
+      ["Fonksiyon", "Karın organlarını sıkıştırır; gövdeyi fleksiyona getirir ve aynı tarafa döndürür"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Transversus abdominis muscle": {
+    "tr": "Enine karın kası (m. transversus abdominis)",
+    "ozet": "Yassı karın kaslarının en derini; lifleri yatay uzanır ve karnı bir korse gibi sarar.",
+    "bilgi": [
+      ["Origo", "7.–12. kaburga kıkırdaklarının iç yüzleri, torakolomber fasya, krista iliaka, kasık bağının dış üçte biri"],
+      ["İnsersiyo", "Linea alba (iç eğik aponevrozuyla), pubik krista ve konjoint tendon yoluyla pecten pubis"],
+      ["İnnervasyon", "T7–T12 ve L1 (iliohipogastrik, ilioinguinal) sinirleri"],
+      ["Fonksiyon", "Karın organlarını sıkıştırır ve destekler; gövde (core) stabilitesinde erken devreye giren kastır"]
+    ],
+    "klinik": "Karın duvarı cerrahisinde bu kas ile iç eğik arasındaki düzlem (TAP bloğu) lokal anestezi için kullanılır.",
+    "durum": "taslak"
+  },
+
+  "Pyramidalis muscle": {
+    "tr": "Piramit kas (m. pyramidalis)",
+    "ozet": "Düz karın kasının alt ucunun önünde yer alan küçük üçgen kas; insanların yaklaşık beşte birinde bulunmaz.",
+    "bilgi": [
+      ["Origo", "Pubis gövdesi ve pubik krista"],
+      ["İnsersiyo", "Linea alba"],
+      ["İnnervasyon", "Subkostal sinir (T12)"],
+      ["Fonksiyon", "Linea alba'yı gerer"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Quadratus lumborum muscle": {
+    "tr": "Kare bel kası (m. quadratus lumborum)",
+    "ozet": "Karın arka duvarında, 12. kaburga ile kalça kemiği arasında yer alan dörtgen kas.",
+    "bilgi": [
+      ["Origo", "İliolomber bağ ve krista iliaka'nın iç dudağı"],
+      ["İnsersiyo", "12. kaburganın alt kenarının iç yarısı ve lomber enine çıkıntıların uçları"],
+      ["İnnervasyon", "T12 ve L1–L4 sinirlerinin ön dalları"],
+      ["Fonksiyon", "Omurgayı yana eğer ve ekstansiyona getirir; inspirasyonda 12. kaburgayı sabitler"]
+    ],
+    "klinik": "Mekanik bel ve yan ağrısının sık kaynağıdır; kalçada yükseklik farkı hissi yapabilir.",
+    "durum": "taslak"
+  },
+
+  "Linea alba": {
+    "tr": "Linea alba (beyaz çizgi)",
+    "ozet": "Üç yassı karın kasının aponevrozlarının orta hatta kaynaşmasıyla oluşan, ksifoidden simfizis pubikaya uzanan lifli şerit.",
+    "bilgi": [
+      ["Uzanım", "Ksifoid çıkıntı – simfizis pubika; göbek (umbilikus) üzerinde yer alır"],
+      ["Özellik", "Göbeğin üstünde daha geniş, altında dardır; damardan fakirdir"]
+    ],
+    "klinik": "Damardan fakir olduğundan orta hat laparotomi kesileri buradan yapılır. Epigastrik ve göbek fıtıkları ile diastazis rekti bu hatta görülür.",
+    "durum": "taslak"
+  },
+
+  "Inguinal ligament": {
+    "tr": "Kasık bağı (ligamentum inguinale)",
+    "ozet": "Dış eğik kas aponevrozunun kalınlaşmış alt kenarı; SİAS'tan tuberculum pubicum'a uzanır ve inguinal kanalın tabanını oluşturur.",
+    "bilgi": [
+      ["Uzanım", "Spina iliaca anterior superior (SİAS) – tuberculum pubicum"],
+      ["Altından geçenler", "Dıştan içe: femoral sinir, femoral arter, femoral ven, lenf damarları (femoral kanal)"]
+    ],
+    "klinik": "Kasık fıtıkları bağın üstünden ve tuberculum pubicum'un içinden, femoral fıtıklar ise bağın altından ve tüberkülün dışından ele gelir. Femoral nabız bağın orta noktasının hemen altında alınır.",
+    "durum": "taslak"
+  },
+
+  "Levator ani": {
+    "grup": true,
+    "tr": "Anüs kaldırıcı kas (m. levator ani)",
+    "ozet": "Pelvis tabanının (pelvik diyafram) büyük bölümünü oluşturan geniş kas tabakası; puborektal, pubokoksigeal ve iliokoksigeal bölümlerden oluşur ve pelvis organlarını taşır.",
+    "bilgi": [
+      ["Origo", "Pubis gövdesi, levator ani tendinöz arkı (obturator fasyası kalınlaşması), spina ischiadica"],
+      ["İnsersiyo", "Perine cismi, koksiks, anokoksigeal bağ, prostat/vajina, rektum ve anal kanal duvarları"],
+      ["İnnervasyon", "Levator ani siniri (S4 dalları), alt rektal sinir, koksigeal pleksus"],
+      ["Kanlanma", "İç pudendal ve alt gluteal arter dalları"],
+      ["Fonksiyon", "Pelvis organlarını destekler; karın içi basınç artışına (öksürük, ıkınma) karşı koyar; puborektal bölüm anorektal açıyı koruyarak dışkı kontinansını sağlar"]
+    ],
+    "klinik": "Vajinal doğumda kasın gerilmesi veya yırtılması stres üriner inkontinans ve pelvik organ prolapsusuna yol açabilir. Pelvik taban (Kegel) egzersizleri bu kası güçlendirir.",
+    "durum": "taslak"
+  },
+
+  "Iliococcygeus muscle": {
+    "tr": "İliokoksigeal kas (m. iliococcygeus)",
+    "ozet": "Levator aninin arka-yan, en ince bölümü.",
+    "bilgi": [
+      ["Origo", "Levator ani tendinöz arkının arka bölümü ve spina ischiadica"],
+      ["İnsersiyo", "Koksiks ve anokoksigeal bağ"],
+      ["İnnervasyon", "Levator ani siniri (S4), koksigeal pleksus"],
+      ["Fonksiyon", "Pelvis tabanını destekler, koksiksi öne çeker"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Pubococcygeus muscle": {
+    "tr": "Pubokoksigeal kas (m. pubococcygeus)",
+    "ozet": "Levator aninin ön-orta bölümü; pubisten koksikse uzanır ve pelvis organlarını çevreleyen alt bölümler verir.",
+    "bilgi": [
+      ["Origo", "Pubis gövdesinin arka yüzü, tendinöz arkın ön bölümü"],
+      ["İnsersiyo", "Anokoksigeal bağ ve koksiks; perine cismi"],
+      ["İnnervasyon", "Levator ani siniri (S4), alt rektal sinir"],
+      ["Fonksiyon", "Pelvis organlarını destekler; idrar ve dışkı kontinansına katkı verir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Pubo-analis muscle": {
+    "tr": "Puboanal kas (m. puboanalis)",
+    "ozet": "Pubokoksigeal kasın anal kanal duvarına, iç ve dış sfinkterler arasına karışan lifleri.",
+    "bilgi": [
+      ["Origo", "Pubis gövdesinin arka yüzü"],
+      ["İnsersiyo", "Anal kanalın intersfinkterik oluğu ve anüs derisi"],
+      ["İnnervasyon", "Levator ani siniri (S4), alt rektal sinir"],
+      ["Fonksiyon", "Anal kanalı yukarı çeker; dışkı kontinansına katkı verir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Tendinous arch of levator ani": {
+    "tr": "Levator ani tendinöz arkı (arcus tendineus musculi levatoris ani)",
+    "ozet": "Obturator internus fasyasının pubisten spina ischiadica'ya uzanan kalınlaşması; levator aninin başlangıç çizgisidir.",
+    "bilgi": [["Uzanım", "Pubis gövdesinin arka yüzü – spina ischiadica"]],
+    "klinik": "Pelvik taban onarım cerrahisinde askı noktası olarak kullanılır.",
+    "durum": "taslak"
+  },
+
+  "Coccygeus muscle": {
+    "tr": "Koksigeal kas (m. coccygeus, ischiococcygeus)",
+    "ozet": "Pelvik diyaframın arka bölümünü tamamlayan, sakrospinöz bağla kaynaşmış üçgen kas.",
+    "bilgi": [
+      ["Origo", "Spina ischiadica"],
+      ["İnsersiyo", "Sakrumun alt ucu ve koksiksin yan kenarı"],
+      ["İnnervasyon", "S4–S5 spinal sinir dalları"],
+      ["Fonksiyon", "Pelvis organlarını destekler; koksiksi öne çeker (fleksiyon)"]
+    ],
+    "durum": "taslak"
+  },
+
+  "External anal sphincter": {
+    "tr": "Dış anal sfinkter (m. sphincter ani externus)",
+    "ozet": "Anal kanalın alt üçte ikisini çevreleyen istemli çizgili kas halkası; deri altı, yüzeyel ve derin bölümlerden oluşur.",
+    "bilgi": [
+      ["Origo", "Anüs çevresi deri ve fasyası; koksiks (anokoksigeal bağ yoluyla)"],
+      ["İnsersiyo", "Perine cismi"],
+      ["İnnervasyon", "Alt rektal sinir (pudendal sinir dalı, S2–S4, özellikle S4)"],
+      ["Kanlanma", "Alt rektal arterler (iç pudendal arter)"],
+      ["Fonksiyon", "Anal kanalı istemli olarak kapatır (dışkı kontinansı); derin bölüm puborektal kasla birlikte çalışır"]
+    ],
+    "klinik": "Doğumda üçüncü ve dördüncü derece perine yırtıkları sfinkteri etkileyerek dışkı inkontinansına yol açabilir; erken tanı ve onarım önemlidir.",
+    "durum": "taslak"
+  }
+}

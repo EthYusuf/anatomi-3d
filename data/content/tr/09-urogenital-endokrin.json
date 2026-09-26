@@ -1,0 +1,306 @@
+{
+  "_aciklama": "Üriner sistem, erkek genital sistemi, endokrin bezler, periton ve plevra",
+
+  "Kidney": {
+    "tr": "Böbrek (ren)",
+    "ozet": "Karın arka duvarında, omurganın iki yanında (T12–L3) yer alan fasulye biçimli çift organ; kanı süzerek idrar üretir, sıvı-elektrolit ve asit-baz dengesini, kan basıncını ve kırmızı kan hücresi yapımını düzenler.",
+    "bilgi": [
+      ["Boyut / ağırlık", "~11 × 6 × 3 cm; ~150 g; sağ böbrek karaciğer nedeniyle biraz daha aşağıdadır"],
+      ["Yapı", "Korteks, medulla (8–18 piramit), renal kolonlar, papillalar, küçük ve büyük kaliksler; her böbrekte ~1 milyon nefron"],
+      ["Hilus sırası (önden arkaya)", "Renal ven, renal arter, renal pelvis"],
+      ["Kanlanma", "Kalp debisinin ~%20–25'i; renal arterin segment dalları uç arterlerdir"],
+      ["Filtrasyon", "Günde ~180 L plazma süzülür (GFR ~125 mL/dk); ~1–2 L idrar oluşur"],
+      ["Hormonal görevler", "Renin (kan basıncı), eritropoetin, D vitamininin aktif şekli (kalsitriol)"],
+      ["Örtüler", "Fibröz kapsül, perirenal yağ, renal fasya (Gerota), pararenal yağ"]
+    ],
+    "klinik": "Böbrek taşları belden kasığa yayılan kolik ağrı yapar. Diyabet ve hipertansiyon kronik böbrek hastalığının başlıca nedenleridir; ileri evrede diyaliz veya nakil gerekir. Piyelonefritte kostovertebral açı hassasiyeti vardır. Sol renal ven, sol gonadal veni aldığından bu vende tıkanma sol varikoseleye yol açabilir.",
+    "durum": "taslak"
+  },
+
+  "Renal pelvis": {
+    "tr": "Böbrek havuzu (pelvis renalis)",
+    "ozet": "Büyük kalikslerin birleşmesiyle oluşan, üreterin huni biçimli üst ucu; böbrek sinüsünde yer alır ve hilustan arkadan çıkar.",
+    "bilgi": [["Oluşum", "2–3 büyük kaliksin birleşmesi"]],
+    "klinik": "Üreteropelvik bileşke darlığı doğumsal hidronefrozun en sık nedenidir. Havuzu ve kaliksleri dolduran staghorn (geyik boynuzu) taşları cerrahi tedavi gerektirir. Ürotelyal karsinom burada da görülebilir.",
+    "durum": "taslak"
+  },
+
+  "Ureter": {
+    "tr": "Üreter (idrar borusu)",
+    "ozet": "İdrarı peristaltik hareketlerle böbrek havuzundan mesaneye taşıyan 25–30 cm'lik kaslı tüp.",
+    "bilgi": [
+      ["Seyir", "Psoas major üzerinde retroperitoneal iner, pelvis girişinde iliak damarları çaprazlar"],
+      ["Fizyolojik darlıklar", "Üreteropelvik bileşke, iliak damarları çaprazladığı yer, üreterovezikal bileşke (en dar — taşlar en sık burada takılır)"],
+      ["Komşuluk", "'Köprünün altından akan su': kadında uterin arterin, erkekte duktus deferensin altından geçer"],
+      ["Kanlanma", "Renal, gonadal, ortak ve iç iliak, vezikal arterlerden segmental dallar"]
+    ],
+    "klinik": "Taş takılması böbrek koliğine ve tıkanmaya bağlı hidronefroza yol açar. Histerektomide uterin arter bağlanırken üreter yaralanabilir. Mesane duvarındaki eğik seyir reflüyü önler; çocuklarda vezikoüreteral reflü tekrarlayan enfeksiyonların nedenidir.",
+    "durum": "taslak"
+  },
+
+  "Urinary bladder": {
+    "tr": "İdrar kesesi (vesica urinaria, mesane)",
+    "ozet": "İdrarı depolayan ve boşaltan kaslı kese; dolunca simfizis pubikanın üstüne, karın ön duvarına doğru yükselir.",
+    "bilgi": [
+      ["Kapasite", "~400–600 mL; idrar hissi ~150–300 mL'de başlar"],
+      ["Duvar", "Detrüsör kası; iki üreter ağzı ile iç üretra ağzı arasında düz yüzeyli trigon"],
+      ["Parasempatik", "Pelvik splanknik sinirler (S2–S4): detrüsör kasılması, işeme"],
+      ["Sempatik", "T11–L2: depolama (detrüsör gevşemesi, erkekte iç sfinkter kasılması)"],
+      ["Somatik", "Pudendal sinir: istemli dış sfinkter"]
+    ],
+    "klinik": "İdrar yolu enfeksiyonu (sistit) kısa üretra nedeniyle kadınlarda daha sıktır. Mesane kanseri (sigara) ağrısız hematüriyle kendini gösterir. Omurilik yaralanmalarında nörojen mesane gelişir. Dolu mesane künt travmada periton içine yırtılabilir. Dolu mesaneye suprapubik kateter periton açılmadan takılabilir.",
+    "durum": "taslak"
+  },
+
+  "Urethra": {
+    "tr": "İdrar yolu (üretra)",
+    "ozet": "İdrarı mesaneden dışarı taşıyan kanal; erkekte aynı zamanda meni yoludur.",
+    "bilgi": [
+      ["Erkek", "~18–20 cm: preprostatik, prostatik, membranöz (en dar ve en az esneyen) ve süngerimsi bölümler"],
+      ["Kadın", "~4 cm; vajina girişinin önünde vestibüle açılır"],
+      ["Dış sfinkter", "İstemli çizgili kas (pudendal sinir)"]
+    ],
+    "klinik": "Erkekte sonda takarken membranöz bölüm ve bulbus kıvrımı zorluk çıkarabilir. Pelvis kırıklarında membranöz üretra yırtılabilir: üretra ağzında kan varsa sonda takılmaz. Üretra darlığı ve hipospadias (ağzın alt yüzde olması) diğer önemli durumlardır.",
+    "durum": "taslak"
+  },
+
+  "Testis": {
+    "tr": "Testis (erbezi)",
+    "ozet": "Skrotumdaki oval çift gonad; sperm (spermatogenez) ve testosteron üretir.",
+    "bilgi": [
+      ["Boyut", "~4–5 × 2,5 cm; hacim 15–25 mL"],
+      ["Yapı", "Tunika albuginea, lobüller içinde seminifer tübüller (Sertoli hücreleri), aralarında Leydig hücreleri (testosteron)"],
+      ["Isı", "Vücut sıcaklığının ~2–3 °C altında tutulur (pampiniform pleksus, kremaster ve dartos kasları)"],
+      ["Kanlanma", "Testiküler arter (L2 hizasında abdominal aortadan)"],
+      ["Venöz drenaj", "Pampiniform pleksus → testiküler ven: sağda alt vena kavaya, solda sol renal vene"],
+      ["Lenf drenajı", "Paraaortik (lomber) lenf nodları — kasık nodlarına değil"],
+      ["Spermatogenez süresi", "~64–74 gün"]
+    ],
+    "klinik": "Testis torsiyonu acil bir durumdur (ani ağrı, kremaster refleksi kaybı); ilk 6 saat içinde cerrahi gerekir. İnmemiş testis kısırlık ve kanser riskini artırır. Testis kanseri 15–35 yaş erkeklerde en sık solid tümördür ve paraaortik nodlara yayılır. Varikosel çoğunlukla soldadır.",
+    "durum": "taslak"
+  },
+
+  "Epididymis": {
+    "tr": "Epididim",
+    "ozet": "Testisin arka yüzündeki virgül biçimli, kıvrıntılı kanal; spermlerin olgunlaştığı ve depolandığı yerdir.",
+    "bilgi": [
+      ["Bölümler", "Baş, gövde, kuyruk (duktus deferens ile devam eder)"],
+      ["Uzunluk", "Kıvrımları açıldığında ~6 m"],
+      ["Görev", "Spermler burada hareket yeteneği kazanır (geçiş ~2–12 gün)"]
+    ],
+    "klinik": "Epididimit genç erkeklerde çoğunlukla cinsel yolla bulaşan enfeksiyonlara, ileri yaşta idrar yolu patojenlerine bağlıdır. Spermatosel epididim başında kistik şişliktir.",
+    "durum": "taslak"
+  },
+
+  "Ductus deferens": {
+    "tr": "Sperm kanalı (duktus deferens, vas deferens)",
+    "ozet": "Spermleri epididimden ejakülatör kanala taşıyan, kalın kas duvarlı ~45 cm'lik kanal; spermatik kordonda sert bir kordon olarak ele gelir.",
+    "bilgi": [
+      ["Seyir", "Spermatik kordon, inguinal kanal, pelvis yan duvarı; üreteri üstten çaprazlar, mesane arkasında ampulla ile sonlanır"],
+      ["Görev", "Ejakülasyonda güçlü peristaltik kasılma"],
+      ["Kanlanma", "Duktus deferens arteri (vezikal arterlerden)"]
+    ],
+    "klinik": "Vazektomi skrotal yoldan yapılan kalıcı bir doğum kontrol yöntemidir. Kistik fibroziste iki taraflı doğumsal yokluğu kısırlığa yol açar.",
+    "durum": "taslak"
+  },
+
+  "Seminal gland": {
+    "tr": "Sperm kesesi (vesicula seminalis, glandula vesiculosa)",
+    "ozet": "Mesanenin arkasında, prostatın üstünde yer alan kıvrıntılı çift bez; meni hacminin çoğunu oluşturan fruktozdan zengin sıvıyı salgılar.",
+    "bilgi": [
+      ["Boyut", "~5 cm"],
+      ["Salgı", "Meni hacminin ~%60–70'i: alkali, fruktozdan zengin (sperm için enerji), prostaglandinler, pıhtılaşma proteinleri (semenogelin)"],
+      ["Kanal", "Duktus deferens ampullası ile birleşerek ejakülatör kanalı oluşturur"]
+    ],
+    "klinik": "Prostat kanserinin sperm keselerine yayılımı evrelemede önemlidir (T3b). Menide kan (hematospermi) çoğunlukla iyi huyludur.",
+    "durum": "taslak"
+  },
+
+  "Ejaculatory duct": {
+    "tr": "Ejakülatör kanal (ductus ejaculatorius)",
+    "ozet": "Duktus deferens ampullası ile sperm kesesi kanalının birleşmesiyle oluşan, prostatı delerek prostatik üretraya açılan ~2 cm'lik kanal.",
+    "bilgi": [["Açılış", "Seminal kolikulus (verumontanum) üzerinde, prostatik utrikulusun iki yanında"]],
+    "klinik": "Tıkanması düşük hacimli ejakülat ve spermsizliğe (azospermi) yol açar.",
+    "durum": "taslak"
+  },
+
+  "Prostate": {
+    "tr": "Prostat bezi",
+    "ozet": "Mesanenin altında prostatik üretrayı çevreleyen ceviz büyüklüğünde fibromüsküler bez; meninin bir bölümünü (PSA içeren sıvı) salgılar.",
+    "bilgi": [
+      ["Ağırlık", "~20 g"],
+      ["Bölgeler (McNeal)", "Periferik (~%70 — kanserlerin çoğu, rektal muayenede ele gelir), santral (~%25), transizyonel (~%5 — iyi huylu büyümenin yeri), ön fibromüsküler stroma"],
+      ["Salgı", "Meninin ~%20–30'u: PSA (meniyi sıvılaştırır), sitrat, çinko"],
+      ["Kanlanma", "Alt vezikal, orta rektal ve iç pudendal arterler"],
+      ["Venöz pleksus", "Omurga ven pleksusuyla (Batson) bağlantılıdır"]
+    ],
+    "klinik": "İyi huylu prostat büyümesi (60 yaş üstü erkeklerin yarısından fazlası) idrar akımında zayıflama ve gece idrara çıkma yapar. Prostat kanseri erkeklerde en sık kanserlerdendir; PSA, rektal muayene ve MR eşliğinde biyopsiyle tanı konur. Batson pleksusu yoluyla omurgaya metastaz yapabilir.",
+    "durum": "taslak"
+  },
+
+  "Corpus cavernosum of penis": {
+    "tr": "Penisin kavernöz cismi (corpus cavernosum)",
+    "ozet": "Penisin sırt tarafında yer alan, kalın tunika albuginea ile sarılı çift erektil doku silindiri; ereksiyonun başlıca yapısıdır.",
+    "bilgi": [
+      ["Kök", "Kruslar iskiopubik kollara tutunur ve iskiokavernöz kasla örtülüdür"],
+      ["Kanlanma", "Derin (kavernöz) arterler — iç pudendal arter dalı"],
+      ["Ereksiyon", "Parasempatik uyarı (S2–S4) → nitrik oksit → düz kas gevşemesi → sinüzoidlerin dolması ve venöz çıkışın kısıtlanması"]
+    ],
+    "klinik": "Erektil disfonksiyonun en sık nedeni damarsaldır (PDE5 inhibitörleri). Priapizm acil bir durumdur. Tunika albuginea yırtığı (penis kırığı) ve Peyronie hastalığı (fibröz plak, eğrilik) bu yapıyı etkiler.",
+    "durum": "taslak"
+  },
+
+  "Corpus spongiosum of penis": {
+    "tr": "Penisin süngerimsi cismi (corpus spongiosum)",
+    "ozet": "Penisin alt yüzünde süngerimsi üretrayı saran tek erektil silindir; arkada bulbus, önde glans olarak genişler.",
+    "bilgi": [
+      ["Özellik", "İnce tunikası sayesinde ereksiyonda bile esnek kalır ve menini geçişine izin verir"],
+      ["Bulbus", "Bulbospongiosus kasıyla örtülüdür"]
+    ],
+    "klinik": "Ata biner tarzı düşmelerde bulbar üretra yaralanabilir; iyileşme sonrası üretra darlığı gelişebilir.",
+    "durum": "taslak"
+  },
+
+  "Glans penis": {
+    "tr": "Penis başı (glans penis)",
+    "ozet": "Süngerimsi cismin uç genişlemesi; dış üretra ağzını taşır ve sünnet derisi (prepusyum) ile örtülüdür.",
+    "bilgi": [
+      ["Yapılar", "Dış üretra ağzı, korona glandis"],
+      ["Duyu", "Penisin dorsal siniri (pudendal sinir)"]
+    ],
+    "klinik": "Fimozis, parafimozis (acil), balanit ve hipospadias bu bölgeyi ilgilendirir. Penis kanseri nadirdir ve HPV ile ilişkilidir.",
+    "durum": "taslak"
+  },
+
+  "Thyroid gland": {
+    "tr": "Tiroid bezi (kalkan bezi)",
+    "ozet": "Boynun ön yüzünde, trakeanın önünde yer alan kelebek biçimli endokrin bez; metabolizmayı düzenleyen tiroid hormonlarını ve kalsitonini üretir.",
+    "bilgi": [
+      ["Yapı", "Sağ ve sol lob ile istmus (2.–4. trakea halkaları önünde); kişilerin yaklaşık yarısında piramidal lob"],
+      ["Ağırlık", "~15–25 g"],
+      ["Hormonlar", "Folikül hücreleri: T4 ve T3 (iyot gerekir; TSH ile düzenlenir); parafoliküler C hücreleri: kalsitonin"],
+      ["Kanlanma", "Üst tiroid arter (dış karotis) ve alt tiroid arter (tiroservikal gövde); bazen tiroidea ima arteri"],
+      ["Özellik", "Pretrakeal fasyayla sarılı olduğundan yutkunmayla yukarı hareket eder"]
+    ],
+    "klinik": "Guatr, hipertiroidi (Graves), hipotiroidi (Hashimoto) ve nodüller sık görülür; tiroid kanserlerinin çoğu papiller tiptir ve prognozu iyidir. Tiroidektomide rekürren laringeal sinir (ses kısıklığı) ve paratiroid bezlerinin (hipokalsemi) korunması kritik önemdedir.",
+    "durum": "taslak"
+  },
+
+  "Parathyroid glands": {
+    "grup": true,
+    "tr": "Paratiroid bezleri",
+    "ozet": "Tiroid bezinin arka yüzünde bulunan, genellikle dört adet pirinç tanesi büyüklüğünde endokrin bez; kan kalsiyumunu düzenleyen parathormonu (PTH) salgılar.",
+    "bilgi": [
+      ["Sayı / boyut", "Genellikle 4; ~5 × 3 × 1 mm, 30–40 mg"],
+      ["Köken", "Üst bezler 4. faringeal cepten (konumları daha sabit), alt bezler 3. faringeal cepten timüsle birlikte (konumları değişken, mediastende olabilir)"],
+      ["Hormon", "PTH: kemik yıkımı, böbrekte kalsiyum geri emilimi ve fosfat atılımı, D vitamini aktivasyonu yoluyla kan kalsiyumunu artırır"],
+      ["Kanlanma", "Başlıca alt tiroid arter"]
+    ],
+    "klinik": "Primer hiperparatiroidi çoğunlukla tek bir adenomdan kaynaklanır: böbrek taşları, kemik ağrıları, karın ağrısı ve psikiyatrik belirtiler. Tiroid ameliyatında bezlerin zarar görmesi hipokalsemiye (tetani; Chvostek ve Trousseau belirtileri) yol açar.",
+    "durum": "taslak"
+  },
+
+  "Adenohypophysis": {
+    "tr": "Ön hipofiz (adenohipofiz)",
+    "ozet": "Hipofiz bezinin yaklaşık dörtte üçünü oluşturan, birçok endokrin bezi yöneten hormonları salgılayan ön bölüm; ağız ektoderminden (Rathke kesesi) gelişir.",
+    "bilgi": [
+      ["Hormonlar", "Büyüme hormonu (GH), prolaktin, ACTH, TSH, FSH, LH"],
+      ["Denetim", "Hipotalamusun salgılatıcı ve baskılayıcı hormonları hipofiz portal sistemiyle ulaşır"],
+      ["Konum", "Sfenoid kemiğin sella turcica'sında; üstünde optik kiyazma"]
+    ],
+    "klinik": "Hipofiz adenomları: prolaktinoma (en sık; süt gelmesi, adet düzensizliği), GH salgılayan (akromegali/devlik), ACTH salgılayan (Cushing hastalığı). Büyük adenomlar optik kiyazmaya bası yaparak iki taraflı dış görme alanı kaybı (bitemporal hemianopi) yapar. Doğum sonu ağır kanamada hipofiz nekrozu (Sheehan sendromu) gelişebilir.",
+    "durum": "taslak"
+  },
+
+  "Neurohypophysis": {
+    "tr": "Arka hipofiz (nörohipofiz)",
+    "ozet": "Hipotalamusun uzantısı olan arka hipofiz; hipotalamusta üretilen ADH ve oksitosini depolar ve kana verir.",
+    "bilgi": [
+      ["Hormonlar", "ADH (vazopresin — böbrekte su geri emilimi) ve oksitosin (doğumda rahim kasılması, emzirmede süt boşalması)"],
+      ["Köken", "Supraoptik ve paraventriküler çekirdeklerde üretilir, hipotalamo-hipofizer yolla taşınır"]
+    ],
+    "klinik": "ADH eksikliği santral diyabet insipitusa yol açar: çok idrara çıkma, aşırı susama, seyreltik idrar. Kafa travması ve hipofiz ameliyatlarından sonra görülebilir.",
+    "durum": "taslak"
+  },
+
+  "Pineal gland": {
+    "tr": "Epifiz bezi (corpus pineale, pineal bez)",
+    "ozet": "Üçüncü ventrikülün arka tavanında, üst kollikulusların arasında yer alan çam kozalağı biçimli küçük bez; karanlıkta melatonin salgılayarak uyku-uyanıklık ritmini düzenler.",
+    "bilgi": [
+      ["Boyut", "~8 mm"],
+      ["Hormon", "Melatonin (karanlıkta artar)"],
+      ["Denetim", "Retina → suprakiyazmatik çekirdek → sempatik yol (üst servikal ganglion)"],
+      ["Kalsifikasyon", "Yaşla kireçlenir ('beyin kumu'); radyolojide orta hat işaretidir"]
+    ],
+    "klinik": "Pineal bölge tümörleri tektuma bası yaparak yukarı bakış felci (Parinaud sendromu) ve akuadukt tıkanmasına bağlı hidrosefali oluşturabilir; çocuklarda erken ergenliğe yol açabilir.",
+    "durum": "taslak"
+  },
+
+  "Suprarenal gland": {
+    "tr": "Böbrek üstü bezi (glandula suprarenalis, adrenal bez)",
+    "ozet": "Böbreklerin üst-iç kutbunda yer alan çift endokrin bez; korteksi steroid hormonları, medullası adrenalin ve noradrenalin salgılar.",
+    "bilgi": [
+      ["Biçim", "Sağ: piramit; sol: yarımay biçimli; her biri ~4–5 g"],
+      ["Korteks (mezoderm)", "Zona glomerulosa: aldosteron (tuz); zona fasikülata: kortizol (şeker); zona retikülaris: androjenler"],
+      ["Medulla (nöral krista)", "Kromaffin hücreler: adrenalin ve noradrenalin — preganglioner sempatik liflerle doğrudan uyarılır"],
+      ["Kanlanma", "Üst (alt frenik arter), orta (aorta) ve alt (renal arter) suprarenal arterler"],
+      ["Venöz drenaj", "Tek ven: sağda doğrudan alt vena kavaya (çok kısa), solda sol renal vene"]
+    ],
+    "klinik": "Cushing sendromu (kortizol fazlalığı), Addison hastalığı (yetmezlik), Conn sendromu (aldosteron fazlalığı: hipertansiyon, düşük potasyum) ve feokromositoma (atak şeklinde hipertansiyon, baş ağrısı, terleme, çarpıntı) başlıca hastalıklardır. Sağ adrenalektomide kısa venin vena kavadan kopmaması için dikkat gerekir.",
+    "durum": "taslak"
+  },
+
+  "Greater omentum": {
+    "tr": "Büyük omentum (omentum majus)",
+    "ozet": "Midenin büyük kurvaturundan önlük gibi sarkıp geri dönerek transvers kolona tutunan dört yapraklı periton katlantısı; yağ, damar ve bağışıklık hücreleri içerir.",
+    "bilgi": [
+      ["İçerik", "Yağ dokusu, gastroepiploik damar arkadı, lenfoid 'süt lekeleri'"],
+      ["Görev", "İltihaplı bölgelere göç ederek onları sınırlar ('karın polisi'); ısı yalıtımı ve yağ depolama"]
+    ],
+    "klinik": "Apandisit gibi iltihaplarda bölgeyi sararak yayılımı önler. Over kanserinde yaygın tümör tutulumu ('omental kek') görülür. Rekonstrüksiyonda damarlı flep olarak kullanılabilir.",
+    "durum": "taslak"
+  },
+
+  "Lesser omentum": {
+    "tr": "Küçük omentum (omentum minus)",
+    "ozet": "Midenin küçük kurvaturu ve duodenumun ilk bölümünden karaciğere uzanan çift yapraklı periton katlantısı; hepatogastrik ve hepatoduodenal bağlardan oluşur.",
+    "bilgi": [
+      ["Serbest sağ kenar (hepatoduodenal bağ)", "Portal üçlü: ortak safra kanalı (sağ-önde), hepatik arter (solda), portal ven (arkada)"],
+      ["İlişki", "Omental deliğin (Winslow) ön sınırını ve omental bursanın ön duvarının bir bölümünü oluşturur"]
+    ],
+    "klinik": "Karaciğer kanamalarında hepatoduodenal bağın parmaklar arasında sıkıştırılması (Pringle manevrası) karaciğere gelen kan akımını geçici olarak durdurur.",
+    "durum": "taslak"
+  },
+
+  "Mesocolon": {
+    "tr": "Mezokolon",
+    "ozet": "Kolonu karın arka duvarına bağlayan, içinde kolik damarlar, lenf yolları ve sinirler taşıyan periton katlantıları; transvers ve sigmoid mezokolon serbest, çıkan ve inen kolonun mezosu arka duvarla kaynaşmıştır.",
+    "bilgi": [
+      ["Transvers mezokolon", "Kökü pankreas baş ve gövdesinin önünden geçer; karın boşluğunu kolon üstü ve kolon altı bölmelere ayırır"],
+      ["Sigmoid mezokolon", "Ters V biçimli kökünün tepesinin altında sol üreter bulunur"]
+    ],
+    "klinik": "Kolon kanseri cerrahisinde mezokolonun bütünlüğü korunarak çıkarılması (tam mezokolik eksizyon) lenf nodu temizliğini iyileştirir. Uzun ve dar köklü sigmoid mezokolon volvulusa yatkınlık yaratır.",
+    "durum": "taslak"
+  },
+
+  "Meso-appendix": {
+    "tr": "Mezoapendiks",
+    "ozet": "Apendiksi terminal ileum mezenterine bağlayan üçgen periton katlantısı; serbest kenarına yakın apendiküler arteri taşır.",
+    "bilgi": [["İçerik", "Apendiküler arter (ileokolik arter dalı — uç arter), ven ve lenf damarları"]],
+    "klinik": "Apendektomide mezoapendiks ve içindeki arter bağlanarak kesilir.",
+    "durum": "taslak"
+  },
+
+  "Pleura": {
+    "tr": "Akciğer zarı (plevra)",
+    "ozet": "Akciğerleri örten (visseral) ve göğüs boşluğunu döşeyen (pariyetal) iki yapraklı seröz zar; aradaki ince sıvı tabakası ve negatif basınç akciğerlerin açık kalmasını sağlar.",
+    "bilgi": [
+      ["Yapraklar", "Visseral plevra (ağrıya duyarsız) ve pariyetal plevra: kostal, diyafragmatik, mediastinal ve servikal (kubbe) bölümler — ağrıya duyarlı (interkostal ve frenik sinirler)"],
+      ["Plevra boşluğu", "~5–15 mL seröz sıvı; basınç yaklaşık −5 cmH2O"],
+      ["Resesuslar", "Kostodiyafragmatik (en alçak nokta — sıvı burada toplanır), kostomediastinal"],
+      ["Sınırlar", "Pariyetal plevra alt sınırı: orta klavikular hatta 8., orta aksiller hatta 10., paravertebral hatta 12. kaburga"]
+    ],
+    "klinik": "Pnömotoraksta plevra boşluğuna hava girer; gerilim pnömotoraksı iğneyle acil dekompresyon gerektirir. Plevral efüzyon, hemotoraks ve ampiyem torasentez veya göğüs tüpüyle boşaltılır. Plevrit nefes alırken batıcı ağrı yapar. Mezotelyoma asbest maruziyetiyle ilişkilidir.",
+    "durum": "taslak"
+  }
+}

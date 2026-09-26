@@ -1,0 +1,311 @@
+{
+  "_aciklama": "Kafatası (kranyum) kemikleri. Anahtar: Z-Anatomy İngilizce adı. durum: taslak | inceleniyor | onaylı",
+
+  "Frontal bone": {
+    "tr": "Alın kemiği (os frontale)",
+    "ozet": "Alnı, göz çukurlarının (orbita) tavanını ve ön kafa çukurunun büyük bölümünü oluşturan tek, yassı kafatası kemiği. Nörokranyumun ön duvarıdır.",
+    "bilgi": [
+      ["Tür", "Yassı kemik (nörokranyum), tek"],
+      ["Bölümler", "Pars squamosa (alın pulu), pars orbitalis (orbita tavanı), pars nasalis"],
+      ["Eklemleştiği kemikler", "Yan kafa kemikleri (koronal dikiş), kama kemiği, kalbur kemiği, burun kemikleri, üst çene, gözyaşı ve elmacık kemikleri"],
+      ["Önemli yapılar", "Tuber frontale, arcus superciliaris, glabella, margo supraorbitalis, incisura/foramen supraorbitale, spina nasalis, fossa glandulae lacrimalis"],
+      ["Kemikleşme", "Zar içi (intramembranöz); iki yarı doğumda ayrıdır, metopik dikiş genellikle 1–2 yaşta kapanır"]
+    ],
+    "bolumler": [
+      { "baslik": "Frontal sinüs", "metin": "Kemiğin iki tablası arasında, kaşların arkasında bulunan hava boşluklarıdır. Genellikle asimetriktir ve orta meatusa (hiatus semilunaris) açılır; ergenlikte belirgin şekilde büyür." },
+      { "baslik": "Komşuluk", "metin": "İç yüzü frontal lobla komşudur; orta hatta crista frontalis falx cerebri'ye tutunma yeri verir, sulcus sinus sagittalis superioris burada başlar." }
+    ],
+    "klinik": "Alın bölgesine gelen darbelerde frontal sinüs ön duvar kırıkları görülebilir; arka duvar kırıkları beyin omurilik sıvısı sızıntısı ve menenjit riski taşır. Supraorbital sinir bu bölgedeki çentik/delikten çıktığı için sinir bloğu burada uygulanır.",
+    "durum": "taslak"
+  },
+
+  "Parietal bone": {
+    "tr": "Yan kafa kemiği (os parietale)",
+    "ozet": "Kafatası tavanının ve yan duvarlarının büyük kısmını oluşturan, dört kenarlı, çift yassı kemik.",
+    "bilgi": [
+      ["Tür", "Yassı kemik, çift"],
+      ["Eklemleştiği kemikler", "Karşı taraf parietal (sagittal dikiş), alın kemiği (koronal dikiş), art kafa kemiği (lambdoid dikiş), şakak kemiği (skuamöz dikiş), kama kemiğinin büyük kanadı"],
+      ["Önemli yapılar", "Tuber parietale, linea temporalis superior et inferior, foramen parietale, iç yüzde sulcus arteriae meningeae mediae"],
+      ["Kemikleşme", "Zar içi; tuber parietale merkezinden"]
+    ],
+    "bolumler": [
+      { "baslik": "Kraniyometrik noktalar", "metin": "Bregma (sagittal ve koronal dikişlerin kesişimi), lambda (sagittal ve lambdoid dikişlerin kesişimi) ve pterion (frontal, parietal, temporal ve sfenoid kemiklerin H biçimli birleşimi) bu kemiğin köşelerinde yer alır." }
+    ],
+    "klinik": "Pterion bölgesi kafatasının en ince yeridir; altından orta meningeal arterin ön dalı geçer. Bu bölgedeki kırıklar epidural hematoma yol açabilir.",
+    "durum": "taslak"
+  },
+
+  "Occipital bone": {
+    "tr": "Art kafa kemiği (os occipitale)",
+    "ozet": "Kafatasının arka ve tabanının arka bölümünü oluşturan tek kemik. Büyük delik (foramen magnum) aracılığıyla kafa boşluğunu omurga kanalına bağlar.",
+    "bilgi": [
+      ["Tür", "Yassı / düzensiz kemik, tek"],
+      ["Bölümler", "Pars squamosa, iki pars lateralis (kondiler bölüm), pars basilaris (klivus)"],
+      ["Eklemleştiği kemikler", "Yan kafa kemikleri, şakak kemikleri, kama kemiği, atlas (atlantooksipital eklem)"],
+      ["Önemli yapılar", "Foramen magnum, condyli occipitales, canalis nervi hypoglossi, protuberantia occipitalis externa (inion), lineae nuchae, clivus, protuberantia occipitalis interna"],
+      ["Foramen magnumdan geçenler", "Medulla oblongata ve meninksleri, vertebral arterler, ön ve arka spinal arterler, aksesuar sinirin spinal kökleri"]
+    ],
+    "bolumler": [
+      { "baslik": "İç yüz", "metin": "Protuberantia occipitalis interna çevresinde confluens sinuum yer alır; buradan transvers sinüs oluklarıyla dural venöz drenaj yanlara yönelir. Serebellar ve serebral çukurlar beyincik ve oksipital lobu barındırır." }
+    ],
+    "klinik": "Kafa tabanı kırıkları foramen magnum ve kondil bölgesini tutabilir. Chiari malformasyonunda beyincik tonsilleri foramen magnumdan aşağı fıtıklaşır.",
+    "durum": "taslak"
+  },
+
+  "Temporal bone": {
+    "tr": "Şakak kemiği (os temporale)",
+    "ozet": "Kafatasının yan duvarı ve tabanında yer alan, işitme ve denge organlarını barındıran karmaşık yapılı çift kemik.",
+    "bilgi": [
+      ["Tür", "Düzensiz kemik, çift"],
+      ["Bölümler", "Pars squamosa, pars tympanica, pars petrosa (kaya kısmı; mastoid çıkıntı dahil), processus styloideus"],
+      ["Eklemleştiği kemikler", "Alt çene (temporomandibular eklem), yan kafa, art kafa, kama ve elmacık kemikleri"],
+      ["Önemli yapılar", "Meatus acusticus externus/internus, processus mastoideus, processus zygomaticus, fossa mandibularis, foramen stylomastoideum, canalis caroticus, fossa jugularis"],
+      ["İçerdiği yapılar", "Orta kulak ve kulak kemikçikleri, iç kulak (koklea, vestibül, yarım daire kanalları), fasiyal sinir kanalı"]
+    ],
+    "bolumler": [
+      { "baslik": "Kaya kısmı (pars petrosa)", "metin": "Vücudun en sert kemik bölgesidir; iç kulağı korur. Ön yüzünde trigeminal gangliyon için izlenim ve arcuate eminence bulunur; tepesi (apex) foramen lacerum'a bakar." },
+      { "baslik": "Mastoid çıkıntı", "metin": "Sternokleidomastoid, splenius capitis ve longissimus capitis kaslarına tutunma yeri verir; içindeki mastoid hücreleri orta kulakla bağlantılıdır." }
+    ],
+    "klinik": "Otitis media mastoid hücrelere yayılarak mastoidite neden olabilir. Temporal kemik kırıkları işitme kaybı, fasiyal sinir felci ve kulaktan BOS gelmesine (otore) yol açabilir.",
+    "durum": "taslak"
+  },
+
+  "Sphenoid bone": {
+    "tr": "Kama kemiği (os sphenoidale)",
+    "ozet": "Kafatası tabanının ortasında yer alan, kelebeğe benzeyen tek kemik. Ön, orta ve arka kafa çukurlarını birbirine bağlar ve birçok önemli sinir-damar deliğini taşır.",
+    "bilgi": [
+      ["Tür", "Düzensiz, havalı (pnömatik) kemik, tek"],
+      ["Bölümler", "Gövde (corpus), büyük kanatlar, küçük kanatlar, pterigoid çıkıntılar"],
+      ["Eklemleştiği kemikler", "Nörokranyumun tüm kemikleri (alın, yan kafa, art kafa, şakak, kalbur) ile vomer, elmacık ve damak kemikleri"],
+      ["Önemli yapılar", "Sella turcica (hipofiz çukuru), canalis opticus, fissura orbitalis superior, foramen rotundum, foramen ovale, foramen spinosum, sfenoid sinüs"],
+      ["Deliklerden geçenler", "Optik kanal: n. opticus ve a. ophthalmica; üst orbital yarık: III, IV, V1, VI sinirler ve üst oftalmik ven; f. rotundum: V2; f. ovale: V3; f. spinosum: orta meningeal arter"]
+    ],
+    "bolumler": [
+      { "baslik": "Sfenoid sinüs", "metin": "Gövdenin içindeki hava boşluğudur; sfenoetmoidal girintiye açılır. Üstünde hipofiz, yanlarında kavernöz sinüs ve iç karotis arter bulunur." }
+    ],
+    "klinik": "Hipofiz tümörleri burun yoluyla sfenoid sinüsten (transsfenoidal) ameliyat edilir. Sella turcica genişlemesi hipofiz adenomunun radyolojik işaretidir.",
+    "durum": "taslak"
+  },
+
+  "Ethmoid bone": {
+    "tr": "Kalbur kemiği (os ethmoidale)",
+    "ozet": "Burun boşluğu ile orbitaların arasında yer alan, hafif ve süngerimsi yapıda tek kemik. Burun boşluğunun tavanını, burun septumunun üst bölümünü ve orbitaların iç duvarını oluşturur.",
+    "bilgi": [
+      ["Tür", "Düzensiz, havalı kemik, tek"],
+      ["Bölümler", "Lamina cribrosa (kalbur plağı), lamina perpendicularis, iki labirent (etmoid hücreleri), crista galli"],
+      ["Eklemleştiği kemikler", "Alın, kama, burun, gözyaşı, damak ve üst çene kemikleri, vomer, alt burun konkaları"],
+      ["Önemli yapılar", "Crista galli (falx cerebri tutunma yeri), üst ve orta burun konkaları, bulla ethmoidalis, processus uncinatus, lamina orbitalis"],
+      ["Lamina cribrosa'dan geçenler", "Koku siniri (I) lifleri"]
+    ],
+    "bolumler": [
+      { "baslik": "Etmoid hücreleri", "metin": "Ön, orta ve arka hücre grupları vardır; ön ve orta hücreler orta meatusa, arka hücreler üst meatusa açılır. Lamina orbitalis (lamina papyracea) çok incedir." }
+    ],
+    "klinik": "Lamina cribrosa kırıklarında koku kaybı (anosmi) ve burundan BOS gelmesi (rinore) görülür. Etmoid sinüzit ince orbital duvardan orbitaya yayılarak orbital selülite neden olabilir.",
+    "durum": "taslak"
+  },
+
+  "Maxilla": {
+    "tr": "Üst çene kemiği (maxilla)",
+    "ozet": "Yüzün orta bölümünün temel kemiği; üst dişleri taşır, sert damağın büyük kısmını, orbita tabanını ve burun boşluğunun yan duvarını oluşturur.",
+    "bilgi": [
+      ["Tür", "Düzensiz, havalı kemik, çift"],
+      ["Bölümler", "Gövde (maksiller sinüs), processus frontalis, zygomaticus, alveolaris ve palatinus"],
+      ["Eklemleştiği kemikler", "Karşı taraf maksilla, alın, burun, gözyaşı, elmacık, damak, kalbur kemikleri, vomer, alt burun konkası"],
+      ["Önemli yapılar", "Foramen infraorbitale, sulcus/canalis infraorbitalis, spina nasalis anterior, canalis incisivus, tuber maxillae"],
+      ["Sinir-damar", "Üst dişler maksiller sinirin (V2) alveoler dallarıyla innerve edilir; infraorbital sinir yüz derisine çıkar"]
+    ],
+    "bolumler": [
+      { "baslik": "Maksiller sinüs (Highmore)", "metin": "Paranazal sinüslerin en büyüğüdür; orta meatusa, tabanından yüksekte açıldığından drenajı zordur. Tabanı üst azı dişlerinin köklerine çok yakındır." }
+    ],
+    "klinik": "Üst azı dişi enfeksiyonları maksiller sinüzite yol açabilir. Yüz orta kat kırıkları Le Fort I, II, III olarak sınıflandırılır. Damak yarığı maksillanın palatin çıkıntılarının kaynaşmamasıyla oluşur.",
+    "durum": "taslak"
+  },
+
+  "Mandible": {
+    "tr": "Alt çene kemiği (mandibula)",
+    "ozet": "Yüz iskeletinin tek hareketli ve en büyük, en güçlü kemiği. Alt dişleri taşır ve şakak kemiğiyle temporomandibular eklemi yapar.",
+    "bilgi": [
+      ["Tür", "Düzensiz kemik, tek"],
+      ["Bölümler", "Gövde (corpus), iki ramus; angulus mandibulae, processus condylaris ve coronoideus"],
+      ["Eklemleştiği kemikler", "Şakak kemikleri (temporomandibular eklem)"],
+      ["Önemli yapılar", "Foramen mentale, foramen mandibulae, lingula, protuberantia mentalis, linea mylohyoidea, fovea pterygoidea"],
+      ["Tutunan kaslar", "Masseter ve medial pterigoid (ramus/açı), temporal kas (koronoid çıkıntı), lateral pterigoid (kondil boynu), digastrik, milohiyoid, geniohiyoid, genioglossus"]
+    ],
+    "bolumler": [
+      { "baslik": "Sinir-damar", "metin": "Alt alveoler sinir ve arter foramen mandibulae'den kanala girer, dişleri besler ve foramen mentale'den mental sinir olarak çıkar." }
+    ],
+    "klinik": "Mandibula kırıkları en sık kondil, açı ve gövdede görülür; halka yapısından dolayı çoğu zaman iki yerden kırılır. Diş hekimliğinde alt alveoler sinir bloğu lingula çevresine uygulanır.",
+    "durum": "taslak"
+  },
+
+  "Zygomatic bone": {
+    "tr": "Elmacık kemiği (os zygomaticum)",
+    "ozet": "Yanağın çıkıntısını oluşturan, orbitanın dış duvarı ve tabanına katılan dört köşeli çift kemik.",
+    "bilgi": [
+      ["Tür", "Düzensiz kemik, çift"],
+      ["Eklemleştiği kemikler", "Alın, şakak, kama ve üst çene kemikleri"],
+      ["Önemli yapılar", "Processus temporalis (şakak kemiğiyle arcus zygomaticus'u yapar), processus frontalis, foramen zygomaticofaciale ve zygomaticotemporale"],
+      ["Tutunan kaslar", "Masseter (arcus zygomaticus), büyük ve küçük elmacık kasları"]
+    ],
+    "klinik": "Yüz travmalarında sık kırılan kemiklerdendir (tripod / zigomatikomaksiller kompleks kırığı); göz küresinin yer değiştirmesi, çift görme ve infraorbital sinir hasarına bağlı yanak uyuşması görülebilir.",
+    "durum": "taslak"
+  },
+
+  "Nasal bone": {
+    "tr": "Burun kemiği (os nasale)",
+    "ozet": "Burun sırtının kemik bölümünü oluşturan, dikdörtgen biçimli küçük çift kemik.",
+    "bilgi": [
+      ["Tür", "Yassı kemik, çift"],
+      ["Eklemleştiği kemikler", "Karşı taraf burun kemiği, alın kemiği, maksillanın processus frontalis'i, kalbur kemiği"],
+      ["Önemli yapılar", "Nasion (frontonazal dikişin orta noktası), burun kıkırdaklarının tutunduğu alt kenar"]
+    ],
+    "klinik": "Yüz iskeletinde en sık kırılan kemiktir; septum hematomu gelişirse acil drenaj gerekir.",
+    "durum": "taslak"
+  },
+
+  "Lacrimal bone": {
+    "tr": "Gözyaşı kemiği (os lacrimale)",
+    "ozet": "Orbitanın iç duvarının ön bölümünde bulunan, yüz kemiklerinin en küçüğü ve en narini.",
+    "bilgi": [
+      ["Tür", "Yassı kemik, çift"],
+      ["Eklemleştiği kemikler", "Alın, kalbur, üst çene kemikleri ve alt burun konkası"],
+      ["Önemli yapılar", "Crista lacrimalis posterior, gözyaşı kesesi çukuru (fossa sacci lacrimalis), nazolakrimal kanalın başlangıcı"]
+    ],
+    "klinik": "Dakriyosistorinostomi (DSR) ameliyatında gözyaşı kesesini burun boşluğuna açmak için bu bölgeden kemik pencere açılır.",
+    "durum": "taslak"
+  },
+
+  "Palatine bone": {
+    "tr": "Damak kemiği (os palatinum)",
+    "ozet": "Sert damağın arka bölümünü, burun boşluğunun yan duvarının bir kısmını ve orbita tabanının küçük bir bölümünü oluşturan L biçimli çift kemik.",
+    "bilgi": [
+      ["Tür", "Düzensiz kemik, çift"],
+      ["Bölümler", "Lamina horizontalis (sert damağın arka üçte biri), lamina perpendicularis, processus orbitalis, sphenoidalis ve pyramidalis"],
+      ["Önemli yapılar", "Foramen palatinum majus et minus, incisura sphenopalatina (foramen sphenopalatinum)"]
+    ],
+    "klinik": "Büyük palatin delikten geçen damar-sinir demeti damak cerrahisinde korunmalıdır; sfenopalatin arter posterior burun kanamalarının kaynağıdır.",
+    "durum": "taslak"
+  },
+
+  "Vomer": {
+    "tr": "Sapan kemiği (vomer)",
+    "ozet": "Burun septumunun arka-alt bölümünü oluşturan, ince, yamuk biçimli tek kemik.",
+    "bilgi": [
+      ["Tür", "Yassı kemik, tek"],
+      ["Eklemleştiği kemikler", "Kama ve kalbur kemikleri, üst çene ve damak kemikleri, septum kıkırdağı"]
+    ],
+    "klinik": "Septum deviasyonunda vomer ve septum kıkırdağı eğrilebilir; septoplastide bu yapılar düzeltilir.",
+    "durum": "taslak"
+  },
+
+  "Inferior nasal concha bone": {
+    "tr": "Alt burun konkası (concha nasalis inferior)",
+    "ozet": "Burun boşluğunun yan duvarında yer alan, bağımsız bir yüz kemiği olan kıvrık kemik plak. Solunan havayı ısıtıp nemlendiren mukozayla örtülüdür.",
+    "bilgi": [
+      ["Tür", "Yassı kemik, çift"],
+      ["Eklemleştiği kemikler", "Maksilla, gözyaşı, kalbur ve damak kemikleri"],
+      ["İlişki", "Altındaki alt meatusa nazolakrimal kanal açılır"]
+    ],
+    "klinik": "Alt konka hipertrofisi burun tıkanıklığının sık nedenidir; konka küçültme ameliyatları uygulanabilir.",
+    "durum": "taslak"
+  },
+
+  "Hyoid bone": {
+    "tr": "Dil kemiği (os hyoideum)",
+    "ozet": "Boyunda, alt çene ile tiroid kıkırdağı arasında bulunan, hiçbir kemikle eklem yapmayan U biçimli tek kemik. Dil ve gırtlak kaslarına tutunma yeri verir.",
+    "bilgi": [
+      ["Tür", "Düzensiz kemik, tek; diğer kemiklerle eklemleşmez"],
+      ["Bölümler", "Gövde, büyük boynuzlar (cornua majora), küçük boynuzlar (cornua minora)"],
+      ["Tutunan kaslar", "Suprahiyoid (digastrik, stilohiyoid, milohiyoid, geniohiyoid) ve infrahiyoid kaslar, hiyoglossus, orta yutak daraltıcısı"],
+      ["Bağlar", "Stilohiyoid bağ ile temporal kemiğe, tirohiyoid zar ile gırtlağa asılıdır"]
+    ],
+    "klinik": "Hiyoid kırığı boğma (manuel strangülasyon) şüphesinde adli tıp açısından önemli bir bulgudur. Yutma sırasında hiyoid yukarı-öne hareket eder.",
+    "durum": "taslak"
+  },
+
+  "Malleus": {
+    "tr": "Çekiç kemiği (malleus)",
+    "ozet": "Orta kulaktaki üç kemikçikten en dıştaki ve en büyüğü; sapı kulak zarına yapışıktır.",
+    "bilgi": [
+      ["Tür", "Kulak kemikçiği"],
+      ["Bölümler", "Baş (caput), boyun, manubrium (sap), ön ve yan çıkıntılar"],
+      ["Eklemleştiği yapılar", "Örs kemiği (inkudomalleolar eklem), kulak zarı"],
+      ["Tutunan kas", "Tensor tympani (trigeminal sinir, V3)"]
+    ],
+    "klinik": "Kulak zarı muayenesinde manubrium ve 'umbo' görülür; kemikçik zinciri kopmaları iletim tipi işitme kaybına yol açar.",
+    "durum": "taslak"
+  },
+
+  "Incus": {
+    "tr": "Örs kemiği (incus)",
+    "ozet": "Çekiç ile üzengi kemiği arasında titreşimleri ileten orta kulak kemikçiği.",
+    "bilgi": [
+      ["Tür", "Kulak kemikçiği"],
+      ["Bölümler", "Gövde, uzun bacak (crus longum; processus lenticularis), kısa bacak"],
+      ["Eklemleştiği yapılar", "Çekiç (inkudomalleolar) ve üzengi (inkudostapedial) kemikleri"]
+    ],
+    "klinik": "Kolesteatom ve kronik otitte uzun bacak sıklıkla erir; kemikçik protezleriyle rekonstrüksiyon (ossikuloplasti) yapılır.",
+    "durum": "taslak"
+  },
+
+  "Stapes": {
+    "tr": "Üzengi kemiği (stapes)",
+    "ozet": "Vücudun en küçük kemiği. Tabanı (basis stapedis) oval pencereye oturur ve ses titreşimlerini iç kulak sıvısına aktarır.",
+    "bilgi": [
+      ["Tür", "Kulak kemikçiği"],
+      ["Bölümler", "Baş, ön ve arka bacak, taban"],
+      ["Tutunan kas", "Stapedius (fasiyal sinir) — yüksek seslere karşı refleks koruma sağlar"]
+    ],
+    "klinik": "Otosklerozda üzengi tabanı oval pencereye kemikleşerek yapışır ve iletim tipi işitme kaybı gelişir; tedavi stapedotomi/stapedektomidir. Fasiyal sinir felcinde stapedius tutulursa sese aşırı duyarlılık (hiperakuzi) görülür.",
+    "durum": "taslak"
+  },
+
+  "Sinus of frontal bone": {
+    "tr": "Frontal sinüs",
+    "ozet": "Alın kemiğinin iki tablası arasında, kaşların arkasında bulunan havalı boşluk; paranazal sinüslerdendir.",
+    "bilgi": [
+      ["Açıldığı yer", "Orta meatus (frontonazal kanal / hiatus semilunaris aracılığıyla)"],
+      ["Gelişim", "Doğumda yok denecek kadar küçüktür; 7 yaşından sonra belirginleşir, ergenlikte hızla büyür"],
+      ["İnnervasyon", "Supraorbital sinir (V1)"]
+    ],
+    "klinik": "Frontal sinüzitte alın ağrısı ve hassasiyet olur; arka duvar ince olduğundan enfeksiyon kafa içine yayılabilir (Pott kabarık tümörü, beyin apsesi).",
+    "durum": "taslak"
+  },
+
+  "Sinus of sphenoid bone": {
+    "tr": "Sfenoid sinüs",
+    "ozet": "Kama kemiği gövdesi içindeki havalı boşluk; hipofiz, optik sinirler ve kavernöz sinüsle yakın komşuluktadır.",
+    "bilgi": [
+      ["Açıldığı yer", "Sfenoetmoidal girinti (üst konkanın arka-üstü)"],
+      ["Komşuluklar", "Üstte sella turcica ve hipofiz, yanlarda kavernöz sinüs, iç karotis arter ve optik sinir"],
+      ["İnnervasyon", "Arka etmoidal sinir (V1) ve orbital dallar (V2)"]
+    ],
+    "klinik": "Transsfenoidal hipofiz cerrahisinin geçiş yoludur. Sfenoid sinüzit optik nörit ve kavernöz sinüs trombozuna yol açabilir.",
+    "durum": "taslak"
+  },
+
+  "Atlas (C1)": {
+    "tr": "Atlas (1. boyun omuru)",
+    "ozet": "Kafatasını taşıyan birinci boyun omuru. Gövdesi ve diken çıkıntısı yoktur; ön ve arka kavisten oluşan halka biçimindedir.",
+    "bilgi": [
+      ["Tür", "Atipik omur"],
+      ["Bölümler", "Arcus anterior (tuberculum anterius), arcus posterior, iki massa lateralis, foramen transversarium"],
+      ["Eklemler", "Atlantooksipital (baş öne-arkaya: 'evet' hareketi), atlantoaksiyal (baş dönmesi: 'hayır' hareketi)"],
+      ["Önemli yapılar", "Fovea dentis (dens ile eklem), sulcus arteriae vertebralis (vertebral arter oluğu)"]
+    ],
+    "klinik": "Başın üstüne düşmelerde patlama tipi atlas kırığı (Jefferson kırığı) görülür. Romatoid artritte transvers bağ zayıflayarak atlantoaksiyal instabilite gelişebilir.",
+    "durum": "taslak"
+  },
+
+  "Axis (C2)": {
+    "tr": "Aksis (2. boyun omuru)",
+    "ozet": "Yukarı doğru uzanan diş biçimli çıkıntısı (dens) etrafında atlasın döndüğü ikinci boyun omuru; başın sağa-sola dönme hareketinin eksenidir.",
+    "bilgi": [
+      ["Tür", "Atipik omur"],
+      ["Önemli yapılar", "Dens axis (processus odontoideus), güçlü ve çatallı processus spinosus, facies articularis superior"],
+      ["Bağlar", "Lig. transversum atlantis dens'i yerinde tutar; alar bağlar ve lig. apicis dentis dens'i oksipital kemiğe bağlar"]
+    ],
+    "klinik": "Dens kırıkları (tip I–III) boyun travmalarında önemlidir. Aşırı ekstansiyon travmasında 'hangman kırığı' (C2 pedikül kırığı) görülür.",
+    "durum": "taslak"
+  }
+}

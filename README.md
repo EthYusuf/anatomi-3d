@@ -2,18 +2,21 @@
 
 # Anatomi 3D
 
-**Tarayıcıda çalışan, etkileşimli tam vücut 3D anatomi atlası**
+**Windows için profesyonel, etkileşimli tam vücut 3D anatomi atlası**
 
-~2.950 anatomik yapı · Türkçe / Latince / İngilizce adlar · katman katman diseksiyon · gerçekçi dokular
+~2.950 anatomik yapı · gerçek zamanlı fiziksel tabanlı görüntüleme · Türkçe bilgi bankası · katman katman diseksiyon
 
-![React](https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-r186-black?logo=three.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-6-3178c6?logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-8-646cff?logo=vite&logoColor=white)
+[![Sürüm](https://img.shields.io/github/v/release/EthYusuf/anatomi-3d?label=s%C3%BCr%C3%BCm)](https://github.com/EthYusuf/anatomi-3d/releases/latest)
+![.NET 8](https://img.shields.io/badge/.NET-8-512bd4?logo=dotnet&logoColor=white)
+![Direct3D 11](https://img.shields.io/badge/Direct3D-11-0078d4?logo=windows&logoColor=white)
+![Platform](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078d4)
 ![Kod lisansı: MIT](https://img.shields.io/badge/kod-MIT-green)
 ![Model: CC BY-SA 4.0](https://img.shields.io/badge/model-CC%20BY--SA%204.0-orange)
 
-<img src="docs/screenshots/01-tam-vucut.jpg" alt="Anatomi 3D ana ekranı" width="100%">
+<img src="docs/masaustu/01-kas-ve-bilgi-paneli.jpg" alt="Anatomi 3D: kas seçimi ve Türkçe bilgi paneli" width="100%">
+
+**[⬇ Windows için indir](https://github.com/EthYusuf/anatomi-3d/releases/latest)** ·
+[Özellikler](#öne-çıkanlar) · [Ekran görüntüleri](#ekran-görüntüleri) · [Kaynak koddan derleme](#kaynak-koddan-derleme) · [Mimari](#mimari)
 
 </div>
 
@@ -22,218 +25,276 @@
 ## İçindekiler
 
 - [Öne çıkanlar](#öne-çıkanlar)
-- [Nasıl çalışır — ekran görüntüleriyle](#nasıl-çalışır--ekran-görüntüleriyle)
-- [Kurulum ve çalıştırma](#kurulum-ve-çalıştırma)
+- [Ekran görüntüleri](#ekran-görüntüleri)
+- [İndirme ve sistem gereksinimleri](#i̇ndirme-ve-sistem-gereksinimleri)
 - [Kullanım ve kısayollar](#kullanım-ve-kısayollar)
+- [Kaynak koddan derleme](#kaynak-koddan-derleme)
 - [Mimari](#mimari)
-- [Model verisi hattı](#model-verisi-hattı)
-- [Performans notları](#performans-notları)
+- [Türkçe bilgi bankası](#türkçe-bilgi-bankası)
+- [Model paketini yeniden üretme](#model-paketini-yeniden-üretme)
+- [Performans](#performans)
 - [Proje yapısı](#proje-yapısı)
+- [Web sürümü (v1)](#web-sürümü-v1)
+- [Yol haritası](#yol-haritası)
 - [Lisans ve kaynaklar](#lisans-ve-kaynaklar)
 
 ## Öne çıkanlar
 
 | | |
 |---|---|
-| 🧍 **Tam vücut** | İskelet, kaslar, eklem ve bağlar, arter/ven, kalp, sinirler, beyin ve omurilik, duyu organları, iç organlar ve deri bölgeleri |
-| 🔬 **Çift tıklayarak diseksiyon** | Bir yapıya çift tıklayın: tıkladığınız noktadan yayılan parlak kenarlı bir çözülmeyle kalkar, altındaki katman görünür (deri → kas → kemik). `Ctrl+Z` ile geri gelir |
-| 🧬 **Gerçekçi yüzeyler** | Doku dosyası kullanmadan, shader içinde üretilen kas lifleri, kemik gözenekleri, deri dokusu, ıslak mukoza; prosedürel iris ve kılcal damarlı sklera |
-| ❤️ **Canlı fizyoloji** | Kalp ~70/dk iki vuruşlu atar, akciğerler ~14/dk nefes alır |
-| 🎬 **Sinematik geçişler** | Açılışta vücut ayaktan başa katman katman oluşur; katman soyma ve göster/gizle baştan ayağa taranan bir çizgiyle yapılır |
-| 🇹🇷 **Türkçe öncelikli** | Arayüz Türkçe/İngilizce; yapılar Türkçe (sözlükte varsa), Latince (Terminologia Anatomica) ve İngilizce adlarıyla; Türkçe terimlerle arama ("kalp", "karaciğer") |
-| 🧭 **İnceleme araçları** | Sistem ve kategori filtreleri, hiyerarşik yapı ağacı, izole etme, çevreyi saydamlaştırma, X-ray, tel kafes, üç eksende kesit, kamera ön ayarları |
-| 🎓 **Quiz modu** | Görünen yapılar arasından rastgele soru; yanlış cevapta doğru yapı vurgulanır |
-| 📱 **Mobil uyumlu** | Dokunmatik kontroller, alt çekmece paneller, çift dokunma ile kazı |
+| 🧍 **Tam vücut** | İskelet, kaslar, eklem ve bağlar, arter ve venler, kalp, periferik sinirler, beyin ve omurilik, duyu organları, iç organlar ve deri bölgeleri — sağ/sol ayrı ~2.950 yapı |
+| 🎨 **Gerçekçi görüntüleme** | Fiziksel tabanlı (PBR) malzemeler, deri için alt yüzey saçılımı yaklaşımı, yumuşak gölgeler, ortam kapatması (SSAO), 4× MSAA, uyarlamalı teselasyon; kas lifleri, kemik gözenekleri ve deri dokusu doku dosyası olmadan shader içinde üretilir |
+| 🇹🇷 **Türkçe bilgi bankası** | Yapıların %99,9'u Türkçe adlı. Kemiklerin ve kasların tamamı, kalp, akciğerler, sindirim, üriner, genital ve endokrin sistem ile duyu organları için özet, origo, insersiyo, innervasyon, kanlanma, fonksiyon ve klinik notlar |
+| 📍 **Kas yapışma yerleri** | Bir kas seçildiğinde kemik üzerindeki origo (kırmızı) ve insersiyo (mavi) alanları gösterilir |
+| 🔬 **Diseksiyon araçları** | Çift tıklayarak yapıyı kaldırma, katman katman soyma, X-ray, tel kafes, üç eksende kesit (kesit yüzeyleri dolu), izole etme, çevreyi saydamlaştırma |
+| 🔎 **Üç dilde arama** | Türkçe, Latince ve İngilizce; Türkçe karakter ve büyük/küçük harf duyarsız, eş anlamlı terimlerle |
+| 🧭 **Gezinme** | Sistemler, hiyerarşik yapı ağacı ve 23 hazır bölge (kafatası, kalp, beyin, göz, kulak…); yön göstergesi ve kamera ön ayarları |
+| 🎓 **Quiz modu** | Görünen yapılar arasından "modelde bulun" soruları, puan ve seri |
+| ⚡ **Akıcı** | GTX 1050 sınıfı bir ekran kartında 1080p ve 4× MSAA ile 60 fps; kalite ekran kartına göre otomatik seçilir |
 
-## Nasıl çalışır — ekran görüntüleriyle
-
-### Açılış: vücut katman katman oluşur
-
-Model yüklendikten sonra shader'lar arka planda derlenir, ardından önce iskelet, sonra organlar, damarlar, kaslar ve en son deri ayaktan başa doğru belirir.
-
-<p align="center"><img src="docs/acilis-animasyonu.gif" alt="Açılış animasyonu" width="380"></p>
-
-### Çift tıklayarak diseksiyon
-
-Her çift tıklama, tıklanan yapıyı o noktadan yayılan bir çözülmeyle kaldırır. Deri kalktığında iç yapılar yalnızca açılan "pencere"den görünür; derinin geri kalanı sağlam kalır. Üstteki çubuk kaldırılanları gösterir; **Geri al** / **Tümünü geri getir** ile yapılar aynı noktadan yeniden örülür.
-
-<p align="center"><img src="docs/cift-tik-kazi.gif" alt="Çift tıklayarak katman katman kazı" width="460"></p>
+## Ekran görüntüleri
 
 <table>
 <tr>
-<td width="50%"><img src="docs/screenshots/13-cift-tik-kazi.jpg" alt="Kazı sonrası"><br><sub>Üç çift tıklamadan sonra: meme bölgesi derisi, büyük göğüs kası ve serratus anterior kaldırılmış.</sub></td>
-<td width="50%"><img src="docs/screenshots/02-kas-secim-bilgi.jpg" alt="Seçim ve bilgi paneli"><br><sub>Tek tıkla seçim: Türkçe / Latince / İngilizce ad, sistem, taraf, hareket (kas fonksiyonu), hiyerarşi, karşı taraf ve açıklama.</sub></td>
+<td width="50%"><img src="docs/masaustu/02-tam-vucut.jpg" alt="Tam vücut"><br><sub>Açılış görünümü: sistem ve kategori filtreleri, kısayol yardımı, alt araç çubuğu.</sub></td>
+<td width="50%"><img src="docs/masaustu/03-ic-organlar.jpg" alt="İç organlar"><br><sub>Katman soyma ile göğüs kafesi, akciğerler, karaciğer, mide ve bağırsaklar; üzerine gelince etiket.</sub></td>
+</tr>
+<tr>
+<td><img src="docs/masaustu/04-kalp.jpg" alt="Kalp"><br><sub>Hazır "Kalp" bölgesi ve sol karıncığın Türkçe bilgi kartı.</sub></td>
+<td><img src="docs/masaustu/05-kafatasi.jpg" alt="Kafatası"><br><sub>Kafatası bölgesi: alın kemiğinin bölümleri, eklemleri, önemli yapıları ve klinik notu.</sub></td>
+</tr>
+<tr>
+<td><img src="docs/masaustu/06-sagittal-kesit.jpg" alt="Sagittal kesit"><br><sub>Sagittal kesit: kesit yüzeyleri kategoriye göre dolu çizilir.</sub></td>
+<td><img src="docs/masaustu/07-xray.jpg" alt="X-ray"><br><sub>X-ray modu (sıra bağımsız saydamlık).</sub></td>
+</tr>
+<tr>
+<td><img src="docs/masaustu/08-kas-fonksiyon-renkleri.jpg" alt="Kas fonksiyon renkleri"><br><sub>Kas fonksiyonu renklendirmesi: fleksiyon, ekstansiyon, abdüksiyon, addüksiyon, rotasyon…</sub></td>
+<td><img src="docs/masaustu/09-turkce-arama.jpg" alt="Türkçe arama"><br><sub>Türkçe arama: "kalp" yazınca kulakçıklar, karıncıklar ve kalp damarları listelenir.</sub></td>
 </tr>
 </table>
 
-### Gerçekçi dokular
+## İndirme ve sistem gereksinimleri
 
-<table>
-<tr>
-<td width="50%"><img src="docs/screenshots/07-goz-yakin-plan.jpg" alt="Göz yakın plan"><br><sub>Prosedürel iris (stroma lifleri, kriptler, kollaret), siyah göz bebeği, ince ve parlak kornea, limbus gölgesi.</sub></td>
-<td width="50%"><img src="docs/screenshots/03-kas-lifleri-yakin.jpg" alt="Kas lifleri"><br><sub>Kas lifleri her kasın kendi ana ekseni boyunca uzanır; yüzey hafif ıslak ve parlak.</sub></td>
-</tr>
-<tr>
-<td><img src="docs/screenshots/04-ic-organlar.jpg" alt="İç organlar"><br><sub>Katman soyma ile iç organlar: karaciğer, mide, bağırsaklar; kıkırdaklar ve kemikler.</sub></td>
-<td><img src="docs/screenshots/08-yuz.jpg" alt="Yüz"><br><sub>Deri dokusu, kaşlar ve gözler.</sub></td>
-</tr>
-</table>
+1. [Sürümler sayfasından](https://github.com/EthYusuf/anatomi-3d/releases/latest) `Anatomi3D-<sürüm>-win-x64.zip` dosyasını indirin.
+2. Zip'i bir klasöre çıkarın ve `Anatomi3D.exe`'yi çalıştırın. Kurulum gerekmez; .NET çalışma zamanı pakete dahildir.
 
-### İnceleme araçları
+> Uygulama henüz dijital olarak imzalı olmadığından Windows SmartScreen uyarı gösterebilir: **Ek bilgi → Yine de çalıştır**.
 
-<table>
-<tr>
-<td width="50%"><img src="docs/screenshots/09-sagittal-kesit.jpg" alt="Sagittal kesit"><br><sub>Sagittal kesit: beyin, beyincik, omurilik, burun ve ağız boşluğu.</sub></td>
-<td width="50%"><img src="docs/screenshots/11-kas-fonksiyon-renkleri.jpg" alt="Kas fonksiyon renkleri"><br><sub>Kas fonksiyonu renklendirmesi: fleksiyon, ekstansiyon, abdüksiyon, addüksiyon, rotasyon…</sub></td>
-</tr>
-<tr>
-<td><img src="docs/screenshots/05-turkce-arama.jpg" alt="Türkçe arama"><br><sub>Türkçe arama: "kalp" yazınca kulakçıklar, karıncıklar, kapakçıklar ve koroner damarlar listelenir.</sub></td>
-<td><img src="docs/screenshots/06-derin-yapi-vurgulama.jpg" alt="Derin yapı vurgulama"><br><sub>Aramadan seçilen derin yapı otomatik odaklanır, çevresi saydamlaşır.</sub></td>
-</tr>
-<tr>
-<td><img src="docs/screenshots/10-xray.jpg" alt="X-ray"><br><sub>X-ray modu.</sub></td>
-<td><img src="docs/screenshots/12-quiz.jpg" alt="Quiz"><br><sub>Quiz modu: "Modelde bulun" soruları, puan ve seri.</sub></td>
-</tr>
-</table>
+| | Gereksinim |
+|---|---|
+| İşletim sistemi | Windows 10 veya 11, 64 bit |
+| Ekran kartı | DirectX 11 (özellik düzeyi 11.0) destekli; harici ekran kartı önerilir |
+| Disk | ~250 MB |
 
-<p align="center"><img src="docs/screenshots/14-mobil.jpg" alt="Mobil görünüm" width="260"><br><sub>Mobil görünüm</sub></p>
-
-## Kurulum ve çalıştırma
-
-Gereksinimler: **Node.js 20+** (geliştirmede 24 kullanıldı) ve WebGL2 destekli güncel bir tarayıcı.
-
-```bash
-git clone https://github.com/EthYusuf/anatomi-3d.git
-cd anatomi-3d/app
-npm install
-npm run dev          # http://localhost:5173
-```
-
-Üretim derlemesi:
-
-```bash
-npm run build        # çıktı: app/dist/  (statik; herhangi bir statik sunucuda barındırılabilir)
-npm run preview
-```
-
-> İşlenmiş model dosyaları (`app/public/body/`, ~5,4 MB GLB + açıklamalar) depoda hazır gelir; uygulamayı çalıştırmak için model hattını çalıştırmanız gerekmez.
+Birden fazla ekran kartı olan dizüstü bilgisayarlarda uygulama harici kartı kendiliğinden seçer; tümleşik kartı zorlamak için `Anatomi3D.exe --gpu integrated`.
 
 ## Kullanım ve kısayollar
 
-| Eylem | Fare / dokunma | Klavye |
+| Eylem | Fare | Klavye |
 |---|---|---|
-| Döndür / kaydır / yakınlaştır | Sol sürükle / sağ sürükle / tekerlek | — |
-| Seç | Tıkla | `Esc` seçimi kaldırır |
-| **Yapıyı kaldır (kazı)** | **Çift tıkla / çift dokun** | `Ctrl+Z` geri al · `Ctrl+Shift+Z` tümünü geri getir |
-| Odakla | Bilgi panelinde **Odakla** | `F` |
-| Gizle / izole et | Bilgi paneli | `H` / `I` |
-| Katman soy / geri koy | Alt çubuktaki `−` `+` | `]` / `[` |
-| X-ray | Görüntü menüsü | `X` |
-| Ara | Sol panel | `Ctrl+K` |
+| Döndür / kaydır / yakınlaştır | Sol sürükle / sağ sürükle (veya `Shift` + sürükle) / tekerlek | — |
+| Seç ve bilgi kartını aç | Tıkla | `Esc` seçimi kaldırır |
+| **Yapıyı kaldır (kazı)** | **Çift tıkla** | `Ctrl+Z` geri al · `Ctrl+Shift+Z` tümünü geri getir |
+| Odakla | Bilgi kartında **Odakla** | `F` |
+| Gizle / izole et | Bilgi kartı | `H` / `I` |
 | Tümünü göster | — | `U` |
+| Katman soy / geri koy | Alt çubuktaki `−` `+` | `]` / `[` |
+| X-ray / tel kafes | Görünüm menüsü | `X` / `W` |
+| Ara | Üstteki arama kutusu | `Ctrl+K` |
+| Kamera: ön, arka, sol, sağ, üst, izometrik | Kamera menüsü | `1` … `6` · `Home` başlangıç |
+| Tam ekran / ekran görüntüsü | — | `F11` / `F12` (Resimler\Anatomi 3D) |
 
-**Görüntü** menüsünde görüntü kalitesi (*Gerçekçi* / *Hızlı*) ve canlı fizyoloji (kalp atışı, solunum) ayarlanabilir. Zayıf grafik işlemcilerde *Hızlı* modu önerilir.
+Ayarlar penceresinden görüntü kalitesi (Otomatik, Ultra, Yüksek, Orta, Düşük; ayrıca MSAA, gölgeler, SSAO, bloom ve teselasyon tek tek), dil (Türkçe/İngilizce) ve arayüz ölçeği değiştirilebilir.
+
+## Kaynak koddan derleme
+
+Gereksinimler: Windows 10/11 x64, [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) ve Git.
+
+```powershell
+git clone https://github.com/EthYusuf/anatomi-3d.git
+cd anatomi-3d
+powershell -ExecutionPolicy Bypass -File tools\veri-indir.ps1   # model paketini indirir (~63 MB)
+dotnet run --project src/Anatomi3D.Desktop -c Release
+```
+
+Model paketi (`data/anatomy.pak`) boyutu nedeniyle Git deposunda değil, [sürümlerde](https://github.com/EthYusuf/anatomi-3d/releases) yayınlanır; betik paketi indirip SHA-256 ile doğrular. `data/` klasörü derleme sırasında çıktı klasörüne kopyalanır, bu yüzden `data/content/` altındaki bilgi dosyalarını değiştirdikten sonra yeniden derleyin.
+
+Tek klasörde çalışan (bağımsız) paket üretmek için:
+
+```powershell
+dotnet publish src/Anatomi3D.Desktop -c Release -r win-x64 --self-contained -o artifacts/Anatomi3D
+```
+
+<details>
+<summary><b>Komut satırı seçenekleri</b></summary>
+
+| Seçenek | Açıklama |
+|---|---|
+| `--gpu integrated` | Tümleşik ekran kartını kullan (varsayılan: harici) |
+| `--windowed`, `--size 1600x900` | Pencere kipinde ve verilen boyutta aç |
+| `--no-intro` | Açılış animasyonunu atla |
+| `--data <klasör>` | Model paketi ve içerik klasörü |
+| `--content-report <dosya.tsv>` | Grafik başlatmadan içerik kapsama raporu üret (aşağıya bakın) |
+| `--script "<komutlar>"`, `--script-file <dosya>` | Otomasyon: kamera, seçim, katman, kesit ve ekran görüntüsü komutları (`;` ile ayrılır); görsel testler ve belge görselleri için kullanılır, kullanıcı ayarlarını değiştirmez |
+
+</details>
 
 ## Mimari
 
 ```mermaid
 flowchart LR
-  subgraph build["Model hattı (tools/, çevrim dışı)"]
-    ZA["Z-Anatomy FBX → GLB"] --> B["build_za.mjs<br/>sınıflandırma · dünya koord. birleştirme<br/>meshopt sadeleştirme + sıkıştırma"]
-    B --> OUT["public/body/*.glb<br/>parts.json · desc/*.txt"]
+  subgraph build["Çevrim dışı (tools/Anatomi3D.AssetBuilder)"]
+    ZA["Z-Anatomy GLB<br/>+ Latince adlar, açıklamalar"] --> AB["Birleştirme · yönelim düzeltme<br/>deri alt bölümleme · 4 LOD<br/>lif yönleri · AO · kas yapışma alanları"]
+    AB --> PAK["data/anatomy.pak<br/>(Brotli + meshopt)"]
   end
-  subgraph app["Uygulama (app/)"]
-    L["model.ts<br/>GLB çözme · BVH · PCA eksenleri<br/>Türkçe adlar"] --> V["Viewer.tsx<br/>R3F sahnesi · toplu çizim<br/>kazı / tarama / fizyoloji"]
-    V --> S["dissolve.ts<br/>shader eklentisi:<br/>çözülme · pencere · prosedürel doku"]
-    UI["Sidebar · InfoPanel · Toolbar<br/>DigBar · Quiz"] <--> ST["store.ts (Zustand)"]
-    ST <--> V
+  subgraph app["Masaüstü uygulaması"]
+    CORE["Anatomi3D.Core<br/>paket okuyucu · yapı ağacı<br/>Türkçe adlar · bilgi bankası · arama"]
+    GFX["Anatomi3D.Graphics<br/>Direct3D 11 görüntüleyici<br/>HLSL shader'lar"]
+    DESK["Anatomi3D.Desktop<br/>Win32 pencere · Dear ImGui arayüz<br/>kamera · seçim · animasyon"]
+    CORE --> GFX --> DESK
+    CORE --> DESK
   end
-  OUT --> L
+  PAK --> CORE
+  CONTENT["data/content/<br/>Türkçe adlar ve bilgi bankası (JSON)"] --> CORE
 ```
 
-- **React 19 + React Three Fiber + drei**; durum yönetimi **Zustand**.
-- **Seçim**: her yapı için `three-mesh-bvh` ile hızlandırılmış ışın izleme.
-- **Toplu çizim**: sabit duran yapılar görünüm profiline göre `THREE.BatchedMesh` gruplarında çizilir (~2.500 çizim komutu → birkaç düzine). Seçilen, üzerine gelinen, çözülen veya animasyonlu yapılar otomatik olarak tekil çizime geçer.
-- **Shader eklentisi** ([`dissolve.ts`](app/src/components/dissolve.ts)): standart PBR materyale `onBeforeCompile` ile eklenir:
-  - *Çözülme*: tıklanan noktadan (kazı) ya da bir düzlem boyunca (katman soyma, açılış) ilerleyen gürültülü cephe ve parlak kenar.
-  - *Deri penceresi*: deri kapalıyken iç yapılar yalnız deride açılan kürelerin içinde çizilir.
-  - *Prosedürel yüzey*: dünya koordinatlı gürültü + ekran uzayı türevleriyle kabartma; beş aile (lif, kemik, deri, ıslak doku, göz), her biri ayrı küçük bir program.
-- **Son işlem** (Gerçekçi kalite): N8AO ortam gölgelemesi, Bloom, ACES ton eşleme, vinyet, SMAA.
-
-## Model verisi hattı
-
-Uygulamanın kullandığı dosyalar depoda hazırdır. Yeniden üretmek isterseniz:
-
-1. Z-Anatomy FBX modellerini [Z-Anatomy deposundan](https://github.com/LluisV/Z-Anatomy/tree/PC-Version/Resources/Models/FBX) indirip `fbx2gltf` ile GLB'ye çevirin ve `_raw/za/` altına koyun; çeviri ve açıklamalar için depodaki `Resources/` klasörünü `_raw/za_repo/Resources/` olarak ekleyin.
-2. Modeli üretin:
-
-```bash
-cd tools
-npm install
-npm run build:model     # → app/public/body/
-```
-
-Betik etiket ve kas yapışma işaret düğümlerini ayıklar, her yapıyı dünya koordinatlarında tek mesh'e birleştirir, kategoriye göre hata eşiğiyle sadeleştirir (**8,2M → ~740K üçgen**), meshopt ile sıkıştırır (**~5,4 MB**) ve Latince adları, hiyerarşiyi ve açıklama eşleşmelerini `parts.json`'a yazar.
-
-README görselleri de tekrar üretilebilir (geliştirme sunucusu `4173` portunda çalışırken):
-
-```bash
-cd tools
-npm run screenshots     # docs/screenshots/*.jpg + animasyon kareleri
-npm run gifs            # docs/*.gif
-```
-
-## Performans notları
-
-Entegre bir GPU'da (Intel HD 630) ölçümler:
-
-| Durum | FPS |
+| Proje | Sorumluluk |
 |---|---|
-| Tam vücut (deri) | ~55–60 |
-| Kas katmanı, yüksek kalite | ~25–30 |
-| Kas katmanı, hızlı mod | ~35–40 |
+| `src/Anatomi3D.Core` | `A3DPAK01` paket biçimi ve paralel çözücü (Brotli + meshopt), yapı ve grup hiyerarşisi, kategori/sistem tanımları, Türkçe ad sözlüğü, bilgi bankası ve kalıtım kuralları, Türkçe duyarlı arama dizini |
+| `src/Anatomi3D.Graphics` | Direct3D 11 cihazı (harici GPU seçimi), görüntüleme hattı, çalışma anında derlenip önbelleğe alınan HLSL shader'lar, GPU zaman ölçümü |
+| `src/Anatomi3D.Desktop` | Win32 pencere ve giriş, Dear ImGui tabanlı arayüz (paneller, arama, bilgi kartı, quiz, ayarlar), yörünge kamera, sahne animasyonları, betik otomasyonu |
+| `tools/Anatomi3D.AssetBuilder` | Z-Anatomy kaynak modellerinden `anatomy.pak` üretimi |
 
-- Deri tamamen opakken iç yapılar hiç çizilmez (hem hız hem de sadeleştirilmiş derinin altından taşma olmaması için).
-- Shader'lar açılışta `compileAsync` ile paralel derlenir ve her karede bir program olacak şekilde ısıtılır; Windows'ta (ANGLE/D3D11) sürücü derlemesinin ana iş parçacığını uzun süre kilitlemesi böylece önlenir. İlk açılışta birkaç saniyelik "hazırlanıyor" ekranı normaldir.
+**Görüntüleme hattı:** gölge haritası → MSAA ön geçiş (normal + yapı kimliği) → derinlik çözümleme → yarım çözünürlükte SAO ortam kapatması + iki yönlü bulanıklaştırma → uyarlamalı Phong teselasyonlu ileri PBR geçişi (GGX, clearcoat, sheen, sarmalanmış yayınık aydınlatmayla (wrap lighting) deri saçılımı yaklaşımı, küresel harmonik + önfiltrelenmiş ortam ışığı) → X-ray için ağırlıklı karışımlı sıra bağımsız saydamlık → ton eşlemeli MSAA çözümleme → bloom → ACES → yapı kimliğinden seçim çerçevesi → arayüz. Seçim GPU'da kimlik tamponundan okunur; ayrıntı düzeyi ekran uzayı hatasına göre seçilir, görüş alanı dışındaki yapılar elenir ve çizim çağrıları birleştirilir.
+
+## Türkçe bilgi bankası
+
+Türkçe içerik kod değiştirmeden düzenlenebilen JSON dosyalarında tutulur:
+
+- `data/content/names*.tr.json` — ~1.670 yapının ve ~360 grubun Türkçe adları
+- `data/content/tr/*.json` — bilgi girdileri (379 girdi, 584 yapıyı kapsar)
+
+```json
+"Biceps brachii muscle": {
+  "grup": true,
+  "tr": "Kolun iki başlı kası (m. biceps brachii)",
+  "ozet": "Kolun ön yüzündeki iki başlı kas; …",
+  "bilgi": [["Origo", "…"], ["İnsersiyo", "…"], ["İnnervasyon", "…"], ["Kanlanma", "…"], ["Fonksiyon", "…"]],
+  "bolumler": [{ "baslik": "…", "metin": "…" }],
+  "klinik": "…",
+  "durum": "taslak"
+}
+```
+
+Anahtarlar modeldeki İngilizce yapı adlarıdır. Kendi girdisi olmayan bir yapı, sırasıyla kas başı/bölümünden taban kasa (ör. *Long head of biceps brachii* → *Biceps brachii muscle*), sistematik ad kurallarına (ör. *Vertebra T7* → *Thoracic vertebrae*), üst yapısına ve `"grup": true` olan grup girdilerine bakarak bilgi kalıtır; bilgi kartında bu durum belirtilir.
+
+Kapsama raporu hangi yapıların bilgisiz kaldığını ve hiçbir yapıyla eşleşmeyen (büyük olasılıkla yanlış yazılmış) anahtarları listeler:
+
+```powershell
+Anatomi3D.exe --content-report rapor.tsv
+```
+
+| Kapsam | Durum |
+|---|---|
+| Kemikler, dişler, kaslar | Tamamı |
+| Kalp, solunum, sindirim, üriner, genital, endokrin sistem, periton ve plevra, duyu organları, beyin zarları | Tamamı |
+| Eklemler ve bağlar, kıkırdaklar | Kısmen |
+| Beyin ve omurilik, periferik sinirler, arter ve venler, fasyalar, deri bölgeleri | Planlanıyor ([yol haritası](#yol-haritası)) |
+
+> Bilgi girdileri **taslak** durumundadır ve klinik kullanımdan önce uzman gözden geçirmesi gerektirir; uygulama bunu kartta belirtir. Yapıların çoğunda ayrıca İngilizce Wikipedia açıklaması gösterilir.
+
+## Model paketini yeniden üretme
+
+Hazır paket sürümlerde yayınlandığı için bu adım yalnızca modeli değiştirmek istiyorsanız gerekir.
+
+1. Z-Anatomy FBX modellerini [Z-Anatomy deposundan](https://github.com/LluisV/Z-Anatomy/tree/PC-Version/Resources/Models/FBX) indirip GLB'ye çevirin ve `_raw/za/` altına koyun; depodaki `Resources/` klasörünü `_raw/za_repo/Resources/` olarak ekleyin.
+2. Paketi üretin (~2,5 dakika):
+
+```powershell
+dotnet run -c Release --project tools/Anatomi3D.AssetBuilder
+```
+
+Derleyici etiket ve işaret düğümlerini ayıklar, yapıları dünya koordinatlarında birleştirip yönelimlerini düzeltir, deriyi tek parça hâlinde dikişsiz birleştirip interpolasyonlu Loop alt bölümlemesiyle inceltir (~114 bin → ~1,83 milyon üçgen), her yapı için dört ayrıntı düzeyi, kas lif yönleri, ortam kapatması ve kas yapışma alanlarını üretir ve sonucu 16 baytlık nicemlenmiş köşelerle sıkıştırarak `data/anatomy.pak` dosyasına yazar.
+
+## Performans
+
+GeForce GTX 1050, 1920×1080, 4× MSAA, Yüksek kalite (GPU kare süresi):
+
+| Görünüm | GPU süresi |
+|---|---|
+| Tam vücut (deri) | ~4,5 ms |
+| Yüz yakın plan (teselasyon) | ~7 ms |
+| Kas katmanı | ~7,7 ms |
+| X-ray | ~12,6 ms |
+
+Dikey eşitlemeyle 60 fps'de sabit çalışır. Tümleşik ekran kartlarında otomatik olarak *Orta* kalite seçilir; kalite ayarları ekran kartına göre değiştirilebilir.
 
 ## Proje yapısı
 
 ```
 anatomi-3d/
-├── app/                       # Web uygulaması (Vite + React + TypeScript)
-│   ├── public/body/           # İşlenmiş model: kategori başına GLB, parts.json, açıklamalar (CC BY-SA 4.0)
-│   └── src/
-│       ├── components/        # Viewer, dissolve (shader), Sidebar, InfoPanel, Toolbar, DigBar, Quiz
-│       ├── data/              # kategoriler, görünüm profilleri, Türkçe sözlük, arayüz metinleri
-│       ├── model.ts           # model yükleme, BVH, eksenler
-│       └── store.ts           # uygulama durumu
-├── tools/                     # Model hattı ve geliştirme yardımcıları
-│   ├── build_za.mjs           # Z-Anatomy → web modeli
-│   ├── za_scan.mjs            # ham GLB düğüm taraması
-│   ├── screenshots.mjs        # README ekran görüntüleri ve kareleri
-│   ├── make_gifs.py           # karelerden GIF
-│   ├── shot.mjs, probe.mjs    # görsel test ve açılış performans ölçümü
-└── docs/                      # README görselleri
+├── src/
+│   ├── Anatomi3D.Core/        # paket biçimi, yapı modeli, Türkçe içerik, arama
+│   ├── Anatomi3D.Graphics/    # Direct3D 11 görüntüleyici ve HLSL shader'lar
+│   └── Anatomi3D.Desktop/     # Windows uygulaması: pencere, arayüz, kamera
+├── tools/
+│   ├── Anatomi3D.AssetBuilder/  # Z-Anatomy → data/anatomy.pak
+│   ├── veri-indir.ps1           # model paketini sürümlerden indirir
+│   └── *.mjs, make_gifs.py      # web sürümünün model hattı ve görsel araçları
+├── data/
+│   ├── content/               # Türkçe adlar ve bilgi bankası (JSON)
+│   └── anatomy.pak            # model paketi (sürümlerden indirilir, Git'te yok)
+├── app/                       # web sürümü (v1, React + Three.js)
+├── docs/                      # README görselleri
+└── Anatomi3D.sln
 ```
+
+## Web sürümü (v1)
+
+Projenin ilk sürümü tarayıcıda çalışan React + Three.js uygulamasıdır ve `app/` altında korunmaktadır (çift tıkla diseksiyon, prosedürel dokular, mobil uyum).
+
+```bash
+cd app
+npm install
+npm run dev          # http://localhost:5173
+```
+
+<table>
+<tr>
+<td width="50%"><img src="docs/screenshots/01-tam-vucut.jpg" alt="Web sürümü"><br><sub>Web sürümü ana ekranı.</sub></td>
+<td width="50%"><img src="docs/cift-tik-kazi.gif" alt="Web sürümünde çift tıklayarak kazı"><br><sub>Web sürümünde çift tıklayarak katman katman kazı.</sub></td>
+</tr>
+</table>
+
+Web sürümünün model hattı `tools/build_za.mjs` (Z-Anatomy → `app/public/body/`), görselleri `tools/screenshots.mjs` ve `tools/make_gifs.py` ile üretilir.
+
+## Yol haritası
+
+- Beyin ve omurilik, periferik sinirler, arter ve venler, eklemler ve fasyalar için Türkçe bilgi girdileri
+- Tüm içeriğin anatomi uzmanlarınca gözden geçirilmesi (`durum: onaylı`)
+- Tümleşik ekran kartlarında performans ölçümü ve ince ayar
+- İmzalı kurulum paketi
 
 ## Lisans ve kaynaklar
 
-- **Kaynak kod**: [MIT](LICENSE) © 2026 Muhammed Yusuf Adın
-- **3D model, yapı adları ve açıklamalar** (`app/public/body/`): [Z-Anatomy](https://www.z-anatomy.com) (Lluís Vinent Juanico ve katkıda bulunanlar) verisinden türetilmiştir, **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** — ayrıntılar: [`app/public/body/LICENSE.md`](app/public/body/LICENSE.md). Açıklama metinleri Wikipedia kaynaklıdır (CC BY-SA).
-- Bu uygulama eğitim amaçlıdır; klinik karar için kullanılmamalıdır.
+- **Kaynak kod ve Türkçe içerik** (`data/content/`): [MIT](LICENSE) © 2026 Muhammed Yusuf Adın
+- **3D model, yapı adları ve açıklamalar** (`data/anatomy.pak`, `app/public/body/`): [Z-Anatomy](https://www.z-anatomy.com) (Lluís Vinent Juanico ve katkıda bulunanlar) verisinden türetilmiştir, **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** — ayrıntılar: [`data/LICENSE.md`](data/LICENSE.md). İngilizce açıklama metinleri Wikipedia kaynaklıdır (CC BY-SA).
+- Üçüncü taraf bileşenler (Dear ImGui, Vortice.Windows, meshoptimizer vb.): [`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md)
+- Bu uygulama eğitim amaçlıdır; tanı veya tedavi kararlarında kullanılmamalıdır.
 
 ---
 
 <details>
 <summary><b>English summary</b></summary>
 
-**Anatomi 3D** is an interactive, browser-based full-body 3D anatomy atlas with ~2,950 structures (bones, muscles, joints & ligaments, arteries/veins, heart, nerves, brain & spinal cord, sense organs, viscera and skin regions), built with React, React Three Fiber and Three.js.
+**Anatomi 3D** is a professional, interactive full-body 3D anatomy atlas for Windows with ~2,950 structures (bones, muscles, joints & ligaments, arteries/veins, heart, nerves, brain & spinal cord, sense organs, viscera and skin regions), written in C# (.NET 8) with a custom Direct3D 11 renderer and a Dear ImGui interface.
 
-- **Double-click dissection**: double-click any structure and it dissolves away from the clicked point, revealing the layer beneath (skin → muscle → bone); undo with `Ctrl+Z`.
-- **Realistic procedural surfaces** (no textures): muscle fibres along each muscle's principal axis, porous bone, skin, wet mucosa, procedural iris and veined sclera; live heartbeat and breathing.
-- Cinematic layer-by-layer intro, sweep transitions, X-ray, sections, isolation, search in Turkish/Latin/English, quiz mode, mobile support.
-- Performance: `BatchedMesh` for static structures, BVH picking, async + progressive shader warm-up.
+- **Realistic real-time rendering**: PBR materials with clearcoat/sheen and a skin scattering approximation, shadows, SSAO, 4× MSAA, adaptive tessellation and procedural surface detail; 60 fps at 1080p on a GTX 1050.
+- **Turkish-first content**: Turkish names for 99.9% of structures and a Turkish knowledge base (origin, insertion, innervation, blood supply, action and clinical notes) covering all bones and muscles and the main organ systems; Latin and English names; English Wikipedia descriptions.
+- **Dissection tools**: double-click to remove structures, layer peeling, X-ray, wireframe, capped sections, isolation, muscle attachment areas, 23 region presets, search in Turkish/Latin/English, quiz mode.
 
-Run: `cd app && npm install && npm run dev`. Code is MIT-licensed; the model data is derived from Z-Anatomy and licensed CC BY-SA 4.0.
+Download the ready-to-run build from [Releases](https://github.com/EthYusuf/anatomi-3d/releases/latest). To build from source: install the .NET 8 SDK, run `tools\veri-indir.ps1` to fetch the model package, then `dotnet run --project src/Anatomi3D.Desktop -c Release`.
+
+Code and Turkish content are MIT-licensed; the model data is derived from Z-Anatomy and licensed CC BY-SA 4.0. The original browser version (React + Three.js) lives in `app/`.
 
 </details>

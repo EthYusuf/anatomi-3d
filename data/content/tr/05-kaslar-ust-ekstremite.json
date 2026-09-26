@@ -1,0 +1,524 @@
+{
+  "_aciklama": "Üst ekstremite kasları: omuz (skapulohumeral), kol, önkol ve el",
+
+  "Deltoid muscle": {
+    "grup": true,
+    "tr": "Deltoid kas (m. deltoideus)",
+    "ozet": "Omuza yuvarlak dış hatlarını veren üçgen kas; klaviküler (ön), akromiyal (orta) ve spinal (arka) bölümlerden oluşur ve kolun ana abdüktörüdür.",
+    "bilgi": [
+      ["Origo", "Klavikulanın dış üçte biri (ön bölüm), akromiyon (orta bölüm), spina scapulae (arka bölüm)"],
+      ["İnsersiyo", "Humerusun tuberositas deltoidea'sı"],
+      ["İnnervasyon", "Aksiller sinir (C5–C6)"],
+      ["Kanlanma", "Arka sirkumfleks humeral arter, torakoakromiyal arterin deltoid dalı"],
+      ["Fonksiyon", "Ön bölüm: fleksiyon ve iç rotasyon; orta bölüm: abdüksiyon (supraspinatusun başlattığı ~15°'den sonra); arka bölüm: ekstansiyon ve dış rotasyon"]
+    ],
+    "klinik": "Humerus cerrahi boyun kırığı veya omuz çıkığında aksiller sinir hasarlanabilir: omuz yuvarlaklığı kaybolur, abdüksiyon zayıflar, omzun dış yüzünde ('apolet bölgesi') his kaybı olur. Kas içi enjeksiyonlar sinire zarar vermemek için kasın üst üçte birine yapılır.",
+    "durum": "taslak"
+  },
+
+  "Supraspinatus muscle": {
+    "tr": "Diken üstü kası (m. supraspinatus)",
+    "ozet": "Kürek kemiğinin diken üstü çukurunu dolduran rotator manşet kası; kol abdüksiyonunu başlatır.",
+    "bilgi": [
+      ["Origo", "Fossa supraspinata"],
+      ["İnsersiyo", "Tuberculum majus'un üst yüzü"],
+      ["İnnervasyon", "Suprasküler sinir (C4–C6)"],
+      ["Kanlanma", "Suprasküler arter"],
+      ["Fonksiyon", "Kol abdüksiyonunu başlatır ve deltoide yardım eder; rotator manşetin parçası olarak humerus başını glenoid çukurda tutar"]
+    ],
+    "klinik": "En sık yırtılan rotator manşet tendonudur. Akromiyon altında sıkışma (impingement) ve kalsifik tendinit omuz ağrısının sık nedenleridir; kol kaldırılırken 60–120° arasında 'ağrılı ark' tipiktir.",
+    "durum": "taslak"
+  },
+
+  "Infraspinatus muscle": {
+    "tr": "Diken altı kası (m. infraspinatus)",
+    "ozet": "Kürek kemiğinin arka yüzündeki diken altı çukurunu dolduran üçgen rotator manşet kası; kolun başlıca dış rotatorüdür.",
+    "bilgi": [
+      ["Origo", "Fossa infraspinata"],
+      ["İnsersiyo", "Tuberculum majus'un orta yüzü"],
+      ["İnnervasyon", "Suprasküler sinir (C5–C6)"],
+      ["Kanlanma", "Suprasküler ve sirkumfleks skapular arterler"],
+      ["Fonksiyon", "Kolu dışa döndürür; humerus başını glenoidde tutar"]
+    ],
+    "klinik": "Suprasküler sinirin spinoglenoid çentikte sıkışmasında (voleybolcularda) yalnız infraspinatus atrofisi gelişir.",
+    "durum": "taslak"
+  },
+
+  "Teres minor muscle": {
+    "tr": "Küçük yuvarlak kas (m. teres minor)",
+    "ozet": "İnfraspinatusun altında, kürek kemiği dış kenarından humerusa uzanan dar rotator manşet kası.",
+    "bilgi": [
+      ["Origo", "Kürek kemiği dış kenarının orta bölümü"],
+      ["İnsersiyo", "Tuberculum majus'un alt yüzü"],
+      ["İnnervasyon", "Aksiller sinir (C5–C6)"],
+      ["Kanlanma", "Sirkumfleks skapular arter"],
+      ["Fonksiyon", "Kolu dışa döndürür; rotator manşetin parçası olarak eklemi stabilize eder"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Subscapularis muscle": {
+    "tr": "Kürek altı kası (m. subscapularis)",
+    "ozet": "Kürek kemiğinin ön (kaburgalara bakan) yüzünü kaplayan, rotator manşetin en büyük ve en güçlü kası.",
+    "bilgi": [
+      ["Origo", "Fossa subscapularis"],
+      ["İnsersiyo", "Tuberculum minus"],
+      ["İnnervasyon", "Üst ve alt subskapular sinirler (C5–C6, C7)"],
+      ["Kanlanma", "Subskapular arter"],
+      ["Fonksiyon", "Kolu içe döndürür ve addüksiyona getirir; humerus başının öne çıkmasını önler"]
+    ],
+    "klinik": "Yırtığında 'lift-off' ve 'belly-press' testleri pozitifleşir. Tekrarlayan ön omuz çıkıklarında gerilir veya hasar görür.",
+    "durum": "taslak"
+  },
+
+  "Teres major muscle": {
+    "tr": "Büyük yuvarlak kas (m. teres major)",
+    "ozet": "Kürek kemiğinin alt açısından humerusa uzanan kalın kas; geniş sırt kasıyla birlikte çalışır ('latissimus'un küçük yardımcısı').",
+    "bilgi": [
+      ["Origo", "Kürek kemiği alt açısının arka yüzü"],
+      ["İnsersiyo", "Sulcus intertubercularis iç dudağı (crista tuberculi minoris)"],
+      ["İnnervasyon", "Alt subskapular sinir (C5–C6)"],
+      ["Kanlanma", "Sirkumfleks skapular ve torakodorsal arterler"],
+      ["Fonksiyon", "Kolu addüksiyon ve iç rotasyona getirir; fleksiyondaki kolu ekstansiyona getirir"],
+      ["Yer işareti", "Üçgen ve dörtgen aralıkların alt sınırını yapar; dörtgen aralıktan aksiller sinir ve arka sirkumfleks humeral arter geçer"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Biceps brachii muscle": {
+    "grup": true,
+    "tr": "Kolun iki başlı kası (m. biceps brachii)",
+    "ozet": "Kolun ön yüzündeki iki başlı kas; dirseği büker ve önkolu güçlü biçimde supinasyona getirir (vida sıkma hareketi).",
+    "bilgi": [
+      ["Origo", "Kısa baş: korakoid çıkıntının ucu; uzun baş: tuberculum supraglenoidale (tendonu eklem içinden ve sulcus intertubercularis'ten geçer)"],
+      ["İnsersiyo", "Tuberositas radii; bisipital aponevroz yoluyla önkol fasyası"],
+      ["İnnervasyon", "Muskulokutan sinir (C5–C6)"],
+      ["Kanlanma", "Brakiyal arterin kas dalları"],
+      ["Fonksiyon", "Önkolu supinasyona getirir (dirsek bükükken en güçlü supinatör), dirseği fleksiyona getirir; kısa baş omuz çıkığına karşı direnç sağlar"]
+    ],
+    "klinik": "Uzun baş tendonu kopmasında kas kitlesi aşağı toplanır ('Popeye' belirtisi). Distal tendon kopması supinasyon gücünü belirgin azaltır. Biseps refleksi C5–C6 segmentlerini test eder.",
+    "durum": "taslak"
+  },
+
+  "Brachialis muscle": {
+    "tr": "Kol kası (m. brachialis)",
+    "ozet": "Bisepsin derininde yer alan, önkolun konumundan bağımsız olarak dirseğin en güçlü bükücüsü ('dirseğin beygir gücü').",
+    "bilgi": [
+      ["Origo", "Humerus ön yüzünün alt yarısı"],
+      ["İnsersiyo", "Koronoid çıkıntı ve tuberositas ulnae"],
+      ["İnnervasyon", "Muskulokutan sinir (C5–C6); dış bölümüne radyal sinirden (C7) katkı"],
+      ["Kanlanma", "Brakiyal arter ve radyal rekürren arter dalları"],
+      ["Fonksiyon", "Dirseği her pozisyonda fleksiyona getirir"]
+    ],
+    "klinik": "Dirsek çevresi travmalardan sonra kas içinde kemikleşme (miyozitis ossifikans) gelişebilir.",
+    "durum": "taslak"
+  },
+
+  "Coracobrachialis muscle": {
+    "tr": "Korakobrakiyal kas (m. coracobrachialis)",
+    "ozet": "Korakoid çıkıntıdan humerusun ortasına uzanan ince kas; muskulokutan sinir tarafından delinir.",
+    "bilgi": [
+      ["Origo", "Korakoid çıkıntının ucu"],
+      ["İnsersiyo", "Humerus iç yüzünün orta üçte biri"],
+      ["İnnervasyon", "Muskulokutan sinir (C5–C7)"],
+      ["Fonksiyon", "Kolun fleksiyonuna ve addüksiyonuna yardım eder; omuz çıkığına karşı direnç sağlar"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Triceps brachii muscle": {
+    "grup": true,
+    "tr": "Kolun üç başlı kası (m. triceps brachii)",
+    "ozet": "Kolun arka yüzünü kaplayan üç başlı kas; dirseğin ana ekstansörüdür.",
+    "bilgi": [
+      ["Origo", "Uzun baş: tuberculum infraglenoidale; dış baş: humerus arka yüzü, radyal oluğun üstü; iç baş: humerus arka yüzü, radyal oluğun altı"],
+      ["İnsersiyo", "Olekranonun üst ucu ve önkol fasyası"],
+      ["İnnervasyon", "Radyal sinir (C6–C8)"],
+      ["Kanlanma", "Derin brakiyal arter (a. profunda brachii)"],
+      ["Fonksiyon", "Dirseği ekstansiyona getirir; uzun baş kolun ekstansiyon ve addüksiyonuna katılır, addüksiyondaki omzu stabilize eder"]
+    ],
+    "klinik": "Triseps refleksi C7 segmentini test eder. Radyal sinir, dış ve iç başlar arasındaki spiral olukta humerus gövde kırıklarında yaralanabilir.",
+    "durum": "taslak"
+  },
+
+  "Anconeus muscle": {
+    "tr": "Ankoneus kası (m. anconeus)",
+    "ozet": "Dirseğin arka-dış yüzündeki küçük üçgen kas; tricepse yardım eder.",
+    "bilgi": [
+      ["Origo", "Humerusun lateral epikondili"],
+      ["İnsersiyo", "Olekranonun dış yüzü ve ulna arka yüzünün üst bölümü"],
+      ["İnnervasyon", "Radyal sinir (C7–C8)"],
+      ["Fonksiyon", "Dirseğin ekstansiyonuna yardım eder, eklemi stabilize eder; pronasyonda ulnayı abdüksiyona getirir"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Pronator teres": {
+    "tr": "Yuvarlak pronatör kas (m. pronator teres)",
+    "ozet": "Önkolun ön yüzündeki yüzeyel fleksör grubun en dıştaki kası; iki başı arasından median sinir geçer.",
+    "bilgi": [
+      ["Origo", "Humeral baş: medial epikondil (ortak fleksör başlangıcı); ulnar baş: koronoid çıkıntı"],
+      ["İnsersiyo", "Radius dış yüzünün ortası (pronatör tüberozite)"],
+      ["İnnervasyon", "Median sinir (C6–C7)"],
+      ["Fonksiyon", "Önkolu pronasyona getirir ve dirseği bükmeye yardım eder"]
+    ],
+    "klinik": "Median sinirin iki baş arasında sıkışması (pronatör sendromu) önkolda ağrı ve elde his kusuruna yol açar; karpal tünel sendromundan farklı olarak avuç içi duyusu da etkilenir.",
+    "durum": "taslak"
+  },
+
+  "Flexor carpi radialis": {
+    "tr": "Radyal el bileği bükücü kası (m. flexor carpi radialis)",
+    "ozet": "El bileğini büken ve başparmak tarafına eğen yüzeyel önkol kası; tendonu radyal nabız için yer işaretidir.",
+    "bilgi": [
+      ["Origo", "Medial epikondil (ortak fleksör başlangıcı)"],
+      ["İnsersiyo", "2. (ve 3.) metakarp tabanı"],
+      ["İnnervasyon", "Median sinir (C6–C7)"],
+      ["Fonksiyon", "El bileğini fleksiyona ve radyal deviasyona (abdüksiyon) getirir"]
+    ],
+    "klinik": "Radyal arter nabzı el bileğinde bu kasın tendonunun hemen dış yanında alınır.",
+    "durum": "taslak"
+  },
+
+  "Palmaris longus muscle": {
+    "tr": "Uzun avuç kası (m. palmaris longus)",
+    "ozet": "İnce karınlı, uzun tendonlu yüzeyel önkol kası; insanların yaklaşık %14'ünde bulunmaz.",
+    "bilgi": [
+      ["Origo", "Medial epikondil"],
+      ["İnsersiyo", "Fleksör retinakulumun alt yarısı ve palmar aponevroz"],
+      ["İnnervasyon", "Median sinir (C7–C8)"],
+      ["Fonksiyon", "El bileğini büker, palmar aponevrozu gerer"]
+    ],
+    "klinik": "Başparmak ve serçe parmak uçları birleştirilip bilek hafifçe bükülünce tendonu belirginleşir. Rekonstrüktif cerrahide tendon grefti olarak sık kullanılır; median sinir tendonun hemen derininde ve biraz dışındadır.",
+    "durum": "taslak"
+  },
+
+  "Flexor carpi ulnaris": {
+    "tr": "Ulnar el bileği bükücü kası (m. flexor carpi ulnaris)",
+    "ozet": "Önkolun iç kenarındaki yüzeyel fleksör; iki başı arasından ulnar sinir önkola girer.",
+    "bilgi": [
+      ["Origo", "Humeral baş: medial epikondil; ulnar baş: olekranon ve ulnanın arka kenarı"],
+      ["İnsersiyo", "Pisiform, hamatum çengeli ve 5. metakarp tabanı"],
+      ["İnnervasyon", "Ulnar sinir (C7–C8)"],
+      ["Fonksiyon", "El bileğini fleksiyona ve ulnar deviasyona (addüksiyon) getirir"]
+    ],
+    "klinik": "Ulnar sinir iki baş arasındaki kübital tünelde sıkışabilir (kübital tünel sendromu): 4.–5. parmaklarda uyuşma, el iç kaslarında güçsüzlük.",
+    "durum": "taslak"
+  },
+
+  "Flexor digitorum superficialis": {
+    "tr": "Yüzeyel parmak bükücü kas (m. flexor digitorum superficialis)",
+    "ozet": "Önkolun ara tabakasındaki geniş kas; dört tendonu parmakların orta falankslarına uzanır ve derin bükücü tendonlarının geçmesi için ikiye ayrılır.",
+    "bilgi": [
+      ["Origo", "Humeroulnar baş: medial epikondil, ulnar kollateral bağ ve koronoid çıkıntı; radyal baş: radiusun ön kenarının üst yarısı"],
+      ["İnsersiyo", "2.–5. parmakların orta falanks gövdeleri"],
+      ["İnnervasyon", "Median sinir (C7–T1)"],
+      ["Fonksiyon", "Proksimal interfalangeal (PİF) eklemleri büker; MKF eklemleri ve el bileğinin fleksiyonuna yardım eder"],
+      ["Muayene", "Diğer parmaklar düz tutulurken test edilen parmağın PİF eklemi bükülebiliyorsa kas sağlamdır"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Flexor digitorum profundus": {
+    "tr": "Derin parmak bükücü kas (m. flexor digitorum profundus)",
+    "ozet": "Önkolun derin tabakasındaki güçlü kas; tendonları parmakların uç falankslarına uzanır, lumbrikal kaslar bu tendonlardan başlar. Çift sinir desteği vardır.",
+    "bilgi": [
+      ["Origo", "Ulnanın iç ve ön yüzünün üst dörtte üçü ve interosseöz zar"],
+      ["İnsersiyo", "2.–5. parmakların distal falanks tabanları"],
+      ["İnnervasyon", "İç bölüm (4.–5. parmaklar): ulnar sinir; dış bölüm (2.–3. parmaklar): ön interosseöz sinir (median) — C8–T1"],
+      ["Fonksiyon", "Distal interfalangeal (DİF) eklemleri büker; diğer parmak eklemleri ve el bileği fleksiyonuna yardım eder"]
+    ],
+    "klinik": "Temas sporlarında tendonun distal falankstan kopması ('forma parmağı', en sık yüzük parmak) görülür. Çift sinir desteği, yüksek ve alçak ulnar sinir lezyonlarındaki pençe el farkını ('ulnar paradoks') açıklar.",
+    "durum": "taslak"
+  },
+
+  "Flexor pollicis longus": {
+    "tr": "Başparmağın uzun bükücü kası (m. flexor pollicis longus)",
+    "ozet": "Önkolun derin tabakasında radiusa tutunan, başparmağın uç falanksını büken tek kas.",
+    "bilgi": [
+      ["Origo", "Radiusun ön yüzü ve komşu interosseöz zar"],
+      ["İnsersiyo", "Başparmak distal falanks tabanı"],
+      ["İnnervasyon", "Ön interosseöz sinir (median, C7–C8)"],
+      ["Fonksiyon", "Başparmağın falankslarını, özellikle interfalangeal eklemi büker"]
+    ],
+    "klinik": "Ön interosseöz sinir sendromunda başparmak ve işaret parmağının uç eklemleri bükülemez; hasta 'OK' işareti yapamaz (yuvarlak yerine üçgen oluşur).",
+    "durum": "taslak"
+  },
+
+  "Pronator quadratus": {
+    "tr": "Kare pronatör kas (m. pronator quadratus)",
+    "ozet": "Önkolun alt ucunda, radius ile ulna arasında enine uzanan kare biçimli derin kas; asıl pronatördür.",
+    "bilgi": [
+      ["Origo", "Ulna ön yüzünün alt dörtte biri"],
+      ["İnsersiyo", "Radius ön yüzünün alt dörtte biri"],
+      ["İnnervasyon", "Ön interosseöz sinir (median, C8–T1)"],
+      ["Fonksiyon", "Önkolu pronasyona getirir; derin lifleri radius ile ulnayı bir arada tutar"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Brachioradialis muscle": {
+    "tr": "Brakiyoradyal kas (m. brachioradialis)",
+    "ozet": "Önkolun dış kenarını oluşturan yüzeyel kas; arka (ekstansör) kompartmanda olmasına ve radyal sinirle uyarılmasına karşın dirseği büker.",
+    "bilgi": [
+      ["Origo", "Humerusun lateral suprakondiler kenarının üst üçte ikisi"],
+      ["İnsersiyo", "Radius alt ucunun dış yüzü, stiloid çıkıntının üstü"],
+      ["İnnervasyon", "Radyal sinir (C5–C6)"],
+      ["Kanlanma", "Radyal rekürren arter"],
+      ["Fonksiyon", "Dirseği, özellikle önkol yarı pronasyondayken büker (bardak tutma, çekiç vurma); önkolu orta konuma getirir"]
+    ],
+    "klinik": "Brakiyoradyal refleks C6 segmentini test eder. Radyal arter önkolun üst bölümünde bu kasın altında seyreder.",
+    "durum": "taslak"
+  },
+
+  "Extensor carpi radialis longus": {
+    "tr": "Uzun radyal el bileği açıcı kası (m. extensor carpi radialis longus)",
+    "ozet": "Brakiyoradyalin hemen altında başlayan, el bileğini açan ve başparmak tarafına eğen kas.",
+    "bilgi": [
+      ["Origo", "Lateral suprakondiler kenarın alt üçte biri"],
+      ["İnsersiyo", "2. metakarp tabanının sırt yüzü"],
+      ["İnnervasyon", "Radyal sinir (C6–C7)"],
+      ["Fonksiyon", "El bileğini ekstansiyona ve radyal deviasyona getirir; yumruk yaparken bileği sabitler"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Extensor carpi radialis brevis": {
+    "tr": "Kısa radyal el bileği açıcı kası (m. extensor carpi radialis brevis)",
+    "ozet": "Lateral epikondilden başlayan, el bileğini açan kas; tenisçi dirseğinde en sık etkilenen yapıdır.",
+    "bilgi": [
+      ["Origo", "Lateral epikondil (ortak ekstansör başlangıcı)"],
+      ["İnsersiyo", "3. metakarp tabanının sırt yüzü"],
+      ["İnnervasyon", "Radyal sinirin derin dalı (C7–C8)"],
+      ["Fonksiyon", "El bileğini ekstansiyona ve radyal deviasyona getirir"]
+    ],
+    "klinik": "Lateral epikondilit (tenisçi dirseği) başlıca bu kasın başlangıç tendonunun aşırı kullanıma bağlı dejenerasyonudur; bilek dirençli ekstansiyonunda dirsek dışında ağrı olur.",
+    "durum": "taslak"
+  },
+
+  "Extensor digitorum": {
+    "tr": "Parmak açıcı kas (m. extensor digitorum)",
+    "ozet": "Önkol arka yüzünün ana yüzeyel kası; dört tendonu parmakların ekstansör kaputlarına uzanır ve tendonlar arası bağlantılarla (juncturae tendinum) birbirine bağlanır.",
+    "bilgi": [
+      ["Origo", "Lateral epikondil (ortak ekstansör başlangıcı)"],
+      ["İnsersiyo", "2.–5. parmakların ekstansör kaputları (orta ve distal falankslar)"],
+      ["İnnervasyon", "Arka interosseöz sinir (C7–C8)"],
+      ["Fonksiyon", "2.–5. parmakları MKF eklemlerinde açar; lumbrikal ve interosseöz kaslarla birlikte İF eklemlerini açar; el bileği ekstansiyonuna yardım eder"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Extensor digiti minimi": {
+    "tr": "Serçe parmak açıcı kası (m. extensor digiti minimi)",
+    "ozet": "Parmak açıcı kasın iç yanından ayrılan ince kas.",
+    "bilgi": [
+      ["Origo", "Lateral epikondil"],
+      ["İnsersiyo", "5. parmağın ekstansör kaputu"],
+      ["İnnervasyon", "Arka interosseöz sinir (C7–C8)"],
+      ["Fonksiyon", "Serçe parmağı MKF ve İF eklemlerinde açar"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Extensor carpi ulnaris": {
+    "tr": "Ulnar el bileği açıcı kası (m. extensor carpi ulnaris)",
+    "ozet": "Önkol arka yüzünün iç kenarındaki yüzeyel kas; el bileğini açar ve serçe parmak tarafına eğer.",
+    "bilgi": [
+      ["Origo", "Humeral baş: lateral epikondil; ulnar baş: ulnanın arka kenarı"],
+      ["İnsersiyo", "5. metakarp tabanının sırt yüzü"],
+      ["İnnervasyon", "Arka interosseöz sinir (C7–C8)"],
+      ["Fonksiyon", "El bileğini ekstansiyona ve ulnar deviasyona getirir"]
+    ],
+    "klinik": "Tendonunun ulna başı üzerindeki oluktan kayması (ECU subluksasyonu) raket sporlarında bilek iç tarafında ağrı ve tıklama yapar.",
+    "durum": "taslak"
+  },
+
+  "Supinator": {
+    "tr": "Supinatör kas (m. supinator)",
+    "ozet": "Radiusun üst üçte birini saran derin önkol kası; radyal sinirin derin dalı iki tabakası arasından geçer.",
+    "bilgi": [
+      ["Origo", "Lateral epikondil, radyal kollateral ve anüler bağlar, ulnanın supinatör çukuru ve kristası"],
+      ["İnsersiyo", "Radiusun üst üçte birinin dış, arka ve ön yüzleri"],
+      ["İnnervasyon", "Radyal sinirin derin dalı (C7–C8)"],
+      ["Fonksiyon", "Önkolu supinasyona getirir (dirsek düzken tek başına; hızlı ve güçlü supinasyonda biseps yardım eder)"]
+    ],
+    "klinik": "Arka interosseöz sinir kasın üst kenarındaki lifli kemerde (Frohse arkadı) sıkışabilir: el bileği düşüklüğü olmadan parmak düşüklüğü gelişir.",
+    "durum": "taslak"
+  },
+
+  "Abductor pollicis longus": {
+    "tr": "Başparmağın uzun uzaklaştırıcı kası (m. abductor pollicis longus)",
+    "ozet": "Önkolun derin arka kasları arasında, başparmağı uzaklaştıran kas; kısa açıcıyla birlikte anatomik enfiye çukurunun ön sınırını yapar.",
+    "bilgi": [
+      ["Origo", "Ulna, radius ve interosseöz zarın arka yüzlerinin üst yarısı"],
+      ["İnsersiyo", "1. metakarp tabanının dış yüzü"],
+      ["İnnervasyon", "Arka interosseöz sinir (C7–C8)"],
+      ["Fonksiyon", "Başparmağı abdüksiyona getirir ve karpometakarpal eklemde açar"]
+    ],
+    "klinik": "De Quervain tenosinoviti bu kas ile kısa başparmak açıcısının birinci sırt kompartmanındaki ortak kılıfının iltihabıdır (yeni annelerde sık); Finkelstein testi pozitiftir.",
+    "durum": "taslak"
+  },
+
+  "Extensor pollicis brevis": {
+    "tr": "Başparmağın kısa açıcı kası (m. extensor pollicis brevis)",
+    "ozet": "Başparmağın proksimal falanksını açan derin önkol kası.",
+    "bilgi": [
+      ["Origo", "Radiusun alt üçte birinin arka yüzü ve interosseöz zar"],
+      ["İnsersiyo", "Başparmak proksimal falanks tabanının sırt yüzü"],
+      ["İnnervasyon", "Arka interosseöz sinir (C7–C8)"],
+      ["Fonksiyon", "Başparmağı MKF ve karpometakarpal eklemlerde açar"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Extensor pollicis longus": {
+    "tr": "Başparmağın uzun açıcı kası (m. extensor pollicis longus)",
+    "ozet": "Tendonu radiusun sırt tüberkülü (Lister) etrafında dönerek başparmağın uç falanksına ulaşan kas; anatomik enfiye çukurunun arka sınırıdır.",
+    "bilgi": [
+      ["Origo", "Ulnanın orta üçte birinin arka yüzü ve interosseöz zar"],
+      ["İnsersiyo", "Başparmak distal falanks tabanının sırt yüzü"],
+      ["İnnervasyon", "Arka interosseöz sinir (C7–C8)"],
+      ["Fonksiyon", "Başparmağın uç falanksını interfalangeal eklemde açar; MKF ve KMK eklemlerinin ekstansiyonuna yardım eder"]
+    ],
+    "klinik": "Distal radius kırıklarından haftalar sonra tendon Lister tüberkülü üzerinde sürtünerek kopabilir ('davulcu başparmağı').",
+    "durum": "taslak"
+  },
+
+  "Extensor indicis": {
+    "tr": "İşaret parmağı açıcı kası (m. extensor indicis)",
+    "ozet": "İşaret parmağının bağımsız olarak açılmasını (işaret etme) sağlayan derin önkol kası.",
+    "bilgi": [
+      ["Origo", "Ulnanın alt üçte birinin arka yüzü ve interosseöz zar"],
+      ["İnsersiyo", "2. parmağın ekstansör kaputu"],
+      ["İnnervasyon", "Arka interosseöz sinir (C7–C8)"],
+      ["Fonksiyon", "İşaret parmağını bağımsız olarak açar; el bileği ekstansiyonuna yardım eder"]
+    ],
+    "klinik": "Başparmak açıcı tendon kopmalarında tendon transferi kaynağı olarak kullanılır.",
+    "durum": "taslak"
+  },
+
+  "Abductor pollicis brevis": {
+    "tr": "Başparmağın kısa uzaklaştırıcı kası (m. abductor pollicis brevis)",
+    "ozet": "Tenar kabartının en yüzeyel kası; başparmağı avuç düzlemine dik olarak uzaklaştırır.",
+    "bilgi": [
+      ["Origo", "Fleksör retinakulum, skafoid ve trapezium tüberkülleri"],
+      ["İnsersiyo", "Başparmak proksimal falanks tabanının dış yanı"],
+      ["İnnervasyon", "Median sinirin rekürren (motor) dalı (C8–T1)"],
+      ["Fonksiyon", "Başparmağı abdüksiyona getirir; karşı koyma hareketine yardım eder"]
+    ],
+    "klinik": "Karpal tünel sendromunda tenar atrofi ve başparmak abdüksiyon güçsüzlüğü gelişir; bu kas muayenede ilk test edilendir. Rekürren dal yüzeysel kesilerde kolayca yaralanabilir.",
+    "durum": "taslak"
+  },
+
+  "Flexor pollicis brevis": {
+    "tr": "Başparmağın kısa bükücü kası (m. flexor pollicis brevis)",
+    "ozet": "Tenar kabartıdaki iki başlı kas; yüzeyel başı median, derin başı ulnar sinirle uyarılır.",
+    "bilgi": [
+      ["Origo", "Yüzeyel baş: fleksör retinakulum ve trapezium; derin baş: trapezoid ve kapitatum"],
+      ["İnsersiyo", "Başparmak proksimal falanks tabanının dış yanı (dış sesamoid kemik yoluyla)"],
+      ["İnnervasyon", "Yüzeyel baş: median sinirin rekürren dalı; derin baş: ulnar sinirin derin dalı (C8–T1)"],
+      ["Fonksiyon", "Başparmağı MKF (ve KMK) ekleminde büker"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Opponens pollicis muscle": {
+    "tr": "Başparmak karşılayıcı kası (m. opponens pollicis)",
+    "ozet": "Tenar kasların en derini; başparmağın diğer parmaklarla karşı karşıya gelmesini (opozisyon) sağlar — insan elinin kavrama becerisinin temelidir.",
+    "bilgi": [
+      ["Origo", "Fleksör retinakulum ve trapezium tüberkülü"],
+      ["İnsersiyo", "1. metakarpın dış kenarı"],
+      ["İnnervasyon", "Median sinirin rekürren dalı (C8–T1)"],
+      ["Fonksiyon", "1. metakarpı avuç ortasına doğru çeker ve içe döndürür (opozisyon)"]
+    ],
+    "klinik": "Median sinir hasarında opozisyon kaybolur ve başparmak diğer parmaklarla aynı düzlemde kalır ('maymun eli').",
+    "durum": "taslak"
+  },
+
+  "Adductor pollicis": {
+    "tr": "Başparmak yaklaştırıcı kası (m. adductor pollicis)",
+    "ozet": "Avucun derininde yer alan iki başlı (eğik ve enine) yelpaze kas; kavrama gücünün önemli bileşenidir.",
+    "bilgi": [
+      ["Origo", "Eğik baş: 2. ve 3. metakarp tabanları, kapitatum ve komşu karpal kemikler; enine baş: 3. metakarp gövdesinin ön yüzü"],
+      ["İnsersiyo", "Başparmak proksimal falanks tabanının iç yanı (iç sesamoid kemik yoluyla)"],
+      ["İnnervasyon", "Ulnar sinirin derin dalı (C8–T1)"],
+      ["Fonksiyon", "Başparmağı avucun dış kenarına doğru yaklaştırır (addüksiyon); anahtar tutma kavrayışında güç sağlar"]
+    ],
+    "klinik": "Ulnar sinir felcinde hasta iki parmak arasında kâğıt tutarken başparmak ucunu büker (Froment belirtisi): güçsüz addüktörün yerini median sinirli uzun başparmak bükücüsü alır.",
+    "durum": "taslak"
+  },
+
+  "Abductor digiti minimi of hand": {
+    "tr": "Serçe parmak uzaklaştırıcı kası (el)",
+    "ozet": "Hipotenar kabartının en yüzeyel ve iç yandaki kası.",
+    "bilgi": [
+      ["Origo", "Pisiform kemik"],
+      ["İnsersiyo", "5. parmak proksimal falanks tabanının iç yanı"],
+      ["İnnervasyon", "Ulnar sinirin derin dalı (C8–T1)"],
+      ["Fonksiyon", "Serçe parmağı abdüksiyona getirir; MKF fleksiyonuna yardım eder"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Flexor digiti minimi of hand": {
+    "tr": "Serçe parmağın kısa bükücü kası (el)",
+    "ozet": "Hipotenar kabartıda, uzaklaştırıcının dış yanında yer alan kas.",
+    "bilgi": [
+      ["Origo", "Hamatum çengeli ve fleksör retinakulum"],
+      ["İnsersiyo", "5. parmak proksimal falanks tabanının iç yanı"],
+      ["İnnervasyon", "Ulnar sinirin derin dalı (C8–T1)"],
+      ["Fonksiyon", "Serçe parmağın proksimal falanksını büker"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Opponens digiti minimi muscle of hand": {
+    "tr": "Serçe parmak karşılayıcı kası (el)",
+    "ozet": "Hipotenar kasların en derini; serçe parmağı başparmakla karşılaştırır.",
+    "bilgi": [
+      ["Origo", "Hamatum çengeli ve fleksör retinakulum"],
+      ["İnsersiyo", "5. metakarpın iç kenarı"],
+      ["İnnervasyon", "Ulnar sinirin derin dalı (C8–T1)"],
+      ["Fonksiyon", "5. metakarpı öne çeker ve döndürür; avucu çukurlaştırır"]
+    ],
+    "durum": "taslak"
+  },
+
+  "Lumbrical muscles of hand": {
+    "tr": "Lumbrikal kaslar (el)",
+    "ozet": "Derin parmak bükücü tendonlarından başlayan dört solucan biçimli küçük kas; parmakların MKF eklemlerini bükerken İF eklemlerini açar ('masa üstü' pozisyonu).",
+    "bilgi": [
+      ["Origo", "1.–2. lumbrikaller: 1. ve 2. derin bükücü tendonlarının dış yanı (tek tüylü); 3.–4. lumbrikaller: 2.–4. tendonların komşu yanları (çift tüylü)"],
+      ["İnsersiyo", "2.–5. parmakların ekstansör kaputlarının dış yanı"],
+      ["İnnervasyon", "1.–2. lumbrikaller: median sinir; 3.–4. lumbrikaller: ulnar sinirin derin dalı (C8–T1)"],
+      ["Fonksiyon", "MKF eklemlerini büker, İF eklemlerini açar"]
+    ],
+    "klinik": "Ulnar sinir felcinde 3.–4. lumbrikallerin kaybı 4. ve 5. parmaklarda pençeleşmeye (ulnar pençe el) yol açar.",
+    "durum": "taslak"
+  },
+
+  "Dorsal interossei muscles of hand": {
+    "tr": "Sırt interosseöz kasları (el)",
+    "ozet": "Metakarplar arasındaki dört çift tüylü kas; parmakları orta parmak ekseninden uzaklaştırır (DAB: Dorsal ABdüksiyon).",
+    "bilgi": [
+      ["Origo", "Komşu iki metakarpın karşılıklı yüzleri"],
+      ["İnsersiyo", "2.–4. parmakların proksimal falanks tabanları ve ekstansör kaputları"],
+      ["İnnervasyon", "Ulnar sinirin derin dalı (C8–T1)"],
+      ["Fonksiyon", "Parmakları abdüksiyona getirir; lumbrikallerle MKF fleksiyonu ve İF ekstansiyonuna yardım eder"]
+    ],
+    "klinik": "Ulnar sinir hasarında birinci sırt interosseöz kasın erimesiyle başparmak ile işaret parmağı arasında belirgin çukurluk oluşur.",
+    "durum": "taslak"
+  },
+
+  "Palmar interossei muscles": {
+    "tr": "Avuç interosseöz kasları",
+    "ozet": "Üç tek tüylü kas; 2., 4. ve 5. parmakları orta parmak eksenine yaklaştırır (PAD: Palmar ADdüksiyon).",
+    "bilgi": [
+      ["Origo", "2., 4. ve 5. metakarpların avuç yüzleri"],
+      ["İnsersiyo", "2., 4. ve 5. parmakların proksimal falanks tabanları ve ekstansör kaputları"],
+      ["İnnervasyon", "Ulnar sinirin derin dalı (C8–T1)"],
+      ["Fonksiyon", "Parmakları addüksiyona getirir; MKF fleksiyonu ve İF ekstansiyonuna yardım eder"]
+    ],
+    "klinik": "Parmaklar arasında kâğıt tutma testi ulnar sinir fonksiyonunu değerlendirir.",
+    "durum": "taslak"
+  }
+}

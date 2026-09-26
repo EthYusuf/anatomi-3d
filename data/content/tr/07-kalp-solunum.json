@@ -1,0 +1,258 @@
+{
+  "_aciklama": "Kalp (odacıklar, kapaklar, papiller kaslar) ve solunum sistemi (burun mukozası, epiglot, trakea, bronş ağacı, akciğerler)",
+
+  "Heart": {
+    "grup": true,
+    "tr": "Kalp (cor)",
+    "ozet": "Kanı vücuda ve akciğerlere pompalayan, dört odacıklı kas organı. Orta mediastende, perikard kesesi içinde, üçte ikisi orta hattın solunda yer alır; yaklaşık yumruk büyüklüğündedir.",
+    "bilgi": [
+      ["Ağırlık", "Yetişkinde yaklaşık 250–350 g"],
+      ["Odacıklar", "Sağ ve sol kulakçık (atrium), sağ ve sol karıncık (ventrikül)"],
+      ["Duvar katmanları", "Epikard (visseral perikard), miyokard, endokard"],
+      ["İleti sistemi", "Sinoatriyal düğüm → atriyoventriküler düğüm → His demeti → sağ ve sol dallar → Purkinje lifleri"],
+      ["Kanlanma", "Sağ ve sol koroner arterler (sol ana koroner → sol ön inen ve sirkumfleks arterler); venöz dönüş koroner sinüs yoluyla sağ kulakçığa"],
+      ["İnnervasyon", "Sempatik (kalp hızı ve kasılma gücünü artırır) ve vagus (parasempatik; kalp hızını azaltır) — kardiyak pleksus"],
+      ["Değerler", "İstirahatte dakikada 60–100 atım; kalp debisi ~5 L/dk"]
+    ],
+    "bolumler": [
+      { "baslik": "Kan akışı", "metin": "Vücuttan dönen oksijeni azalmış kan üst ve alt vena kavalarla sağ kulakçığa, triküspit kapaktan sağ karıncığa, pulmoner kapaktan pulmoner gövdeye ve akciğerlere gider. Akciğerlerde oksijenlenen kan pulmoner venlerle sol kulakçığa, mitral kapaktan sol karıncığa ve aort kapağından aorta pompalanır." },
+      { "baslik": "Oskültasyon odakları", "metin": "Aort: sağ 2. interkostal aralık, sternum kenarı. Pulmoner: sol 2. interkostal aralık. Triküspit: sol 4.–5. interkostal aralık, sternum kenarı. Mitral: sol 5. interkostal aralık, orta klavikular hat (apeks)." }
+    ],
+    "klinik": "Koroner arter hastalığı dünyada önde gelen ölüm nedenidir; koroner arterin tıkanması miyokard enfarktüsüne yol açar. Kalp yetersizliği, ritim bozuklukları (atriyal fibrilasyon) ve kapak hastalıkları diğer sık sorunlardır.",
+    "durum": "taslak"
+  },
+
+  "Right atrium": {
+    "tr": "Sağ kulakçık (atrium dextrum)",
+    "ozet": "Vücuttan ve kalbin kendisinden dönen venöz kanı toplayan odacık; kalbin doğal ritim merkezi (sinüs düğümü) bu odacığın duvarındadır.",
+    "bilgi": [
+      ["Gelen damarlar", "Üst vena kava, alt vena kava, koroner sinüs"],
+      ["İç yapılar", "Sağ kulakçık eki (auricula), crista terminalis, pektinat kaslar, fossa ovalis (fetal foramen ovale kalıntısı), Koch üçgeni"],
+      ["İleti sistemi", "Sinoatriyal düğüm: üst vena kava girişine yakın, crista terminalis'in üst ucu; atriyoventriküler düğüm: Koch üçgeninde"],
+      ["Çıkış", "Triküspit kapak yoluyla sağ karıncığa"]
+    ],
+    "klinik": "Atriyal septal defekt ve açık foramen ovale (erişkinlerin yaklaşık dörtte birinde) venöz pıhtıların sol dolaşıma geçmesine (paradoks emboli) izin verebilir. Atriyal flutter devresi genellikle triküspit halkası çevresindedir ve kavotriküspit istmus ablasyonuyla tedavi edilir.",
+    "durum": "taslak"
+  },
+
+  "Right ventricle": {
+    "tr": "Sağ karıncık (ventriculus dexter)",
+    "ozet": "Kanı düşük basınçla akciğerlere pompalayan odacık; kalbin ön (sternokostal) yüzünün büyük bölümünü oluşturur.",
+    "bilgi": [
+      ["Duvar kalınlığı", "3–5 mm (sol karıncığın yaklaşık üçte biri)"],
+      ["İç yapılar", "Trabeküla karnea, supraventriküler krista, konus arteriozus (infundibulum), septomarjinal trabekül (moderatör bant)"],
+      ["Papiller kaslar", "Ön, arka (alt) ve septal — korda tendinealar yoluyla triküspit kapağa bağlanır"],
+      ["Çıkış", "Pulmoner kapak yoluyla pulmoner gövdeye"],
+      ["Moderatör bant", "Sağ dal iletim liflerini ön papiller kasa taşır"]
+    ],
+    "klinik": "Pulmoner hipertansiyon ve kronik akciğer hastalıkları sağ karıncıkta hipertrofi ve yetersizliğe (kor pulmonale) yol açar. Alt duvar enfarktüslerine sağ karıncık tutulumu eşlik edebilir (sağ koroner arter).",
+    "durum": "taslak"
+  },
+
+  "Left atrium": {
+    "tr": "Sol kulakçık (atrium sinistrum)",
+    "ozet": "Akciğerlerden gelen oksijenli kanı dört pulmoner venle alan, kalbin tabanının (arka yüzünün) büyük bölümünü oluşturan odacık.",
+    "bilgi": [
+      ["Gelen damarlar", "Dört pulmoner ven"],
+      ["İç yapılar", "Büyük ölçüde düz duvar; pektinat kaslı sol kulakçık eki (apendiks)"],
+      ["Çıkış", "Mitral kapak yoluyla sol karıncığa"],
+      ["Komşuluk", "Arkasında yemek borusu bulunur (transözofageal ekokardiyografi bu yakınlıktan yararlanır)"]
+    ],
+    "klinik": "Atriyal fibrilasyonda pıhtılar en sık sol kulakçık ekinde oluşur ve inmeye yol açabilir; antikoagülasyon veya ek kapatma işlemi uygulanır. Pulmoner ven izolasyonu atriyal fibrilasyonun ablasyon tedavisidir. Mitral darlıkta genişleyen sol kulakçık yemek borusuna bası yapabilir.",
+    "durum": "taslak"
+  },
+
+  "Left ventricle": {
+    "tr": "Sol karıncık (ventriculus sinister)",
+    "ozet": "Kanı yüksek basınçla aort yoluyla tüm vücuda pompalayan, kalbin en güçlü odacığı; kalp tepesini (apeks) oluşturur.",
+    "bilgi": [
+      ["Duvar kalınlığı", "10–15 mm (sağ karıncığın 2–3 katı)"],
+      ["İç yapılar", "İnce trabeküla karnea, aort vestibülü"],
+      ["Papiller kaslar", "Ön (anterolateral) ve arka (posteromedial) — mitral kapak yaprakçıklarına korda tendinealarla bağlanır"],
+      ["Çıkış", "Aort kapağı yoluyla aorta"],
+      ["Basınç", "Sistolde ~120 mmHg"]
+    ],
+    "klinik": "Miyokard enfarktüsü en sık sol karıncığı etkiler (sol ön inen arter: ön duvar ve apeks). Hipertansiyon ve aort darlığı sol karıncık hipertrofisine yol açar. Ejeksiyon fraksiyonu (normalde ≥%55) sol karıncığın pompa gücünün temel ölçüsüdür.",
+    "durum": "taslak"
+  },
+
+  "Papillary muscles": {
+    "tr": "Papiller kaslar (mm. papillares)",
+    "ozet": "Karıncık duvarından koni biçiminde yükselen, korda tendinealar ile atriyoventriküler kapak yaprakçıklarına bağlanan kaslar; sistolde kasılarak yaprakçıkların kulakçığa doğru dönmesini (prolapsus) önler.",
+    "bilgi": [
+      ["Sağ karıncık", "Ön, arka (alt) ve septal papiller kaslar — triküspit kapak"],
+      ["Sol karıncık", "Ön ve arka papiller kaslar — mitral kapak"]
+    ],
+    "klinik": "Enfarktüs sonrası papiller kas yırtılması (çoğunlukla tek arterden beslenen sol arka papiller kas) ani ağır mitral yetersizliği ve akciğer ödemine yol açar; acil cerrahi gerektirir.",
+    "durum": "taslak"
+  },
+
+  "Right atrioventricular valve": {
+    "grup": true,
+    "tr": "Triküspit kapak (sağ atriyoventriküler kapak)",
+    "ozet": "Sağ kulakçık ile sağ karıncık arasındaki üç yaprakçıklı kapak; sistolde kapanarak kanın kulakçığa geri akmasını önler.",
+    "bilgi": [
+      ["Yaprakçıklar", "Ön, arka (alt) ve septal"],
+      ["Destek", "Korda tendinealar ve sağ karıncığın papiller kasları"],
+      ["Kapanma sesi", "Mitral kapakla birlikte birinci kalp sesini (S1) oluşturur"]
+    ],
+    "klinik": "Triküspit yetersizliği çoğunlukla pulmoner hipertansiyona ikincil (fonksiyonel) gelişir. Damar içi madde kullananlarda enfektif endokardit sıklıkla bu kapağı tutar. Ebstein anomalisinde septal ve arka yaprakçıklar karıncığa doğru yer değiştirmiştir.",
+    "durum": "taslak"
+  },
+
+  "Posterior leaflet of left atrioventricular valve": {
+    "tr": "Mitral kapağın arka yaprakçığı",
+    "ozet": "Mitral (sol atriyoventriküler) kapağın halkanın yaklaşık üçte ikisini saran, kısa ve geniş yaprakçığı; P1, P2, P3 olarak adlandırılan üç kıvrımdan (scallop) oluşur.",
+    "bilgi": [
+      ["Kapak", "Mitral kapak: ön ve arka olmak üzere iki yaprakçık"],
+      ["Destek", "Her iki papiller kastan gelen korda tendinealar"],
+      ["Oskültasyon", "Mitral odak: kalp tepesi (sol 5. interkostal aralık, orta klavikular hat)"]
+    ],
+    "klinik": "Mitral kapak prolapsusu en sık arka yaprakçığın orta kıvrımını (P2) tutar ve mitral yetersizliğine yol açar; tedavide kapak değişimi yerine onarım tercih edilir. Not: Kaynak modelde bu yapı yanlışlıkla triküspit kapak grubunda listelenmiştir.",
+    "durum": "taslak"
+  },
+
+  "Pulmonary valve": {
+    "grup": true,
+    "tr": "Pulmoner kapak (valva trunci pulmonalis)",
+    "ozet": "Sağ karıncık ile pulmoner gövde arasındaki üç yarımay (semilunar) yaprakçıklı kapak; diyastolde kapanarak kanın karıncığa geri dönmesini önler.",
+    "bilgi": [
+      ["Yaprakçıklar", "Ön, sağ ve sol yarımay yaprakçıkları"],
+      ["Özellik", "Korda tendinea ve papiller kas içermez"],
+      ["Kapanma sesi", "İkinci kalp sesinin pulmoner bileşeni (P2)"],
+      ["Oskültasyon", "Sol 2. interkostal aralık, sternum kenarı"]
+    ],
+    "klinik": "Pulmoner darlık çoğunlukla doğumsaldır ve Fallot tetralojisinin bileşenidir; balon valvüloplasti ile tedavi edilebilir.",
+    "durum": "taslak"
+  },
+
+  "Aortic valve": {
+    "grup": true,
+    "tr": "Aort kapağı (valva aortae)",
+    "ozet": "Sol karıncık ile aort arasındaki üç yarımay yaprakçıklı kapak; yaprakçıkların arkasındaki aort sinüslerinden koroner arterler çıkar.",
+    "bilgi": [
+      ["Yaprakçıklar", "Sağ koroner, sol koroner ve koroner olmayan (arka) yaprakçıklar"],
+      ["Koroner çıkışlar", "Sağ koroner arter sağ, sol ana koroner arter sol aort sinüsünden (Valsalva) çıkar"],
+      ["Kapanma sesi", "İkinci kalp sesinin aort bileşeni (A2)"],
+      ["Oskültasyon", "Sağ 2. interkostal aralık, sternum kenarı"]
+    ],
+    "klinik": "Yaşlılarda dejeneratif kalsifik aort darlığı sıktır: bayılma, göğüs ağrısı ve kalp yetersizliği gelişir; cerrahi ya da kateterle kapak yerleştirme (TAVİ) uygulanır. Nüfusun %1–2'sinde doğuştan iki yaprakçıklı (biküspit) aort kapağı bulunur ve erken darlığa yatkındır.",
+    "durum": "taslak"
+  },
+
+  "Mucosa of nasal cavity": {
+    "tr": "Burun boşluğu mukozası",
+    "ozet": "Burun boşluğunu döşeyen, solunan havayı ısıtan, nemlendiren ve süzen mukoza; tavan bölümünde koku reseptörlerini içerir.",
+    "bilgi": [
+      ["Solunum bölgesi", "Goblet hücreli, silyalı yalancı çok katlı prizmatik epitel; zengin venöz pleksuslar (konkalar)"],
+      ["Koku bölgesi", "Burun tavanı ve üst konka; koku reseptör nöronları (CN I)"],
+      ["Kiesselbach bölgesi", "Septumun ön-alt bölümünde ön etmoidal, sfenopalatin, büyük palatin ve üst dudak arterlerinin anastomozu"]
+    ],
+    "klinik": "Burun kanamalarının yaklaşık %90'ı Kiesselbach bölgesinden kaynaklanır. Rinit, sinüzit ve nazal polipler mukozanın sık hastalıklarıdır. Konkalar arasında dönüşümlü tıkanıklık (nazal siklus) normaldir.",
+    "durum": "taslak"
+  },
+
+  "Epiglottis": {
+    "tr": "Epiglot (gırtlak kapağı)",
+    "ozet": "Dil kökünün arkasında yaprak biçimli elastik kıkırdak yapı; yutkunma sırasında gırtlak girişinin üzerine eğilerek besinlerin soluk yoluna kaçmasını önlemeye yardım eder.",
+    "bilgi": [
+      ["Doku", "Elastik kıkırdak, mukozayla örtülü"],
+      ["Bağlantı", "Tiroepiglottik bağ ile tiroid kıkırdağa; önünde dil kökü ile arasında valleküller"],
+      ["Duyu", "Vagusun iç laringeal dalı"]
+    ],
+    "klinik": "Epiglotit (çocuklarda Hib, erişkinlerde çeşitli bakteriler) salya akması, stridor ve hızla ilerleyen hava yolu tıkanması yapan acil bir durumdur. Entübasyonda Macintosh bıçağı vallekülaya yerleştirilerek epiglot dolaylı olarak kaldırılır.",
+    "durum": "taslak"
+  },
+
+  "Trachea": {
+    "tr": "Soluk borusu (trakea)",
+    "ozet": "Gırtlaktan (C6) göğüs içindeki çatallanmaya (karina, T4–T5) uzanan, arkası açık C biçimli kıkırdak halkalarla desteklenen hava yolu.",
+    "bilgi": [
+      ["Uzunluk", "~10–12 cm; çapı ~2 cm"],
+      ["Kıkırdaklar", "16–20 adet C biçimli hiyalin kıkırdak; arkadaki açıklığı trakealis kası kapatır"],
+      ["Epitel", "Silyalı yalancı çok katlı prizmatik epitel (mukosiliyer temizlik)"],
+      ["Kanlanma", "Alt tiroid ve bronşiyal arterler"],
+      ["İnnervasyon", "Vagus (rekürren laringeal sinir) ve sempatik lifler"],
+      ["Karina", "Sternal açı (Louis açısı) hizasında ana bronşlara ayrılır; öksürük refleksi için çok duyarlıdır"]
+    ],
+    "klinik": "Trakeostomi genellikle 2.–4. kıkırdak halkalar arasından açılır. Gerilim pnömotoraksında trakea karşı tarafa itilir. Yabancı cisimler çoğunlukla sağ ana bronşa kaçar.",
+    "durum": "taslak"
+  },
+
+  "Right main bronchus": {
+    "tr": "Sağ ana bronş",
+    "ozet": "Soldakine göre daha geniş, daha kısa ve daha dik seyirli ana bronş; üst lob bronşunu verdikten sonra ara bronş olarak devam eder.",
+    "bilgi": [
+      ["Uzunluk", "~2,5 cm"],
+      ["Açı", "Trakeanın uzantısına yakın, ~25° dikeyle"],
+      ["Dallar", "Sağ üst lob bronşu (hilusa girmeden, arterin üstünden — eparteriyel), ara bronş"]
+    ],
+    "klinik": "Aspire edilen yabancı cisimler ve entübasyon tüpünün fazla ilerletilmesi en sık sağ ana bronşa yönelir; tüp sağ ana bronşa girerse sol akciğer havalanmaz.",
+    "durum": "taslak"
+  },
+
+  "Left main bronchus": {
+    "tr": "Sol ana bronş",
+    "ozet": "Aort kavsinin altından geçen, sağdakine göre daha uzun, dar ve yatay seyirli ana bronş.",
+    "bilgi": [
+      ["Uzunluk", "~5 cm"],
+      ["Komşuluk", "Aort kavsinin altında, yemek borusu ve inen aortun önünde"],
+      ["Dallar", "Sol üst lob (lingula dahil) ve sol alt lob bronşları"]
+    ],
+    "klinik": "Genişlemiş sol kulakçık veya aort anevrizması sol ana bronşa bası yapabilir.",
+    "durum": "taslak"
+  },
+
+  "Intermediate bronchus": {
+    "tr": "Ara bronş (bronchus intermedius)",
+    "ozet": "Sağ ana bronşun, üst lob bronşunun çıkışı ile orta ve alt lob bronşlarına ayrılması arasındaki kısa bölümü.",
+    "bilgi": [
+      ["Uzunluk", "~2–3 cm"],
+      ["Dallar", "Orta lob bronşu ve sağ alt lob bronşu"]
+    ],
+    "klinik": "Bronkoskopide önemli bir yer işaretidir; tümör veya yabancı cisim tıkanıklığı hem orta hem alt lobun havalanmasını bozar.",
+    "durum": "taslak"
+  },
+
+  "Lobar bronchi": {
+    "tr": "Lob bronşları (ikincil bronşlar)",
+    "ozet": "Ana bronşlardan ayrılarak her biri bir akciğer lobunu havalandıran bronşlar: sağda üç (üst, orta, alt), solda iki (üst — lingula dahil — ve alt).",
+    "bilgi": [
+      ["Sağ akciğer", "Üst, orta ve alt lob bronşları"],
+      ["Sol akciğer", "Üst ve alt lob bronşları; üst lob bronşu lingula dallarını da verir"],
+      ["Duvar yapısı", "Düzensiz kıkırdak plakları, düz kas, silyalı epitel"]
+    ],
+    "klinik": "Lob bronşunun tıkanması (tümör, mukus tıkacı) o lobun sönmesine (atelektazi) yol açar; akciğer kanseri cerrahisinde en sık yapılan rezeksiyon lobektomidir.",
+    "durum": "taslak"
+  },
+
+  "Segmental bronchi": {
+    "tr": "Segment bronşları (üçüncül bronşlar)",
+    "ozet": "Lob bronşlarından ayrılarak her biri bir bronkopulmoner segmenti havalandıran bronşlar. Her segment kendi bronşu ve pulmoner arter dalına sahip, işlevsel olarak bağımsız, piramit biçimli bir akciğer birimidir.",
+    "bilgi": [
+      ["Sayı", "Sağ akciğerde 10, sol akciğerde 8–10 segment (solda apikoposterior ve anteromedial bazal segmentler çoğunlukla birleşiktir)"],
+      ["Adlandırma", "B I – B X (ör. B VI: alt lobun üst segmenti)"],
+      ["Sınırlar", "Segmentler arası venler segment sınırlarında seyreder"]
+    ],
+    "klinik": "Bronkopulmoner segmentlerin bağımsızlığı cerrahide yalnız hastalıklı segmentin çıkarılmasına (segmentektomi) olanak verir. Sırtüstü yatan hastada aspirasyon en sık alt lobun üst segmentine (B VI) ve üst lobun arka segmentine (B II), çoğunlukla sağda olur.",
+    "durum": "taslak"
+  },
+
+  "Lungs": {
+    "tr": "Akciğerler (pulmones)",
+    "ozet": "Göğüs boşluğunda kalbin iki yanında yer alan, kan ile hava arasında gaz alışverişini sağlayan süngerimsi organlar. Sağ akciğer üç, sol akciğer iki lobludur.",
+    "bilgi": [
+      ["Loblar", "Sağ: üst, orta, alt (yatay ve eğik fissürler); sol: üst (lingula dahil) ve alt (eğik fissür); solda kalp çentiği (incisura cardiaca)"],
+      ["Boyut", "Sağ akciğer daha büyük (kapasitenin ~%55'i), karaciğer nedeniyle daha kısa ve geniştir"],
+      ["Alveoller", "~300–500 milyon alveol, ~70 m² gaz değişim yüzeyi"],
+      ["Hilus yapıları", "Ana bronş, pulmoner arter, pulmoner venler, bronşiyal damarlar, lenf damarları, pulmoner pleksus"],
+      ["Kanlanma", "İşlevsel: pulmoner arterler; besleyici: bronşiyal arterler"],
+      ["İnnervasyon", "Pulmoner pleksus: vagus (bronkokonstriksiyon, salgı) ve sempatik lifler (bronkodilatasyon)"]
+    ],
+    "bolumler": [
+      { "baslik": "Yüzey işaretleri", "metin": "Yatay fissür sağda önde 4. kaburga boyunca uzanır. Eğik fissür arkada T3–T4 diken çıkıntısı hizasından başlar ve önde 6. kaburga kıkırdağına iner. Akciğer alt sınırı orta klavikular hatta 6., orta aksiller hatta 8., paravertebral hatta 10. kaburga düzeyindedir (plevra iki kaburga aşağıdadır)." }
+    ],
+    "klinik": "Akciğer kanseri kansere bağlı ölümlerin en sık nedenidir (sigara). KOAH, astım, pnömoni, pulmoner emboli ve pnömotoraks diğer önemli hastalıklardır.",
+    "durum": "taslak"
+  }
+}
